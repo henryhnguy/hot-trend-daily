@@ -1,0 +1,47 @@
+name: hot-trend-daily
+
+on:
+  schedule:
+    # 13:00 UTC = 20:00 giờ Việt Nam (UTC+7). Lưu ý: Actions có thể trễ vài phút.
+    - cron: '0 13 * * *'
+  workflow_dispatch: {}   # cho phép chạy tay từ tab Actions
+
+permissions:
+  contents: write          # cần để commit outputs vào repo
+
+concurrency:
+  group: hot-trend-daily
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci || npm install
+
+      - name: Chạy pipeline (collect → LLM → ảnh → email)
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_FROM_NAME: ${{ secrets.EMAIL_FROM_NAME }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        run: node scripts/run.cjs
+
+      - name: Lưu kết quả vào repo (archive)
+        run: |
+          git config user.name "trend-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add outputs/
+          git diff --cached --quiet || git commit -m "daily output $(TZ=Asia/Ho_Chi_Minh date +%F)"
+          git push
