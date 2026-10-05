@@ -71,7 +71,7 @@ async function callLLM() {
     body: JSON.stringify({
       model: LLM_MODEL,
       temperature: 0.6,
-      max_tokens: 6000,
+      max_tokens: 16000,
       messages: [{ role: 'system', content: SYSTEM }, { role: 'user', content: USER }],
     }),
     signal: AbortSignal.timeout(180000),
