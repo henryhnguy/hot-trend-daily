@@ -25,6 +25,9 @@ const date = process.argv[2] || new Date().toLocaleDateString('sv-SE', { timeZon
 const outDir = path.join(__dirname, '..', 'outputs', date);
 const collect = JSON.parse(fs.readFileSync(path.join(outDir, 'collect.json'), 'utf8'));
 
+const prefPath = path.join(__dirname, '..', 'preferences.md');
+const preferences = fs.existsSync(prefPath) ? fs.readFileSync(prefPath, 'utf8') : '';
+
 const SYSTEM = `Bạn là biên tập viên nội dung mạng xã hội Việt Nam cho một fanpage Facebook mảng "Tin nóng – xã hội".
 Nhiệm vụ: đọc dữ liệu trend/tin tức được cung cấp và trả về JSON đúng schema.
 
@@ -54,15 +57,15 @@ SCHEMA:
   "notes": "ghi chú cho người duyệt (nếu có)"
 }`;
 
-const USER = `Dữ liệu thu thập ngày ${collect.date} (giờ Việt Nam):
+const USER = `${preferences ? `## TIÊU CHÍ BIÊN TẬP CỦA PAGE (bắt buộc tuân theo khi chọn chủ đề và viết bài)\n${preferences}\n` : ''}Dữ liệu thu thập ngày ${collect.date} (giờ Việt Nam):
 
 ## GOOGLE TRENDS VN (top keywords + lưu lượng tìm kiếm)
 ${JSON.stringify(collect.trends, null, 1)}
 
 ## TIN TỨC MỚI NHẤT (RSS các báo: ${collect.news.length} bài)
-${JSON.stringify(collect.news.slice(0, 70), null, 1)}
+${JSON.stringify(collect.news.slice(0, 400), null, 1)}
 
-Trả về JSON theo schema ở trên. 3 topics chọn theo độ quan tâm tổng hợp (ưu tiên chủ đề xuất hiện ở nhiều nguồn + tín hiệu tăng trưởng rõ).`;
+Trả về JSON theo schema ở trên. 3 topics chọn theo độ quan tâm tổng hợp VÀ tuân thủ thứ hạng ưu tiên trong TIÊU CHÍ BIÊN TẬP (nếu có).`;
 
 async function callModel(model) {
   const res = await fetch(LLM_BASE_URL.replace(/\/$/, '') + '/chat/completions', {

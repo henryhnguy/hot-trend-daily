@@ -8,10 +8,11 @@ const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/
 const FEEDS = [
   { name: 'google-trends-vn', url: 'https://trends.google.com/trending/rss?geo=VN', kind: 'trends' },
   { name: 'vnexpress-moi-nhat', url: 'https://vnexpress.net/rss/tin-moi-nhat.rss', kind: 'news' },
+  { name: 'vnexpress-noi-bat', url: 'https://vnexpress.net/rss/tin-noi-bat.rss', kind: 'news' },
   { name: 'vnexpress-the-thao', url: 'https://vnexpress.net/rss/the-thao.rss', kind: 'news' },
+  { name: 'vnexpress-giai-tri', url: 'https://vnexpress.net/rss/giai-tri.rss', kind: 'news' },
   { name: 'dantri', url: 'https://dantri.com.vn/rss/home.rss', kind: 'news' },
   { name: 'thanhnien', url: 'https://thanhnien.vn/rss/home.rss', kind: 'news' },
-  { name: 'vnexpress-giai-tri', url: 'https://vnexpress.net/rss/giai-tri.rss', kind: 'news' },
 ];
 
 function stripCdata(s) { return (s ?? '').replace(/<!\[CDATA\[|\]\]>/g, '').trim(); }
@@ -42,7 +43,7 @@ async function fetchFeed(feed) {
   for (let attempt = 1; attempt <= 2; attempt++) {
     try {
       const xml = await fetchText(feed.url);
-      return { ...feed, ok: true, items: parseItems(xml, feed.kind).slice(0, feed.kind === 'trends' ? 12 : 25) };
+      return { ...feed, ok: true, items: parseItems(xml, feed.kind).slice(0, feed.kind === 'trends' ? 12 : 100) };
     } catch (e) {
       if (attempt === 2) return { ...feed, ok: false, error: String(e.message || e) };
       await new Promise(r => setTimeout(r, 3000));

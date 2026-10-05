@@ -67,5 +67,6 @@ node scripts/run.cjs    # hoặc: npm run collect / generate / send (từng bư�
 - `config.json`, `.env`, `node_modules` đã đưa vào `.gitignore`.
 
 ## Sửa nội dung/thang đo
+- **`preferences.md`** — tiêu chí biên tập của page (thứ hạng ưu tiên chủ đề, giọng văn, ràng buộc) — tự động nạp vào prompt mỗi lần chạy. Sửa file này để đổi "gu" chọn bài.
 - Prompt để chọn chủ đề + viết bài nằm trong `scripts/generate.cjs` (hằng số `SYSTEM`).
 - Danh sách nguồn RSS nằm trong `scripts/collect.cjs` (hằng số `FEEDS`).
