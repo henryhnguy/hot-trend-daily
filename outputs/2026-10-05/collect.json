@@ -1,7 +1,13 @@
 {
   "date": "2026-10-05",
-  "collected_at": "2026-10-05T07:15:18.821Z",
+  "collected_at": "2026-10-05T07:46:42.796Z",
   "trends": [
+    {
+      "title": "thành ủy thành phố hồ chí minh",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "500+"
+    },
     {
       "title": "cricket",
       "link": "https://trends.google.com/trending/rss?geo=VN",
@@ -21,34 +27,22 @@
       "approx_traffic": "5000+"
     },
     {
-      "title": "giải vô địch bóng đá các quốc gia châu âu",
-      "link": "https://trends.google.com/trending/rss?geo=VN",
-      "desc": "",
-      "approx_traffic": "500+"
-    },
-    {
       "title": "nguyễn đình bắc",
       "link": "https://trends.google.com/trending/rss?geo=VN",
       "desc": "",
       "approx_traffic": "5000+"
     },
     {
+      "title": "thời tiết hà nội",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "2000+"
+    },
+    {
       "title": "thời tiết hôm nay",
       "link": "https://trends.google.com/trending/rss?geo=VN",
       "desc": "",
-      "approx_traffic": "5000+"
-    },
-    {
-      "title": "portugal national football team vs norway national football team standings",
-      "link": "https://trends.google.com/trending/rss?geo=VN",
-      "desc": "",
-      "approx_traffic": "500+"
-    },
-    {
-      "title": "trợ cấp",
-      "link": "https://trends.google.com/trending/rss?geo=VN",
-      "desc": "",
-      "approx_traffic": "200+"
+      "approx_traffic": "2000+"
     },
     {
       "title": "đội tuyển bóng đá quốc gia việt nam",
@@ -61,13 +55,61 @@
       "link": "https://trends.google.com/trending/rss?geo=VN",
       "desc": "",
       "approx_traffic": "1000+"
+    },
+    {
+      "title": "bảo hiểm xã hội",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "2000+"
     }
   ],
   "news": [
     {
-      "title": "Nhà nghiên cứu dịch hạch Nga tử vong do bệnh chưa rõ nguyên nhân",
-      "link": "https://vnexpress.net/nha-nghien-cuu-dich-hach-nga-tu-vong-do-benh-chua-ro-nguyen-nhan-5128410.html",
-      "desc": "Nữ nghiên cứu viên dịch hạch 28 tuổi ở Nga đột ngột qua đời vì \"bệnh phổi chưa rõ nguyên nhân\", nhà chức trách kích hoạt các biện pháp phòng dịch.",
+      "title": "Cà chua - vũ khí dưỡng nhan giúp Lâm Chí Linh trẻ đẹp ở tuổi 51",
+      "link": "https://vnexpress.net/ca-chua-vu-khi-duong-nhan-giup-lam-chi-linh-tre-dep-o-tuoi-51-5128478.html",
+      "desc": "Không thể duy trì thói quen ngủ sớm sau khi sinh con, người mẫu Lâm Chí Linh chọn ăn cà chua hàng ngày làm bí quyết giữ dáng cùng làn da tươi trẻ.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Ôtô đỗ giữa đường mở cửa xô ngã hai người đi xe máy",
+      "link": "https://vnexpress.net/oto-do-giua-duong-mo-cua-xo-nga-hai-nguoi-di-xe-may-5128503.html",
+      "desc": "Hai người đi xe máy tới gần chiếc ôtô đang dừng giữa đường thì cửa bên lái bật mở, hôm 3/10 tại Trần Quý Cáp, Đà Lạt.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Loạt ngân hàng Hàn Quốc liên tiếp bị tấn công mạng",
+      "link": "https://vnexpress.net/loat-ngan-hang-han-quoc-lien-tiep-bi-tan-cong-mang-5128451.html",
+      "desc": "5 ngân hàng lớn ở Hàn Quốc liên tiếp bị tấn công mạng khiến dữ liệu hàng chục nghìn khách hàng bị rò rỉ, Tổng thống nước này yêu cầu điều tra toàn diện.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Mô hình liên kết tạo 'vị ngon nhà mình' của sữa tươi Kun",
+      "link": "https://vnexpress.net/mo-hinh-lien-ket-tao-vi-ngon-nha-minh-cua-sua-tuoi-kun-5128238.html",
+      "desc": "Sự kết hợp giữa những thế hệ nông dân bản địa và mô hình liên kết chăn nuôi theo hướng chuyên môn hóa tạo nên dòng sữa tươi Kun với tinh thần \"sữa ngon nhà mình\", \"sản vật quê mình\".",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Diễn viên Quang Thắng, Đỗ Duy Nam đội mưa tặng bánh mì que",
+      "link": "https://vnexpress.net/dien-vien-quang-thang-do-duy-nam-doi-mua-tang-banh-mi-que-5128234.html",
+      "desc": "Diễn viên Quang Thắng, Đỗ Duy Nam tham gia trải nghiệm làm bánh đa cua, bánh mì que Hải Phòng, trong show ''Sao Chọn''.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Nhiều chủ chung cư vùng ven hạ giá thuê",
+      "link": "https://vnexpress.net/nhieu-chu-chung-cu-vung-ven-ha-gia-thue-5128309.html",
+      "desc": "Nhiều chủ chung cư vùng ven chấp nhận giảm giá thuê 8-10% trước áp lực cạnh tranh nguồn cung mới, siết kinh doanh lưu trú ngắn ngày (homestay, Airbnb...) trong tòa nhà.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Điểm hẹp nhất lãnh thổ Việt Nam chỉ khoảng 50 km, nằm ở tỉnh nào?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-diem-hep-nhat-lanh-tho-viet-nam-chi-khoang-50-km-nam-o-tinh-nao-5128441.html",
+      "desc": "Việt Nam có diện tích hơn 331.000 km², đường bờ biển khoảng 3.444 km, nhưng hình dáng lãnh thổ có nơi bị thu hẹp đáng kể, chỉ khoảng 50 km.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Phát Đạt khai trương sales gallery dự án Q'Terra tại Hà Nội",
+      "link": "https://vnexpress.net/phat-dat-khai-truong-sales-gallery-du-an-q-terra-tai-ha-noi-5128449.html",
+      "desc": "Phát Đạt khai trương sales gallery dự án Q'Terra tại tòa nhà Grand Terra, số 36 Cát Linh, Hà Nội, ngày 3/10, thu hút hàng trăm khách hàng và nhà đầu tư.",
       "source": "vnexpress-moi-nhat"
     },
     {
@@ -170,48 +212,6 @@
       "title": "Nghị sĩ Cộng hòa khẩu chiến với Phó tổng thống Mỹ",
       "link": "https://vnexpress.net/nghi-si-cong-hoa-khau-chien-voi-pho-tong-thong-my-5128400.html",
       "desc": "Ông Vance cho rằng Ted Cruz đang tranh thủ vận động cho cuộc bầu cử năm 2028, trong khi nghị sĩ Texas nói Phó tổng thống Mỹ \"tự ti\".",
-      "source": "vnexpress-moi-nhat"
-    },
-    {
-      "title": "Tương quan trước trận Malaysia - Việt Nam",
-      "link": "https://vnexpress.net/tuong-quan-truoc-tran-malaysia-viet-nam-5128403.html",
-      "desc": "Việt Nam áp đảo Malaysia về đối đầu, nhưng kém đối thủ về giá trị đội hình, khi hai đội gặp nhau ở trận tranh giải Ba FIFA ASEAN Cup.",
-      "source": "vnexpress-moi-nhat"
-    },
-    {
-      "title": "HLV Herdman háo hức trước cơ hội lịch sử của Indonesia",
-      "link": "https://vnexpress.net/hlv-herdman-hao-huc-truoc-co-hoi-lich-su-cua-indonesia-5128313.html",
-      "desc": "Theo HLV John Herdman, việc chưa có vinh quang nào tại các giải chính thức là động lực cho đội tuyển Indonesia khi đại chiến Thái Lan ở chung kết FIFA ASEAN Cup 2026.",
-      "source": "vnexpress-moi-nhat"
-    },
-    {
-      "title": "Quan chức Israel đổ lỗi cho nhau vì để lọt cơ phó flydubai",
-      "link": "https://vnexpress.net/quan-chuc-israel-do-loi-cho-nhau-vi-de-lot-co-pho-flydubai-5128391.html",
-      "desc": "Giới chức an ninh Israel chỉ trích nhau vì để cơ phó có tư tưởng cực đoan điều khiển chuyến bay flydubai tới Tel Aviv, dù đã được báo trước danh tính người này.",
-      "source": "vnexpress-moi-nhat"
-    },
-    {
-      "title": "Phi Luật Tân là tên phiên âm Hán Việt của nước Đông Nam Á nào?",
-      "link": "https://vnexpress.net/phi-luat-tan-la-ten-phien-am-han-viet-cua-nuoc-dong-nam-a-nao-5127442.html",
-      "desc": "Một tên gọi Hán Việt từng xuất hiện phổ biến trong sách báo, nhưng quốc gia đứng sau cái tên này liệu bạn có nhận ra ngay?",
-      "source": "vnexpress-moi-nhat"
-    },
-    {
-      "title": "Việt Nam - Malaysia: Vượt qua nghịch cảnh ở FIFA ASEAN Cup 2026",
-      "link": "https://vnexpress.net/viet-nam-malaysia-vuot-qua-nghich-canh-o-fifa-asean-cup-2026-5128315.html",
-      "desc": "Trong bối cảnh sứt mẻ lực lượng và áp lực bủa vây, Việt Nam cần thể hiện tốt trong trận tranh giải Ba với Malaysia ở FIFA ASEAN Cup 2026.",
-      "source": "vnexpress-moi-nhat"
-    },
-    {
-      "title": "'Mỗi nhiệm kỳ phải để lại đội ngũ tốt hơn'",
-      "link": "https://vnexpress.net/moi-nhiem-ky-phai-de-lai-doi-ngu-tot-hon-5128444.html",
-      "desc": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh, mỗi nhiệm kỳ phải để lại một đội ngũ tốt hơn, một tổ chức mạnh hơn, năng lực thực thi cao hơn.",
-      "source": "vnexpress-moi-nhat"
-    },
-    {
-      "title": "Lũ cuốn hai người cắm trại, một nạn nhân tử vong",
-      "link": "https://vnexpress.net/lu-cuon-hai-nguoi-cam-trai-mot-nan-nhan-tu-vong-5128408.html",
-      "desc": "Nước từ thượng nguồn bất ngờ đổ về đập tràn Đồng Măng, cuốn trôi hai người đang cắm trại, một người được cứu sống, nạn nhân còn lại tử vong.",
       "source": "vnexpress-moi-nhat"
     },
     {
@@ -365,6 +365,30 @@
       "source": "vnexpress-the-thao"
     },
     {
+      "title": "Nam kỹ sư tìm được \"bến đỗ\" khởi nghiệp, thu tiền tỷ mỗi năm",
+      "link": "https://dantri.com.vn/lao-dong-viec-lam/nam-ky-su-tim-duoc-ben-do-khoi-nghiep-thu-tien-ty-moi-nam-20261004204317228.htm",
+      "desc": "(Dân trí) - Chồn hương từng là động vật hoang dã, nay được cấp phép gây nuôi và trở thành vật nuôi có giá trị kinh tế cao. Đáng chú ý, chi phí nuôi từ lúc sinh đến xuất chuồng chỉ bằng khoảng 1/5 giá bán.",
+      "source": "dantri"
+    },
+    {
+      "title": "Bứt phá kỷ lục tại giải Marathon Quốc tế Hà Nội Techcombank mùa thứ 5",
+      "link": "https://dantri.com.vn/the-thao/but-pha-ky-luc-tai-giai-marathon-quoc-te-ha-noi-techcombank-mua-thu-5-20261005134311673.htm",
+      "desc": "(Dân trí) - Từ kỷ lục Marathon nữ mới được thiết lập đến hàng nghìn cột mốc cá nhân được chinh phục, những bước chân trên cung đường biểu tượng của Thủ đô tạo nên mùa giải truyền cảm hứng, lan tỏa hình ảnh Thủ đô nghìn n",
+      "source": "dantri"
+    },
+    {
+      "title": "Chăm chồng sống thực vật 3 năm, tôi quyết trả anh về cho bố mẹ để ly hôn",
+      "link": "https://dantri.com.vn/tinh-yeu-gioi-tinh/cham-chong-song-thuc-vat-3-nam-toi-quyet-tra-anh-ve-cho-bo-me-de-ly-hon-20261003202015048.htm",
+      "desc": "(Dân trí) - Bác sĩ thông báo chồng tôi tiên lượng xấu. Tôi khóc như mưa, bố chồng thì tỏ ra quyết đoán: \"Đưa về nhà, một là sống, hai là chết, tuyệt đối không để con tôi sống thực vật\".",
+      "source": "dantri"
+    },
+    {
+      "title": "360 người kéo máy bay nặng 133 tấn ở Nhật Bản",
+      "link": "https://dantri.com.vn/the-gioi/360-nguoi-keo-may-bay-nang-133-tan-o-nhat-ban-20261005135030708.htm",
+      "desc": "(Dân trí) - Khoảng 360 người ở Nhật Bản đã cùng nhau kéo một máy bay Boeing 787 nặng khoảng 133 tấn trong nỗ lực nhằm quảng bá cho ngành hàng không.",
+      "source": "dantri"
+    },
+    {
       "title": "Quy tập 12 liệt sĩ trên địa bàn 2 xã lân cận là khu vực chiến trường xưa",
       "link": "https://dantri.com.vn/noi-vu/quy-tap-12-liet-si-tren-dia-ban-2-xa-lan-can-la-khu-vuc-chien-truong-xua-20261005124538260.htm",
       "desc": "(Dân trí) - Hài cốt 12 liệt sĩ quy tập trên địa bàn xã Đặng Thùy Trâm và Ba Động (Quảng Ngãi) đã được chính quyền địa phương trang trọng an táng tại Nghĩa trang liệt sĩ xã Ba Động.",
@@ -491,28 +515,46 @@
       "source": "dantri"
     },
     {
-      "title": "Vụ 3 mẹ con bị sát hại ở Đồng Nai: Người sống sót tổn thương tâm lý rất nặng",
-      "link": "https://dantri.com.vn/phap-luat/vu-3-me-con-bi-sat-hai-o-dong-nai-nguoi-song-sot-ton-thuong-tam-ly-rat-nang-20261005084036113.htm",
-      "desc": "(Dân trí) - Do tình trạng sức khỏe và tâm lý chưa cho phép, nạn nhân sống sót trong vụ án không thể trực tiếp tham dự phiên tòa xét xử Nguyễn Đức Anh.",
-      "source": "dantri"
+      "title": "Vợ đầu Tom Cruise, người đưa nam diễn viên đến giáo phái Scientology bất ngờ tái xuất",
+      "link": "https://thanhnien.vn/vo-dau-tom-cruise-nguoi-dua-nam-dien-vien-den-giao-phai-scientology-bat-ngo-tai-xuat-185261005132131131.htm",
+      "desc": " Mimi Rogers, người vợ đầu tiên của Tom Cruise và cũng là người được cho là đã đưa tài tử đến với giáo phái Scientology, vừa xuất hiện trở lại trên thảm đỏ ở tuổi 70. Nữ diễn viên từng có cuộc hôn nhân kéo dài 3 năm với ",
+      "source": "thanhnien"
     },
     {
-      "title": "4 vấn đề Trung ương cần làm rõ, không để \"tài sản công thành lợi thế riêng\"",
-      "link": "https://dantri.com.vn/thoi-su/4-van-de-trung-uong-can-lam-ro-khong-de-tai-san-cong-thanh-loi-the-rieng-20261005113007600.htm",
-      "desc": "(Dân trí) - Tổng Bí thư, Chủ tịch nước đề nghị Hôi nghị Trung ương 4 tập trung làm rõ 4 vấn đề xuyên suốt, đồng thời lưu ý \"làm chắc để đi nhanh, không lấy thận trọng làm lý do trì hoãn\", nhưng không nóng vội.",
-      "source": "dantri"
+      "title": "Đội tuyển Việt Nam quyết thắng Malaysia: Williams Minh Hoàng, Khoa Ngô và Hai Long đá chính, Đình Bắc dự bị",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-quyet-thang-malaysia-williams-minh-hoang-khoa-ngo-va-hai-long-da-chinh-dinh-bac-du-bi-185261005121957341.htm",
+      "desc": " HLV Kim Sang-sik đã chọn lựa xong đội hình chính ở trận tranh hạng ba FIFA ASEAN Cup 2026, giữa đội tuyển Việt Nam và Malaysia.",
+      "source": "thanhnien"
     },
     {
-      "title": "Ô tô khách vượt ẩu trên quốc lộ, xe tải xả nước bẩn \"tưới\" đường",
-      "link": "https://dantri.com.vn/thoi-su/o-to-khach-vuot-au-tren-quoc-lo-xe-tai-xa-nuoc-ban-tuoi-duong-20261005083827275.htm",
-      "desc": "(Dân trí) - Người dân bức xúc khi nhiều ô tô khách phóng nhanh, vượt ẩu trên quốc lộ 25, tiềm ẩn nguy cơ tai nạn giao thông. Ngoài ra, xe tải chở cát để nước chảy xuống như tưới đường dọc quốc lộ.",
-      "source": "dantri"
+      "title": "Khối ngành dẫn đầu quy mô đại học liên tục 4 năm",
+      "link": "https://thanhnien.vn/khoi-nganh-dan-dau-quy-mo-dai-hoc-lien-tuc-4-nam-185261005114303075.htm",
+      "desc": " Bộ GD-ĐT công bố quy mô đại học chính quy theo khối ngành, trong đó có khối ngành quy mô sinh viên lớn nhất trong 4 năm liên tiếp.",
+      "source": "thanhnien"
     },
     {
-      "title": "Nghi vấn “sói đơn độc” trong vụ cơ phó âm mưu cướp máy bay Flydubai",
-      "link": "https://dantri.com.vn/the-gioi/nghi-van-soi-don-doc-trong-vu-co-pho-am-muu-cuop-may-bay-flydubai-20261005114030430.htm",
-      "desc": "(Dân trí) - Cơ phó trên chuyến bay của hãng Flydubai được cho là đã hành động một mình, mặc dù bị nghi là có tư tưởng cực đoan.",
-      "source": "dantri"
+      "title": "Mỹ nam phim ‘Trại buôn người’ thành ‘diễn viên nghìn tỉ’ là ai?",
+      "link": "https://thanhnien.vn/my-nam-phim-trai-buon-nguoi-thanh-dien-vien-nghin-ti-la-ai-185261005130407817.htm",
+      "desc": " Steven Nguyễn trở thành 'diễn viên nghìn tỉ' khi 2 dự án anh tham gia là 'Mưa đỏ' và 'Trại buôn người' đều có doanh thu ấn tượng, tạo cơn sốt tại phòng vé.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Nhật Kim Anh trở lại sân khấu sau 10 năm",
+      "link": "https://thanhnien.vn/nhat-kim-anh-tro-lai-san-khau-sau-10-nam-185261005112257154.htm",
+      "desc": " Sau 10 năm vắng bóng sân khấu kịch, Nhật Kim Anh trở lại với vở 'Cuốn truyện bị đốt', vào vai nữ thanh niên xung phong mang nhiều tổn thương sau chiến tranh.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Suzuki khởi động chuỗi sự kiện trưng bày và lái thử ô tô từ GO! Cần Thơ",
+      "link": "https://thanhnien.vn/suzuki-khoi-dong-chuoi-su-kien-trung-bay-va-lai-thu-o-to-tu-go-can-tho-18526100514273643.htm",
+      "desc": " Trong hai ngày 3-4.10.2026, 2 chiếc xe Suzuki XL7 Hybrid và Fronx đã xuất hiện tại GO! Cần Thơ, mở đầu chuỗi sự kiện trưng bày và lái thử xe tại hơn 10 thành phố trên toàn quốc, mang đến cơ hội để khách hàng trực tiếp k",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Lịch cúp nước 9 phường ở TP.HCM từ tối nay 5.10",
+      "link": "https://thanhnien.vn/lich-cup-nuoc-9-phuong-o-tphcm-tu-toi-nay-510-185261005140119306.htm",
+      "desc": " Từ tối nay 5.10 đến hết ngày 8.10, 9 phường ở TP.HCM cúp nước để thực hiện công tác bảo dưỡng, bảo trì hệ thống đường ống nước sạch.",
+      "source": "thanhnien"
     },
     {
       "title": "3 thay đổi giúp máy tính Windows cũ hoạt động mượt mà như mới",
@@ -623,51 +665,21 @@
       "source": "thanhnien"
     },
     {
-      "title": "Nụ cười trẻ thơ",
-      "link": "https://thanhnien.vn/nu-cuoi-tre-tho-185261002131703974.htm",
-      "desc": " Tại Mái ấm Chúc Từ (TP.HCM), nơi đang nuôi dưỡng gần 54 em nhỏ từ sơ sinh đến 5 - 6 tuổi có hoàn cảnh đặc biệt, nhóm S&S đã tổ chức một hoạt động thiện nguyện nhân dịp Quốc tế thiếu nhi 1.6.",
-      "source": "thanhnien"
-    },
-    {
-      "title": "Sân bay Long Thành, nhìn từ trực thăng quân sự",
-      "link": "https://thanhnien.vn/san-bay-long-thanh-nhin-tu-truc-thang-quan-su-185261005115504496.htm",
-      "desc": " Những hình ảnh đặc biệt về sân bay Long Thành, nhìn từ trực thăng quân sự, do phóng viên Báo Thanh Niên ghi lại, tháng 10.2026.",
-      "source": "thanhnien"
-    },
-    {
-      "title": "Nghệ sĩ Vũ Thanh tiết lộ cuộc sống sau biến cố vợ qua đời",
-      "link": "https://thanhnien.vn/nghe-si-vu-thanh-tiet-lo-cuoc-song-sau-bien-co-vo-qua-doi-185261005115535732.htm",
-      "desc": " Nghệ sĩ Vũ Thanh vừa có những phút trải lòng về chặng đường làm nghề, đặc biệt là người vợ quá cố từng là hậu phương để ông an tâm theo đuổi nghệ thuật.",
-      "source": "thanhnien"
-    },
-    {
-      "title": "Iran nhấn mạnh lập trường về eo biển Hormuz, nâng tầm bắn tên lửa",
-      "link": "https://thanhnien.vn/iran-nhan-manh-lap-truong-ve-eo-bien-hormuz-nang-tam-ban-ten-lua-185261005123814892.htm",
-      "desc": " Reuters hôm qua 4.10 dẫn lời Chủ tịch Quốc hội Iran Mohammad Baqer Qalibaf nhấn mạnh eo biển Hormuz sẽ không được mở lại trừ khi Mỹ đáp ứng đầy đủ các điều kiện do Iran đặt ra.",
-      "source": "thanhnien"
-    },
-    {
-      "title": "Bắt giam 'ông trùm' đường dây trộm mèo ở TP.HCM",
-      "link": "https://thanhnien.vn/bat-giam-ong-trum-duong-day-trom-meo-o-tphcm-185261005121727216.htm",
-      "desc": " Ngày 5.10.2026, lực lượng chức năng cho biết Cơ quan Cảnh sát điều tra Công an TP.HCM đã khởi tố, bắt tạm giam 12 bị can liên quan đường dây trộm mèo tại xã Đông Thạnh và các địa bàn lân cận tiêu thụ khoảng 2.700 con.",
-      "source": "thanhnien"
-    },
-    {
-      "title": "Mạnh Nguyên - Từ Quán quân Solo cùng Bolero 2017 đến hành trình âm nhạc hiện tại",
-      "link": "https://thanhnien.vn/manh-nguyen-tu-quan-quan-solo-cung-bolero-2017-den-hanh-trinh-am-nhac-hien-tai-185261005122828973.htm",
-      "desc": " Ca sĩ Mạnh Nguyên, tên thật Nguyễn Văn Mến, sinh ngày 20.5.1994, được công chúng biết đến rộng rãi sau khi giành ngôi vị Quán quân Solo cùng Bolero 2017. Sở hữu chất giọng trầm ấm, ngọt ngào và giàu cảm xúc, nam ca sĩ t",
-      "source": "thanhnien"
-    },
-    {
-      "title": "Cúm mùa ở trẻ tăng: Chăm sóc tại nhà ra sao, khi nào cần đi viện?",
-      "link": "https://thanhnien.vn/cum-mua-o-tre-tang-cham-soc-tai-nha-ra-sao-khi-nao-can-di-vien-185261005112218167.htm",
-      "desc": " Cúm mùa ở trẻ đang là mối quan tâm những ngày gần đây. Bên cạnh chăm sóc đúng cách tại nhà, phụ huynh cần nhận biết sớm những dấu hiệu bất thường để đưa trẻ đi khám kịp thời.",
-      "source": "thanhnien"
+      "title": "Êkíp 'Đường tới thành Thăng Long' dùng AI sửa cảnh chiến đấu",
+      "link": "https://vnexpress.net/ekip-duong-toi-thanh-thang-long-dung-ai-sua-canh-chien-dau-5127735.html",
+      "desc": "Đoàn phim \"Đường tới thành Thăng Long\" dùng AI chỉnh sửa một số đại cảnh giao chiến, dời đô, trước khi tác phẩm phát sóng lần thứ hai.",
+      "source": "vnexpress-giai-tri"
     },
     {
       "title": "Lễ cưới của vợ chồng Hoài Lâm",
       "link": "https://vnexpress.net/le-cuoi-cua-vo-chong-hoai-lam-5128530.html",
       "desc": "Cô dâu Ngọc Trinh - 22 tuổi, vợ ca sĩ Hoài Lâm - tổ chức lễ vu quy tại quê nhà Vĩnh Long theo phong cách miền Tây, sáng 5/10.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Nam vũ công mặc váy tự chế lên thảm đỏ",
+      "link": "https://vnexpress.net/nam-vu-cong-mac-vay-tu-che-len-tham-do-5128481.html",
+      "desc": "Ngôi sao ballet Gilbert Bolden III gây sốt mạng xã hội với đầm đuôi cá tự may tại Fall Fashion Gala 2026.",
       "source": "vnexpress-giai-tri"
     },
     {
@@ -695,27 +707,21 @@
       "source": "vnexpress-giai-tri"
     },
     {
-      "title": "Lâm Tâm Như thừa hưởng má lúm từ mẹ",
-      "link": "https://vnexpress.net/lam-tam-nhu-thua-huong-ma-lum-tu-me-5128369.html",
-      "desc": "Diễn viên Đài Loan Lâm Tâm Như tiết lộ ảnh mẹ, cho biết phụ nữ trong gia đình cô đều có má lúm.",
-      "source": "vnexpress-giai-tri"
-    },
-    {
       "title": "Nghệ sĩ Quang Thắng: Người Hải Phòng chất",
       "link": "https://vnexpress.net/nghe-si-quang-thang-nguoi-hai-phong-chat-5127179.html",
       "desc": "Nghệ sĩ Quang Thắng nói luôn đưa một chút giọng và chất Hải Phòng vào vai diễn bởi không thể quên quê hương dù lập nghiệp ở Hà Nội.",
       "source": "vnexpress-giai-tri"
     },
     {
-      "title": "Nam vũ công mặc váy tự chế lên thảm đỏ",
-      "link": "https://vnexpress.net/nam-vu-cong-mac-vay-tu-che-len-tham-do-5128481.html",
-      "desc": "Ngôi sao ballet Gilbert Bolden III gây sốt mạng xã hội với đầm đuôi cá tự may tại Fall Fashion Gala 2026.",
-      "source": "vnexpress-giai-tri"
-    },
-    {
       "title": "Chillies hòa giọng cùng hai 'Anh trai vượt ngàn chông gai'",
       "link": "https://vnexpress.net/chillies-hoa-giong-cung-hai-anh-trai-vuot-ngan-chong-gai-5128344.html",
       "desc": "Nhóm Chillies tạo bất ngờ khi hát cùng Đinh Mạnh Ninh và Thỏ (Da LAB) ca khúc \"Dù có cách xa\" và \"Bản tình ca không tên\".",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Lâm Tâm Như thừa hưởng má lúm từ mẹ",
+      "link": "https://vnexpress.net/lam-tam-nhu-thua-huong-ma-lum-tu-me-5128369.html",
+      "desc": "Diễn viên Đài Loan Lâm Tâm Như tiết lộ ảnh mẹ, cho biết phụ nữ trong gia đình cô đều có má lúm.",
       "source": "vnexpress-giai-tri"
     },
     {
@@ -806,12 +812,6 @@
       "title": "Khánh My: 'Tôi không muốn kết hôn, sinh con'",
       "link": "https://vnexpress.net/khanh-my-toi-khong-muon-ket-hon-sinh-con-5127603.html",
       "desc": "Người đẹp Khánh My, 35 tuổi, nói chọn cuộc sống độc thân, không muốn kết hôn hay sinh con mà tìm kiếm một người bạn đời tri kỷ.",
-      "source": "vnexpress-giai-tri"
-    },
-    {
-      "title": "Nét đời thường của tân Miss Universe Vietnam Quỳnh Anh",
-      "link": "https://vnexpress.net/net-doi-thuong-cua-tan-miss-universe-vietnam-quynh-anh-5127884.html",
-      "desc": "Miss Universe Vietnam 2026 Quỳnh Anh, 27 tuổi, diện trang phục tối giản, trang điểm nhẹ khi dạo phố hoặc đi du lịch với bạn trai.",
       "source": "vnexpress-giai-tri"
     }
   ],
