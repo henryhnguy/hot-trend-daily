@@ -64,12 +64,12 @@ ${JSON.stringify(collect.news.slice(0, 70), null, 1)}
 
 Trả về JSON theo schema ở trên. 3 topics chọn theo độ quan tâm tổng hợp (ưu tiên chủ đề xuất hiện ở nhiều nguồn + tín hiệu tăng trưởng rõ).`;
 
-async function callLLM() {
+async function callModel(model) {
   const res = await fetch(LLM_BASE_URL.replace(/\/$/, '') + '/chat/completions', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${LLM_API_KEY}` },
     body: JSON.stringify({
-      model: LLM_MODEL,
+      model,
       temperature: 0.6,
       max_tokens: 16000,
       messages: [{ role: 'system', content: SYSTEM }, { role: 'user', content: USER }],
@@ -79,6 +79,29 @@ async function callLLM() {
   if (!res.ok) throw new Error(`LLM HTTP ${res.status}: ${(await res.text()).slice(0, 300)}`);
   const data = await res.json();
   return data.choices?.[0]?.message?.content ?? '';
+}
+
+const FALLBACK_MODELS = ['gemini-3.7-flash', 'gemini-flash-latest'];
+
+async function callLLM() {
+  const models = [LLM_MODEL, ...FALLBACK_MODELS.filter(m => m !== LLM_MODEL)];
+  let lastErr;
+  for (const model of models) {
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      try {
+        console.log(`[generate] gọi model: ${model} (lần ${attempt})`);
+        return await callModel(model);
+      } catch (e) {
+        lastErr = e;
+        const code = +(e.message.match(/HTTP (\d+)/) || [])[1] || 0;
+        if (code === 400 || code === 401 || code === 403) throw e; // lỗi key/cấu hình → dừng
+        if (code === 404) { console.warn(`[generate] model ${model} không khả dụng → chuyển model kế`); break; }
+        console.warn(`[generate] ${e.message.slice(0, 140)} — thử lại sau ${15 * attempt}s`);
+        await new Promise(r => setTimeout(r, 15000 * attempt));
+      }
+    }
+  }
+  throw lastErr;
 }
 
 function parseJson(text) {
