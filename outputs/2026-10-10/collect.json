@@ -1,0 +1,2205 @@
+{
+  "date": "2026-10-10",
+  "collected_at": "2026-10-09T18:39:33.874Z",
+  "trends": [
+    {
+      "title": "west ham đấu với qpr",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "200+"
+    },
+    {
+      "title": "dortmund đấu với werder bremen",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "500+"
+    },
+    {
+      "title": "vietjet",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "500+"
+    },
+    {
+      "title": "ngoại hạng anh",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "500+"
+    },
+    {
+      "title": "al nassr",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "1000+"
+    },
+    {
+      "title": "dortmund vs",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "200+"
+    },
+    {
+      "title": "anh tú atus",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "200+"
+    },
+    {
+      "title": "tiết kiệm",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "100+"
+    },
+    {
+      "title": "văn mai hương",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "1000+"
+    },
+    {
+      "title": "al fateh đấu với al-ahli saudi",
+      "link": "https://trends.google.com/trending/rss?geo=VN",
+      "desc": "",
+      "approx_traffic": "500+"
+    }
+  ],
+  "news": [
+    {
+      "title": "Uống không cồn dần thành xu hướng tại Việt Nam",
+      "link": "https://vnexpress.net/uong-khong-con-dan-thanh-xu-huong-tai-viet-nam-5129233.html",
+      "desc": "Nhu cầu với đồ uống ít và không cồn đang tăng tại Việt Nam, trong khi một số nhóm rượu mạnh, cocktail và rượu vang ghi nhận doanh số giảm, theo báo cáo Future of Food 2027.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Những xu hướng mùa thu sao Việt lựa chọn",
+      "link": "https://vnexpress.net/nhung-xu-huong-mua-thu-sao-viet-lua-chon-5129269.html",
+      "desc": "Hồ Ngọc Hà thể hiện cá tính với đồ da, Thanh Thủy tạo vẻ năng động cùng giày ballet.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Cuộc khủng hoảng niềm tin ở Man Utd",
+      "link": "https://vnexpress.net/cuoc-khung-hoang-niem-tin-o-man-utd-5123953.html",
+      "desc": "Man Utd mới thắng một trong 5 trận đầu Ngoại hạng Anh, với vấn đề liên quan đến niềm tin, cách vận hành và vị thế ngày càng suy giảm.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "AI khiến giới toán học chao đảo vì giải liền 370 bài",
+      "link": "https://vnexpress.net/ai-khien-gioi-toan-hoc-chao-dao-vi-giai-lien-370-bai-5130141.html",
+      "desc": "Mô hình của OpenAI giải quyết hàng trăm bài toán hóc búa mà con người từng vật lộn, gây chấn động.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Tesla cho phép ôtô điện giật đứt dây sạc để tháo chạy",
+      "link": "https://vnexpress.net/tesla-cho-phep-oto-dien-giat-dut-day-sac-de-thao-chay-5130166.html",
+      "desc": "Trong tình huống phải chạy thoát nhanh nhất có thể, tài xế có thể lái xe đi dù dây sạc chưa rút, không cần màng đến sự hư hỏng.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Ông Lưu Đình Phúc giữ chức Cục trưởng Xuất bản và Thư viện",
+      "link": "https://vnexpress.net/ong-luu-dinh-phuc-giu-chuc-cuc-truong-xuat-ban-va-thu-vien-5130311.html",
+      "desc": "Ông Lưu Đình Phúc được điều động làm Cục trưởng Cục Xuất bản và Thư viện; ông Lê Quang Tự Do thay ông giữ chức Cục trưởng Cục Báo chí.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Apple ra loạt thiết bị nhà thông minh ngày 13/10",
+      "link": "https://vnexpress.net/apple-ra-loat-thiet-bi-nha-thong-minh-ngay-13-10-5130213.html",
+      "desc": "Apple gửi thông báo sự kiện \"Welcome home\" ngày 13/10, nhiều khả năng sẽ ra mắt loạt thiết bị smarthome như Home Hub, HomePod mini và Apple TV 4K mới.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Những vụ nội gián chấn động lịch sử tình báo thế giới",
+      "link": "https://vnexpress.net/nhung-vu-noi-gian-chan-dong-lich-su-tinh-bao-the-gioi-5129725.html",
+      "desc": "Cựu lãnh đạo tình báo Đức Hanning bị bắt vì nghi phản quốc gợi lại hàng loạt vụ nội gián gây chấn động tình báo thế giới liên quan Mỹ, Anh và Liên Xô.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Cuộc sống của anh em song sinh cưới chị em sinh đôi",
+      "link": "https://vnexpress.net/cuoc-song-cua-anh-em-song-sinh-cuoi-chi-em-sinh-doi-5128119.html",
+      "desc": "Hai anh em song sinh ở Nhật Bản kết hôn với hai chị em song sinh, cùng chung sống, làm việc và nuôi các con suốt 54 năm qua.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Cựu tổng biên tập France Football: 'Ronaldo vận động hành lang nhiều hơn Messi'",
+      "link": "https://vnexpress.net/cuu-tong-bien-tap-france-football-ronaldo-van-dong-hanh-lang-nhieu-hon-messi-5129691.html",
+      "desc": "Pascal Ferre, từng là Tổng biên tập tạp chí Pháp France Football trong 26 năm, hé lộ nhiều bí mật về giải thưởng Quả Bóng Vàng.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Lầu Năm Góc bị tố 'cản trở nghị sĩ, giấu thiệt hại' ở Trung Đông",
+      "link": "https://vnexpress.net/lau-nam-goc-bi-to-can-tro-nghi-si-giau-thiet-hai-o-trung-dong-5130247.html",
+      "desc": "Nghị sĩ Murphy nói Lầu Năm Góc ngăn ông thăm căn cứ Al Udeid nhằm \"giấu thiệt hại\" tại cơ sở quân sự lớn nhất của Mỹ ở Trung Đông.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Có phải em dễ dãi với tôi thì cũng vậy với người đàn ông khác?",
+      "link": "https://vnexpress.net/co-phai-em-de-dai-voi-toi-thi-cung-vay-voi-nguoi-dan-ong-khac-5130293.html",
+      "desc": "Một buổi tối đi chơi bất chợt gặp trời mưa, cả hai đều bị ướt, em chủ động đề nghị \"vào nhà nghỉ trú mưa\".",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Sai lầm khi đi bộ khiến khớp gối nhanh hỏng",
+      "link": "https://vnexpress.net/sai-lam-khi-di-bo-khien-khop-goi-nhanh-hong-5130105.html",
+      "desc": "Tăng cự ly quá nhanh, sải bước dài, dáng đi lệch, xuống dốc sai cách và chọn sai giày là 5 thói quen âm thầm tàn phá khớp gối khi đi bộ.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "'Anh tài' 14 Casper, MC Trần Ngọc ngẫu hứng hát về món ngon Hà Nội",
+      "link": "https://vnexpress.net/anh-tai-14-casper-mc-tran-ngoc-ngau-hung-hat-ve-mon-ngon-ha-noi-5128884.html",
+      "desc": "Huyền Lizzie múa phụ họa, hỗ trợ \"anh tài\" 14 Casper, MC Trần Ngọc hát về mâm cơm Bắc bộ, bánh tôm Hồ Tây, trong teaser tập 3 show \"Sao Chọn\".",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "5 món nên ăn mỗi tuần hỗ trợ giảm mỡ nội tạng",
+      "link": "https://vnexpress.net/5-mon-nen-an-moi-tuan-ho-tro-giam-mo-noi-tang-5130208.html",
+      "desc": "Thịt lợn nạc, tôm và các loại hạt cung cấp protein, chất xơ, giúp no lâu, hỗ trợ giảm mỡ nội tạng khi kết hợp ăn uống hợp lý, vận động thường xuyên.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Thuốc liên hợp kháng thể thoái triển ung thư phổi di căn",
+      "link": "https://vnexpress.net/thuoc-lien-hop-khang-the-thoai-trien-ung-thu-phoi-di-can-5130170.html",
+      "desc": "Ông Công, 80 tuổi, ung thư phổi di căn không đáp ứng thuốc đích, miễn dịch và hóa trị, được điều trị bằng thuốc liên hợp kháng thể.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Hồ Ngọc Hà và dàn sao diện phá cách",
+      "link": "https://vnexpress.net/ho-ngoc-ha-va-dan-sao-dien-pha-cach-5130230.html",
+      "desc": "Hồ Ngọc Hà, Suboi, Mỹ Anh, Hồng Nhung diện phong cách avant-garde kết hợp vị lai ở triển lãm của nhà thiết kế Cường Đàm.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Tăng tốc thi công trục đường 10 làn xe tại Phú Quốc",
+      "link": "https://vnexpress.net/tang-toc-thi-cong-truc-duong-10-lan-xe-tai-phu-quoc-5130227.html",
+      "desc": "Đường tỉnh ĐT.975 quy mô 10 làn xe và tuyến đường sắt nhẹ LRT đang được đẩy nhanh tiến độ, nhằm kết nối sân bay Phú Quốc với trung tâm hội nghị APEC.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Em sống tình cảm, chân thành, hướng thiện",
+      "link": "https://vnexpress.net/em-song-tinh-cam-chan-thanh-huong-thien-5130253.html",
+      "desc": "Em mong mình sẽ tìm thấy mối lương duyên của mình là người có đạo đức, sống chân thành, công việc ổn định, yêu thương gia đình.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Nguyễn Văn Chung: 'Tôi hạnh phúc vì sửa được nhà cho bố'",
+      "link": "https://vnexpress.net/nguyen-van-chung-toi-hanh-phuc-vi-sua-duoc-nha-cho-bo-5129512.html",
+      "desc": "Nhạc sĩ Nguyễn Văn Chung nói hoàn thành mục tiêu lớn nhất năm là cải tạo nhà phố 128 m2 dành cho bố tại TP HCM.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "'Hội chợ diệu kỳ' cho bệnh nhi Nghệ An",
+      "link": "https://vnexpress.net/hoi-cho-dieu-ky-cho-benh-nhi-nghe-an-5130130.html",
+      "desc": "Hàng trăm bệnh nhi điều trị tại Bệnh viện Sản Nhi Nghệ An được vui chơi, tô tượng, đọc sách và nhận quà tại hội chợ do Quỹ Hy vọng và các đơn vị tổ chức.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Nữ sinh nhập viện với nhiều vết thương, nghi bị bạn tấn công",
+      "link": "https://vnexpress.net/nu-sinh-nhap-vien-voi-nhieu-vet-thuong-nghi-bi-ban-tan-cong-5130276.html",
+      "desc": "Sau khi hẹn nhau đến khu nghĩa địa để giải quyết mâu thuẫn, nữ sinh lớp 9 bị thương nhiều nơi, nghi do nữ sinh lớp 11 trường khác dùng dao tấn công.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "16 tỷ đồng khắc phục sạt lở đèo Prenn cửa ngõ Đà Lạt",
+      "link": "https://vnexpress.net/16-ty-dong-khac-phuc-sat-lo-deo-prenn-cua-ngo-da-lat-5130288.html",
+      "desc": "Sau nhiều đợt đất đá tràn xuống đường, Lâm Đồng quyết định chi 16 tỷ đồng gia cố taluy đèo Prenn, ngăn nguy cơ tiếp tục sạt lở.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Quốc gia duy nhất Đông Nam Á không giáp biển?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-quoc-gia-duy-nhat-dong-nam-a-khong-giap-bien-5127097.html",
+      "desc": "Đông Nam Á có 11 quốc gia, diện tích khoảng 4,55 triệu km², nhưng chỉ một nước hoàn toàn không có đường bờ biển.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Đàn ông mặt rộng dễ được xem là người cha tốt",
+      "link": "https://vnexpress.net/dan-ong-mat-rong-de-duoc-xem-la-nguoi-cha-tot-5129884.html",
+      "desc": "Nghiên cứu công bố tháng 9/2026 của giới tâm lý học Mỹ kết luận nam giới sở hữu khuôn mặt rộng mang lại ấn tượng họ là người cha tốt và có khả năng bảo vệ con cái.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Hot girl chạy bộ Trung Quốc đi nhờ xe đạp ở Berlin Marathon",
+      "link": "https://vnexpress.net/hot-girl-chay-bo-trung-quoc-di-nho-xe-dap-o-berlin-marathon-5130285.html",
+      "desc": "KOL chạy bộ Trung Quốc Sun Yuanyuan bị hủy kết quả tại Berlin Marathon 2026 sau khi hình ảnh cô ngồi sau xe đạp ở những km cuối cuộc đua lan truyền trên mạng xã hội.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Mỹ 'siết' chương trình thẻ xanh với nhiều hãng công nghệ",
+      "link": "https://vnexpress.net/my-siet-chuong-trinh-the-xanh-voi-nhieu-hang-cong-nghe-5130171.html",
+      "desc": "Mỹ đã loại bỏ một chương trình cấp thẻ xanh định cư quan trọng với Microsoft, Adobe và mở cuộc điều tra đối với 9 trường đại học hàng đầu.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Hoàng hậu Thái Lan lần đầu một mình điều khiển tiêm kích",
+      "link": "https://vnexpress.net/hoang-hau-thai-lan-lan-dau-mot-minh-dieu-khien-tiem-kich-5130199.html",
+      "desc": "Hoàng hậu Suthida thực hiện chuyến bay đơn đầu tiên trên tiêm kích Gripen, dưới sự chứng kiến của Vua Maha Vajiralongkorn.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Hai xe buýt ở Donetsk hứng bom lượn, ít nhất 30 người chết",
+      "link": "https://vnexpress.net/hai-xe-buyt-o-donetsk-hung-bom-luon-it-nhat-30-nguoi-chet-5130194.html",
+      "desc": "Ukraine cáo buộc Nga ném bom lượn vào thành phố Kramatorsk, phá hủy hai xe buýt và khiến 30 người thiệt mạng.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Chủ tịch Hạ viện Mỹ cân nhắc 'về quê' nếu phe Cộng hòa mất thế đa số",
+      "link": "https://vnexpress.net/chu-tich-ha-vien-my-can-nhac-ve-que-neu-phe-cong-hoa-mat-the-da-so-5130231.html",
+      "desc": "Nghị sĩ Mike Johnson đề cập khả năng trở về Louisiana mở công ty nếu đảng Cộng hòa thất bại trong cuộc bầu cử giữa kỳ.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Chưa đóng mã số thuế của cha mẹ đã mất, con có được thừa kế nhà đất?",
+      "link": "https://vnexpress.net/chua-dong-ma-so-thue-cua-cha-me-da-mat-con-co-duoc-thua-ke-nha-dat-5130234.html",
+      "desc": "Bố mất đã 8 năm, gia đình phải bán nhà để có tiền chữa bệnh cho mẹ, song không thể làm được thủ tục thừa kế để sang tên cho chủ mới vì tiền nợ thuế và mã số thuế của bố chưa được đóng.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Tuyên Quang muốn mời đầu tư cáp treo ở khu du lịch Mã Pì Lèng",
+      "link": "https://vnexpress.net/tuyen-quang-muon-moi-dau-tu-cap-treo-o-khu-du-lich-ma-pi-leng-5130195.html",
+      "desc": "Hệ thống cáp treo khu du lịch Mã Pì Lèng được tỉnh Tuyên Quang đưa vào danh mục dự án thu hút đầu tư ngoài ngân sách giai đoạn đến 2030.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "VinFast muốn hợp tác hàng chục đại lý xe máy điện ở Ấn Độ",
+      "link": "https://vnexpress.net/vinfast-muon-hop-tac-hang-chuc-dai-ly-xe-may-dien-o-an-do-5130245.html",
+      "desc": "VinFast ký ý định thư hợp tác (LOI) hơn 50 đại lý xe máy điện, hướng đến mở rộng mạng lưới phân phối tại thị trường Ấn Độ, hôm 8/10.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Vietnam Land phân phối dự án Q'Terra Quy Nhơn",
+      "link": "https://vnexpress.net/vietnam-land-phan-phoi-du-an-q-terra-quy-nhon-5130236.html",
+      "desc": "Vietnam Land là đơn vị phân phối F1 dự án căn hộ lưu trú Q'Terra Quy Nhơn của chủ đầu tư Phát Đạt.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Bệnh tiểu đường chồng viêm khớp",
+      "link": "https://vnexpress.net/benh-tieu-duong-chong-viem-khop-5130178.html",
+      "desc": "Vết xước nhỏ ở bắp chân bà Thiên sưng, chảy mủ, bác sĩ chẩn đoán hoại tử mô do biến chứng tiểu đường type 2.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Nút mạch ngăn máu chảy trong gan cô gái",
+      "link": "https://vnexpress.net/nut-mach-ngan-mau-chay-trong-gan-co-gai-5130174.html",
+      "desc": "Chị Đình, 25 tuổi, đau mạn sườn phải sau cú ngã, bác sĩ phát hiện khối máu tụ dưới bao gan nên nút mạch cầm máu.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Chủ trang trại 2.300 con heo dùng chất cấm tạo nạc bị khởi tố",
+      "link": "https://vnexpress.net/chu-trang-trai-2-300-con-heo-dung-chat-cam-tao-nac-bi-khoi-to-5130228.html",
+      "desc": "Bà chủ trang trại bị khởi tố sau khi cảnh sát phát hiện 2.349 con heo trị giá khoảng 15 tỷ đồng có chứa Salbutamol, tương đương hàng trăm tấn heo hơi.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "'Vibe coding' làm ứng dụng giúp người yếu thế",
+      "link": "https://vnexpress.net/vibe-coding-lam-ung-dung-giup-nguoi-yeu-the-5130073.html",
+      "desc": "Có ý tưởng nhưng không biết lập trình, nhiều bạn trẻ dùng AI để \"vibe coding\", giải những bài toán ở nơi nguồn lực công nghệ hạn chế, như giáo dục ở vùng sâu, hỗ trợ người khiếm thị.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Ferguson tiếc khi không gặp Guardiola sớm hơn để mời về Man Utd",
+      "link": "https://vnexpress.net/ferguson-tiec-khi-khong-gap-guardiola-som-hon-de-moi-ve-man-utd-5130151.html",
+      "desc": "Trải lòng trong cuốn sách mới mang tên \"Games of My Life\" vừa xuất bản ngày 8/10, cựu HLV Alex Ferguson hồi tưởng lại bữa ăn tối với Pep Guardiola một năm trước khi ông chính thức nghỉ hưu và lựa chọn người kế nhiệm ở Ma",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Ngồi liên tục nhiều giờ, nam kỹ sư 35 tuổi suy giảm chức năng thận như người 60",
+      "link": "https://vnexpress.net/ngoi-lien-tuc-nhieu-gio-nam-ky-su-35-tuoi-suy-giam-chuc-nang-than-nhu-nguoi-60-5130223.html",
+      "desc": "Không rượu bia, thuốc lá, thể trạng bình thường, nam kỹ sư 35 tuổi vẫn đối mặt với tình trạng suy giảm chức năng thận tương đương người 60 tuổi do thói quen ngồi lì một chỗ suốt ngày dài.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Phạm Băng Băng hóa 'bông mẫu đơn bung nở'",
+      "link": "https://vnexpress.net/pham-bang-bang-hoa-bong-mau-don-bung-no-5130201.html",
+      "desc": "Diễn viên Trung Quốc Phạm Băng Băng được các tạp chí nhận xét lộng lẫy trong thiết kế đính hoa lụa.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Ngôi làng 90% cư dân bất động ở Nhật Bản",
+      "link": "https://vnexpress.net/ngoi-lang-90-cu-dan-bat-dong-o-nhat-ban-5130043.html",
+      "desc": "Thoạt nhìn, làng Nagoro trên đảo Shikoku có thể trông giống bất kỳ vùng nông thôn nào ở Nhật Bản cho đến khi du khách đến gần.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Honda bắt đầu bán xe điện UC3 lắp ráp trong nước",
+      "link": "https://vnexpress.net/honda-bat-dau-ban-xe-dien-uc3-lap-rap-trong-nuoc-5130186.html",
+      "desc": "Xe máy điện Honda UC3 bản lắp ráp trong nước về đại lý, giá không đổi, trong khi xe nhập Thái được hỏi mua nhiều trước khi hết hàng.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Học sinh Pháp: 'Dậy đi học từ 6h30 như cực hình'",
+      "link": "https://vnexpress.net/hoc-sinh-bieu-tinh-tai-phap-toi-giat-minh-truoc-the-he-hoc-sinh-nghi-day-di-hoc-tu-6h30-nhu-cuc-hinh-5129976.html",
+      "desc": "Khi học sinh ngày nào cũng xem những KOLS không cần học hành mà vẫn 'thành công', thì việc phải dậy đi học từ 6h30 giống như một hình phạt.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "161 học sinh được đến trường sau hơn một tháng nghỉ",
+      "link": "https://vnexpress.net/161-hoc-sinh-duoc-den-truong-sau-hon-mot-thang-nghi-5130205.html",
+      "desc": "Sau hơn một tháng phụ huynh đồng loạt cho nghỉ học để phản đối sáp nhập điểm trường lẻ Tiến Sơn, đa số học sinh xã Quỳnh Tam được đến lớp, sáng 9/10.",
+      "source": "vnexpress-moi-nhat"
+    },
+    {
+      "title": "Tăng tốc thi công trục đường 10 làn xe tại Phú Quốc",
+      "link": "https://vnexpress.net/tang-toc-thi-cong-truc-duong-10-lan-xe-tai-phu-quoc-5130227.html",
+      "desc": "Đường tỉnh ĐT.975 quy mô 10 làn xe và tuyến đường sắt nhẹ LRT đang được đẩy nhanh tiến độ, nhằm kết nối sân bay Phú Quốc với trung tâm hội nghị APEC.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Ông Lưu Đình Phúc giữ chức Cục trưởng Xuất bản và Thư viện",
+      "link": "https://vnexpress.net/ong-luu-dinh-phuc-giu-chuc-cuc-truong-xuat-ban-va-thu-vien-5130311.html",
+      "desc": "Ông Lưu Đình Phúc được điều động làm Cục trưởng Cục Xuất bản và Thư viện; ông Lê Quang Tự Do thay ông Phúc giữ chức Cục trưởng Cục Báo chí.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Hai xe buýt ở Donetsk hứng bom lượn, ít nhất 30 người chết",
+      "link": "https://vnexpress.net/hai-xe-buyt-o-donetsk-hung-bom-luon-it-nhat-30-nguoi-chet-5130194.html",
+      "desc": "Ukraine cáo buộc Nga ném bom lượn vào thành phố Kramatorsk, phá hủy hai xe buýt và khiến 30 người thiệt mạng.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Cách tạo chữ ký số cho cá nhân trên VNeID",
+      "link": "https://vnexpress.net/cach-tao-chu-ky-so-cho-ca-nhan-tren-vneid-5129343.html",
+      "desc": "Tạo chữ ký số cho cá nhân được thực hiện miễn phí trên VNeID, giúp người dùng thay thế chữ ký tay trong môi trường trực tuyến như khai thuế, ký hợp đồng.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Nhà hẻm, nhà phố tại TP HCM rớt giá hàng tỷ đồng",
+      "link": "https://vnexpress.net/nha-hem-nha-pho-tai-tp-hcm-rot-gia-hang-ty-dong-5129906.html",
+      "desc": "Giá nhà phố, riêng lẻ tại TP HCM giảm hàng tỷ đồng ở nhiều khu vực khi người bán chịu áp lực tài chính, còn người mua vẫn chưa vội xuống tiền.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Cựu tổng biên tập France Football: 'Ronaldo vận động hành lang nhiều hơn Messi'",
+      "link": "https://vnexpress.net/cuu-tong-bien-tap-france-football-ronaldo-van-dong-hanh-lang-nhieu-hon-messi-5129691.html",
+      "desc": "Pascal Ferre, từng là Tổng biên tập tạp chí Pháp France Football trong 26 năm, hé lộ nhiều bí mật về giải thưởng Quả Bóng Vàng.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "AI khiến giới toán học chao đảo vì giải liền 370 bài",
+      "link": "https://vnexpress.net/ai-khien-gioi-toan-hoc-chao-dao-vi-giai-lien-370-bai-5130141.html",
+      "desc": "Một mô hình AI giải quyết hàng trăm bài toán hóc búa, gồm giả thuyết có thể dẫn tới tấm huy chương Fields nếu do con người thực hiện.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Chủ trang trại 2.300 con heo dùng chất cấm tạo nạc bị khởi tố",
+      "link": "https://vnexpress.net/chu-trang-trai-2-300-con-heo-dung-chat-cam-tao-nac-bi-khoi-to-5130228.html",
+      "desc": "Bà chủ trang trại bị khởi tố sau khi cảnh sát phát hiện 2.349 con heo trị giá khoảng 15 tỷ đồng có chứa Salbutamol, tương đương hàng trăm tấn heo hơi.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Những ứng viên tiềm năng cho giải Nobel Hòa bình 2026",
+      "link": "https://vnexpress.net/nhung-ung-vien-tiem-nang-cho-giai-nobel-hoa-binh-2026-5128370.html",
+      "desc": "Nobel Hòa bình 2026 có 287 ứng viên, trong đó có những gương mặt nổi bật như Giáo hoàng Leo XIV, trạm ISS và nhiều cá nhân, tổ chức hoạt động vì hòa bình.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Cuộc khủng hoảng niềm tin ở Man Utd",
+      "link": "https://vnexpress.net/cuoc-khung-hoang-niem-tin-o-man-utd-5123953.html",
+      "desc": "Man Utd mới thắng một trong 5 trận đầu Ngoại hạng Anh, với vấn đề liên quan đến niềm tin, cách vận hành và vị thế ngày càng suy giảm.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Nhiều thí sinh 'lạnh nhạt' với ngành Công nghệ thông tin",
+      "link": "https://vnexpress.net/nhieu-thi-sinh-lanh-nhat-voi-nganh-cong-nghe-thong-tin-5128392.html",
+      "desc": "Ấp ủ, luyện thi để vào ngành Công nghệ thông tin từ lớp 11 nhưng đến khi chuẩn bị đăng ký xét tuyển đại học, Ngọc Hân chuyển hướng sang Kỹ thuật Điều khiển và Tự động hóa.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Cửa hàng chứa 300 xe máy ở Hà Nội cháy ngùn ngụt",
+      "link": "https://vnexpress.net/cua-hang-chua-300-xe-may-o-ha-noi-chay-ngun-ngut-5130154.html",
+      "desc": "Cửa hàng ba tầng chuyên bán xe SH cũ trên phố Nguyễn Khánh Toàn, phường Nghĩa Đô, bốc cháy dữ dội, nhiều tiếng nổ vang lên, tối 8/10.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Người Việt chọn thương hiệu ôtô của quốc gia nào nhiều nhất?",
+      "link": "https://vnexpress.net/nguoi-viet-chon-thuong-hieu-oto-cua-quoc-gia-nao-nhieu-nhat-5129780.html",
+      "desc": "Thứ tự ưa chuộng ôtô của người Việt dựa trên doanh số là xe Việt, Nhật, Hàn, Mỹ.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Tổng thống Mỹ gọi Elon Musk là 'báu vật quốc gia'",
+      "link": "https://vnexpress.net/tong-thong-my-goi-elon-musk-la-bau-vat-quoc-gia-5130156.html",
+      "desc": "Tổng thống Trump gọi Elon Musk là \"báu vật quốc gia\" khi trao huân chương khoa học cao quý nhất nước Mỹ cho tỷ phú công nghệ.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Chung cư tên ngoại làm khó cư dân",
+      "link": "https://vnexpress.net/chung-cu-ten-ngoai-lam-kho-cu-dan-5127871.html",
+      "desc": "Mỗi lần ra khỏi nhà, bà Trần Thanh Lệ, 75 tuổi, thường nhét vào túi mảnh giấy ghi địa chỉ tòa Camellia, thuộc Hoàng Huy Commerce, đường Võ Nguyên Giáp, phường Lê Chân, Hải Phòng.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Cha bị khởi tố vì cho con gái 14 tuổi chạy xe máy đi học",
+      "link": "https://vnexpress.net/cha-bi-khoi-to-vi-cho-con-gai-14-tuoi-chay-xe-may-di-hoc-5130196.html",
+      "desc": "Võ Văn Quấn, 35 tuổi, bị khởi tố vì giao xe máy cho con gái lớp 9 đi học và tai nạn giao thông xảy ra khiến đứa trẻ tử vong.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Di dời loạt trụ điện giữa đường mới mở rộng ở nội đô TP HCM",
+      "link": "https://vnexpress.net/di-doi-loat-tru-dien-giua-duong-moi-mo-rong-o-noi-do-tp-hcm-5129667.html",
+      "desc": "Loạt trụ điện khiến đường Chu Văn An (phường Bình Thạnh) dù mở rộng gấp 4 lần nhưng không thể thông xe đang được di dời.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Hoàng hậu Thái Lan lái tiêm kích trong chuyến bay solo đầu tiên",
+      "link": "https://vnexpress.net/hoang-hau-thai-lan-lai-tiem-kich-trong-chuyen-bay-solo-dau-tien-5130137.html",
+      "desc": "Hoàng hậu Thái Lan điều khiển tiêm kích Gripen trong chuyến bay huấn luyện solo đầu tiên tại căn cứ Không quân số 7, dưới sự chứng kiến của Nhà vua Maha Vajiralongkorn sáng 8/10.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Máy bay chở khách Arab Saudi 'bị phá hủy' khi Houthi tập kích Riyadh",
+      "link": "https://vnexpress.net/may-bay-cho-khach-arab-saudi-bi-pha-huy-khi-houthi-tap-kich-riyadh-5130148.html",
+      "desc": "Các nhân chứng cho biết ít nhất một phi cơ tại sân bay thủ đô Riyadh của Arab Saudi đã bị phá hủy trong đòn tập kích của Houthi.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Mỹ sẽ phát trực tiếp buổi xử bắn cựu thiếu tá lục quân",
+      "link": "https://vnexpress.net/my-se-phat-truc-tiep-buoi-xu-ban-cuu-thieu-ta-luc-quan-5130150.html",
+      "desc": "Quan chức Lầu Năm Góc cho biết buổi xử bắn Nidal Hasan, người bị kết án tử hình vì xả súng giết đồng đội, sẽ được truyền hình trực tiếp.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "10 thành phố lớn tốt nhất thế giới 2026",
+      "link": "https://vnexpress.net/10-thanh-pho-lon-tot-nhat-the-gioi-2026-5129937.html",
+      "desc": "Seoul, Tokyo và Phnom Penh lần lượt ở ba vị trí đầu trong danh sách 10 thành phố lớn tốt nhất thế giới năm 2026 do tạp chí du lịch Condé Nast Traveler bình chọn.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Ba cải tiến dự kiến trên iPhone Air 2",
+      "link": "https://vnexpress.net/ba-cai-tien-du-kien-tren-iphone-air-2-5130103.html",
+      "desc": "Nhằm cải thiện doanh số, Apple được cho là sẽ tinh chỉnh iPhone Air 2 mỏng hơn, kèm hai nâng cấp về dung lượng pin và camera.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Nghề đậu bạc nghìn năm ở Thủ đô",
+      "link": "https://vnexpress.net/nghe-dau-bac-nghin-nam-o-thu-do-5129373.html",
+      "desc": "Nghề chế tạc bạc làng Định Công có từ thế kỷ VI, hiện chủ yếu duy trì kỹ thuật chạm bạc, mỗi sản phẩm giá từ vài triệu đến vài chục triệu đồng.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Những người có việc làm đứng ngoài lưới an sinh",
+      "link": "https://vnexpress.net/nhung-nguoi-co-viec-lam-dung-ngoai-luoi-an-sinh-5130149.html",
+      "desc": "Mất việc, Mạnh Khang 31 tuổi ở Hà Nội, chạy xe công nghệ 11 tiếng mỗi ngày suốt ba năm qua và được xếp vào nhóm có việc làm dù không có bảo hiểm xã hội, hợp đồng lao động.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Mỹ dịu giọng tìm lối thoát cho xung đột với Iran",
+      "link": "https://vnexpress.net/my-diu-giong-tim-loi-thoat-cho-xung-dot-voi-iran-5129726.html",
+      "desc": "Những tín hiệu mềm mỏng hơn từ Washington đang mở ra khả năng nối lại đàm phán, song khác biệt lập trường giữa hai bên vẫn là trở ngại lớn.",
+      "source": "vnexpress-noi-bat"
+    },
+    {
+      "title": "Wimbledon dọa dùng lính biệt kích xử lý KOL gây rối",
+      "link": "https://vnexpress.net/wimbledon-doa-dung-linh-biet-kich-xu-ly-kol-gay-roi-5130530.html",
+      "desc": "Lãnh đạo Wimbledon khẳng định lực lượng an ninh được huấn luyện trong quân đội đủ sức ngăn những người làm nội dung mạng xã hội gây gián đoạn trận đấu.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Djokovic thua ngay trận ra quân ở Thượng Hải Masters",
+      "link": "https://vnexpress.net/djokovic-thua-ngay-tran-ra-quan-o-thuong-hai-masters-5130550.html",
+      "desc": "Novak Djokovic thua Hubert Hurkacz 4-6, 3-6 ở vòng hai Thượng Hải Masters ngày 9/10, chỉ ba ngày sau khi vô địch Trung Quốc Mở rộng.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Carragher: 'Man Utd, Liverpool chịu áp lực lớn vì án của Man City'",
+      "link": "https://vnexpress.net/carragher-man-utd-liverpool-chiu-ap-luc-lon-vi-an-cua-man-city-5130464.html",
+      "desc": "Jamie Carragher cho rằng Man Utd, Liverpool và Chelsea sẽ phải đẩy nhanh quá trình cạnh tranh chức vô địch Ngoại hạng Anh nếu Man City nhận án phạt nghiêm khắc vì vi phạm tài chính.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Cầu thủ Man City không quan tâm nếu bị tước danh hiệu",
+      "link": "https://vnexpress.net/cau-thu-man-city-khong-quan-tam-neu-bi-tuoc-danh-hieu-5130444.html",
+      "desc": "Cựu hậu vệ Danny Mills tin các cầu thủ Man City không bị ảnh hưởng nếu các danh hiệu bị tước sau phán quyết vi phạm tài chính của Ngoại hạng Anh, vì kỷ niệm chiến thắng không thể bị xóa nhòa.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Trợ lý HLV tuyển Anh: 'Kane sút bóng tốt hơn Ronaldo'",
+      "link": "https://vnexpress.net/tro-ly-hlv-tuyen-anh-kane-sut-bong-tot-hon-ronaldo-5130370.html",
+      "desc": "Trợ lý HLV tuyển Anh Anthony Barry đánh giá Harry Kane là cầu thủ dứt điểm tốt nhất ông từng làm việc cùng, vượt cả Cristiano Ronaldo.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Mourinho mong còn sống đến khi vụ kiện Man City kết thúc",
+      "link": "https://vnexpress.net/mourinho-mong-con-song-den-khi-vu-kien-man-city-ket-thuc-5130252.html",
+      "desc": "HLV Jose Mourinho đưa ra góc nhìn hài hước về việc chờ đến ngày Man City bị trừng phạt.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Cuộc khủng hoảng niềm tin ở Man Utd",
+      "link": "https://vnexpress.net/cuoc-khung-hoang-niem-tin-o-man-utd-5123953.html",
+      "desc": "Man Utd mới thắng một trong 5 trận đầu Ngoại hạng Anh, với vấn đề liên quan đến niềm tin, cách vận hành và vị thế ngày càng suy giảm.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Cựu tổng biên tập France Football: 'Ronaldo vận động hành lang nhiều hơn Messi'",
+      "link": "https://vnexpress.net/cuu-tong-bien-tap-france-football-ronaldo-van-dong-hanh-lang-nhieu-hon-messi-5129691.html",
+      "desc": "Pascal Ferre, từng là Tổng biên tập tạp chí Pháp France Football trong 26 năm, hé lộ nhiều bí mật về giải thưởng Quả Bóng Vàng.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Ferguson tiếc khi không gặp Guardiola sớm hơn để mời về Man Utd",
+      "link": "https://vnexpress.net/ferguson-tiec-khi-khong-gap-guardiola-som-hon-de-moi-ve-man-utd-5130151.html",
+      "desc": "Trải lòng trong cuốn sách mới mang tên \"Games of My Life\" vừa xuất bản ngày 8/10, cựu HLV Alex Ferguson hồi tưởng lại bữa ăn tối với Pep Guardiola một năm trước khi ông chính thức nghỉ hưu và lựa chọn người kế nhiệm ở Ma",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Mẹ Ronaldo: 'Bồ Đào Nha không trân trọng con trai tôi'",
+      "link": "https://vnexpress.net/me-ronaldo-bo-dao-nha-khong-tran-trong-con-trai-toi-5130143.html",
+      "desc": "Bà Dolores Aveiro cho rằng Cristiano Ronaldo đã cống hiến rất nhiều cho Bồ Đào Nha nhưng không được trân trọng đúng mức, sau khi anh rời đội tuyển vì mâu thuẫn với HLV Jorge Jesus.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "HLV tuyển Benin phàn nàn vì không được đổi áo với Messi",
+      "link": "https://vnexpress.net/hlv-tuyen-benin-phan-nan-vi-khong-duoc-doi-ao-voi-messi-5130167.html",
+      "desc": "HLV trưởng Gernot Rohr của Benin chỉ ra \"điểm trừ duy nhất\" về trận giao hữu với Argentina, thời điểm đánh dấu cuộc chia tay ĐTQG của Lionel Messi.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Cú trượt giá 70 triệu euro của Vinicius",
+      "link": "https://vnexpress.net/cu-truot-gia-70-trieu-euro-cua-vinicius-5130145.html",
+      "desc": "Giá trị chuyển nhượng của Vinicius giảm từ 200 triệu xuống 130 triệu euro trong hai năm, trái ngược đà thăng tiến của Yan Diomande và Arda Guler, trong khi Lamine Yamal vẫn dẫn đầu La Liga.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Hot girl chạy bộ Trung Quốc đi nhờ xe đạp ở Berlin Marathon",
+      "link": "https://vnexpress.net/hot-girl-chay-bo-trung-quoc-di-nho-xe-dap-o-berlin-marathon-5130285.html",
+      "desc": "KOL chạy bộ Trung Quốc Sun Yuanyuan bị hủy kết quả tại Berlin Marathon 2026 sau khi hình ảnh cô ngồi sau xe đạp ở những km cuối cuộc đua lan truyền trên mạng xã hội.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Ronaldo chế giễu bình luận viên Anh vì tiêm Botox",
+      "link": "https://vnexpress.net/ronaldo-che-gieu-binh-luan-vien-anh-vi-tiem-botox-5130146.html",
+      "desc": "Cristiano Ronaldo được cho là đã ví bình luận viên Simon Jordan như quả táo vì khuôn mặt quá căng bóng, sau khi người này chỉ trích anh về vụ mâu thuẫn với HLV Jorge Jesus.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Haaland kêu gọi Man City đoàn kết",
+      "link": "https://vnexpress.net/haaland-keu-goi-man-city-doan-ket-5130142.html",
+      "desc": "Tiền đạo Erling Haaland kêu gọi cầu thủ và người hâm mộ Man City giữ tinh thần lạc quan sau khi CLB bị kết luận vi phạm tài chính, trước trận gặp Liverpool ở vòng 6 Ngoại hạng Anh.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Thần đồng Arsenal nhận ba kỷ lục Guinness ở tuổi 16",
+      "link": "https://vnexpress.net/than-dong-arsenal-nhan-ba-ky-luc-guinness-o-tuoi-16-5130144.html",
+      "desc": "Tiền vệ Max Dowman được Guinness World Records trao ba chứng nhận kỷ lục thế giới, sau những cột mốc lịch sử tại Ngoại hạng Anh và Champions League khi chưa đầy 17 tuổi.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Romario ủng hộ Ronaldo vụ rời khỏi đội tuyển",
+      "link": "https://vnexpress.net/romario-ung-ho-ronaldo-vu-roi-khoi-doi-tuyen-5130092.html",
+      "desc": "Cựu tuyển thủ Brazil khẳng định ông cũng sẽ rời khỏi đội tuyển nếu ở vào hoàn cảnh tương tự Cristiano Ronaldo.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Đình Bắc gây lo lắng trong trận thắng của CAHN",
+      "link": "https://vnexpress.net/dinh-bac-gay-lo-lang-trong-tran-thang-cua-cahn-5130132.html",
+      "desc": "Nguyễn Đình Bắc không thể tự di chuyển ở cuối trận CAHN thắng Lion City Sailors 1-0 tại Cup CLB Đông Nam Á 2026-2027 tối 8/10.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Việt Nam thắng 20-0 ở giải U17 nữ châu Á",
+      "link": "https://vnexpress.net/viet-nam-thang-20-0-o-giai-u17-nu-chau-a-5130112.html",
+      "desc": "Các cô gái trẻ Việt Nam ghi 20 bàn và giữ sạch lưới khi tiếp Quần đảo Bắc Mariana ở bảng D vòng loại U17 nữ châu Á 2027.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Báo Anh: Cầu thủ Lào bị bắt vì dàn xếp tỷ số ở ASEAN Cup 2026",
+      "link": "https://vnexpress.net/bao-anh-cau-thu-lao-bi-bat-vi-dan-xep-ty-so-o-asean-cup-2026-5130078.html",
+      "desc": "Theo Guardian, tiền đạo Suokphachan Lueanthala bị bắt với cáo buộc tiếp tay tổ chức cá độ bất hợp pháp các trận đấu có đội tuyển Lào ở vòng bảng ASEAN Cup 2026.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Vì sao Đình Bắc vẫn bị cấm hai trận ở Asian Cup 2027?",
+      "link": "https://vnexpress.net/vi-sao-dinh-bac-van-bi-cam-hai-tran-o-asian-cup-2027-5130063.html",
+      "desc": "Nguyễn Đình Bắc không thi đấu trận Việt Nam gặp Malaysia ở vòng loại cuối Asian Cup 2027, nhưng LĐBĐ châu Á không tính vào án treo giò hai trận.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Tương phản giữa Messi và Ronaldo trong ngày chia tay đội tuyển",
+      "link": "https://vnexpress.net/tuong-phan-giua-messi-va-ronaldo-trong-ngay-chia-tay-doi-tuyen-5129932.html",
+      "desc": "Lionel Messi chia tay đội tuyển Argentina trong nước mắt và sự tôn vinh, còn Cristiano Ronaldo rời Bồ Đào Nha trong giận dữ sau mâu thuẫn với HLV Jorge Jesus.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Medvedev và 'con quỷ' trỗi dậy trên sân tennis",
+      "link": "https://vnexpress.net/medvedev-va-con-quy-troi-day-tren-san-tennis-5129987.html",
+      "desc": "Điềm tĩnh ngoài đời, Daniil Medvedev lại dễ nổi giận khi cầm vợt, để rồi phải trả giá bằng việc bị truất quyền thi đấu tại Trung Quốc Mở rộng.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Guardiola ra mặt ủng hộ Man City",
+      "link": "https://vnexpress.net/guardiola-ra-mat-ung-ho-man-city-5129973.html",
+      "desc": "Pep Guardiola sẽ dự khán trận Man City tiếp PSG trên sân Etihad ở Champions League ngày 14/10, đánh dấu lần đầu tiên ông trở lại mái nhà xưa sau khi rời CLB hè vừa qua.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Những người kế thừa số áo huyền thoại",
+      "link": "https://vnexpress.net/nhung-nguoi-ke-thua-so-ao-huyen-thoai-5129347.html",
+      "desc": "Lionel Messi chia tay tuyển Argentina và để lại chiếc áo số 10 biểu tượng, gợi nhớ những cuộc chuyển giao nổi tiếng trong lịch sử bóng đá, khi các hậu bối phải tiếp quản số áo từng gắn với Pele, Maradona, Zidane, Ronaldo",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Sẽ ra sao nếu Ronaldo chia tay như Kobe Bryant?",
+      "link": "https://vnexpress.net/se-ra-sao-neu-ronaldo-chia-tay-nhu-kobe-bryant-5129161.html",
+      "desc": "Trên mục góc nhìn báo Bồ Đào Nha A Bola, chuyên gia tư vấn chiến lược và quản trị thể thao Felipe Gomes vạch ra một kế hoạch giả định mà theo đó, ông cho rằng lẽ ra đội tuyển Bồ Đào Nha đã có thể xử lý êm đẹp vụ việc Cri",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Đỗ Hoàng Hên nguy cơ lỡ Asian Cup 2027",
+      "link": "https://vnexpress.net/do-hoang-hen-nguy-co-lo-asian-cup-2027-5129840.html",
+      "desc": "Tiền vệ nhập tịch gốc Brazil Đỗ Hoàng Hên phải nghỉ 3 tháng vì chấn thương, có thể không kịp dự vòng chung kết Asian Cup 2027.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Báo Anh: 'Việt Nam khiến ngôi vô địch của Indonesia bị đặt dấu hỏi'",
+      "link": "https://vnexpress.net/bao-anh-viet-nam-khien-ngoi-vo-dich-cua-indonesia-bi-dat-dau-hoi-5129773.html",
+      "desc": "Tờ Guardian cho rằng chức vô địch FIFA ASEAN Cup 2026 của Indonesia chưa chắc giúp họ được xem là nhà vô địch Đông Nam Á, khi Việt Nam vừa bảo vệ thành công danh hiệu ở giải đấu truyền thống.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Hubner: 'Các đội Đông Nam Á không còn cùng đẳng cấp với Indonesia'",
+      "link": "https://vnexpress.net/hubner-cac-doi-dong-nam-a-khong-con-cung-dang-cap-voi-indonesia-5129689.html",
+      "desc": "Trung vệ Justin Hubner khẳng định Indonesia là \"nhà vua đích thực của Đông Nam Á\" và ở đẳng cấp cao hơn các đội còn lại trong khu vực, sau khi vô địch FIFA ASEAN Cup 2026.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "HLV Jorge Jesus phớt lờ chỉ trích của Ronaldo",
+      "link": "https://vnexpress.net/hlv-jorge-jesus-phot-lo-chi-trich-cua-ronaldo-5129698.html",
+      "desc": "HLV Jorge Jesus từ chối tranh luận về việc Cristiano Ronaldo công khai cáo buộc ông thất hứa, khiến mâu thuẫn giữa hai người chưa có dấu hiệu hạ nhiệt.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Ronaldo tri ân Messi trong ngày chia tay tuyển Argentina",
+      "link": "https://vnexpress.net/ronaldo-tri-an-messi-trong-ngay-chia-tay-tuyen-argentina-5129694.html",
+      "desc": "Cristiano Ronaldo gửi thông điệp tri ân tới Lionel Messi, sau khi siêu sao 39 tuổi người Argentina kết thúc sự nghiệp quốc tế.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Messi gây tranh cãi vì từ chối chụp ảnh với cầu thủ Benin",
+      "link": "https://vnexpress.net/messi-gay-tranh-cai-vi-tu-choi-chup-anh-voi-cau-thu-benin-5129741.html",
+      "desc": "Tiền đạo Lionel Messi bị một bộ phận người hâm mộ chỉ trích vì hai lần từ chối đề nghị chụp ảnh chung của cầu thủ Benin, sau trận thắng 3-0 trong ngày chia tay tuyển Argentina.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Ý nghĩa từ món quà đặc biệt Benin dành tặng Messi",
+      "link": "https://vnexpress.net/y-nghia-tu-mon-qua-dac-biet-benin-danh-tang-messi-5129687.html",
+      "desc": "Ngay trước lúc bóng lăn ở trận giao hữu Argentina – Benin ngày 6/10, thủ quân Lionel Messi nhận được một bức thư, một đóa hồng và một bức tượng.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Cựu danh thủ Bồ Đào Nha: 'Tại sao phải đối xử đặc biệt với Ronaldo?'",
+      "link": "https://vnexpress.net/cuu-danh-thu-bo-dao-nha-tai-sao-phai-doi-xu-dac-biet-voi-ronaldo-5129615.html",
+      "desc": "Huyền thoại Antonio Simoes thất vọng với cách hành xử của Cristiano Ronaldo, cho rằng ngay cả Pele hay Maradona cũng không bao giờ tự ý rời đội tuyển quốc gia.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Arteta ký hợp đồng 106 triệu USD với Arsenal",
+      "link": "https://vnexpress.net/arteta-ky-hop-dong-106-trieu-usd-voi-arsenal-5129695.html",
+      "desc": "HLV Mikel Arteta gia hạn với Arsenal đến 2030, với tổng thu nhập tối đa khoảng 106 triệu USD trong 4 năm, trở thành HLV có thu nhập cao thứ ba thế giới.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "CA TP HCM bị đội bóng Thái Lan cầm hòa ở phút bù",
+      "link": "https://vnexpress.net/ca-tp-hcm-bi-doi-bong-thai-lan-cam-hoa-o-phut-bu-5129663.html",
+      "desc": "Olaha Mạnh Đức ghi siêu phẩm, nhưng CLB CA TP HCM bị chủ nhà Ratchaburi gỡ hòa 1-1 ở phút 90+2 trận ra quân bảng A Cup CLB Đông Nam Á 2026-2027 tối 7/10.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Man City nguy cơ bị cấm dự Cup châu Âu",
+      "link": "https://vnexpress.net/man-city-nguy-co-bi-cam-du-cup-chau-au-5129604.html",
+      "desc": "LĐBĐ châu Âu UEFA đang theo dõi quá trình Man City kháng cáo phán quyết của Ngoại hạng Anh và chờ vụ việc kết thúc trước khi xem xét khả năng cấm CLB dự Champions League.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Ban tổ chức ASIAD 2026 chỉ trích đội teqball Thái Lan 'câu view'",
+      "link": "https://vnexpress.net/ban-to-chuc-asiad-2026-chi-trich-doi-teqball-thai-lan-cau-view-5129582.html",
+      "desc": "Thống đốc tỉnh Aichi kiêm Trưởng Ban tổ chức ASIAD 2026 Hideaki Omura cho rằng đội teqball Thái Lan kêu ca thiếu đồ ăn chỉ để \"câu view\" và hy vọng họ không trở lại Nhật Bản.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Đêm cuối của Messi với đội tuyển Argentina",
+      "link": "https://vnexpress.net/dem-cuoi-cua-messi-voi-doi-tuyen-argentina-5129447.html",
+      "desc": "Tối 6/10, Lionel Messi khép lại chương huy hoàng cùng đội tuyển Argentina, dưới sự chứng kiến của khoảng 85.000 khán giả ngồi chật kín sân Monumental.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Piers Morgan: 'HLV Jorge Jesus bội ước Ronaldo'",
+      "link": "https://vnexpress.net/piers-morgan-hlv-jorge-jesus-boi-uoc-ronaldo-5129225.html",
+      "desc": "Piers Morgan cho rằng Cristiano Ronaldo rời đội tuyển Bồ Đào Nha vì HLV Jorge Jesus nhiều lần thay đổi thỏa thuận về thời gian thi đấu, trong đó có việc để anh khởi động nhưng không vào sân trước Na Uy.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "FIFA ASEAN Cup chưa hẹn ngày trở lại",
+      "link": "https://vnexpress.net/fifa-asean-cup-chua-hen-ngay-tro-lai-5129457.html",
+      "desc": "FIFA hướng tới tổ chức giải đấu theo chu kỳ 4 năm, nhưng nhiều yếu tố có thể tác động đến quá trình thực hiện.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Messi: 'Tôi đau đớn, không muốn chia tay đội tuyển'",
+      "link": "https://vnexpress.net/messi-toi-dau-don-khong-muon-chia-tay-doi-tuyen-5129377.html",
+      "desc": "Lionel Messi thừa nhận rất khó nói lời chia tay đội tuyển Argentina, khẳng định anh muốn tiếp tục khoác áo quốc gia nhưng cảm thấy đây là thời điểm phải dừng lại.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Xác định 2 đội đầu tiên vào tứ kết UEFA Nations League",
+      "link": "https://vnexpress.net/xac-dinh-2-doi-dau-tien-vao-tu-ket-uefa-nations-league-5129344.html",
+      "desc": "Bồ Đào Nha và Tây Ban Nha vào tứ kết UEFA Nations League 2026-2027 sớm hai lượt đấu, sau khi đánh bại Na Uy và Croatia.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "HLV Jorge Jesus bị đe dọa sa thải nếu không xin lỗi Ronaldo",
+      "link": "https://vnexpress.net/hlv-jorge-jesus-bi-de-doa-sa-thai-neu-khong-xin-loi-ronaldo-5129266.html",
+      "desc": "Carlos Padrao, bạn của Jorge Jesus, cho biết một người thuộc ê-kíp của Cristiano Ronaldo đã gọi điện đe dọa sẽ sa thải HLV Jorge Jesus nếu không công khai xin lỗi tiền đạo 41 tuổi.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Messi ghi bàn, lập cú đúp kiến tạo trong trận chia tay Argentina",
+      "link": "https://vnexpress.net/ket-qua-argentina-vs-benin-5129246.html",
+      "desc": "Huyền thoại Lionel Messi ghi bàn và góp hai kiến tạo, giúp Argentina thắng Benin 3-0, trong trận giao hữu tri ân anh tại sân Monumental.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Amber Heard đạt sub 1h40 ngay lần đầu chạy half marathon",
+      "link": "https://vnexpress.net/amber-heard-dat-sub-1h40-ngay-lan-dau-chay-half-marathon-5129452.html",
+      "desc": "Nữ diễn viên Mỹ Amber Heard hoàn thành cuộc thi 21 km đầu tiên trong 1 giờ 39 phút 54 giây, chỉ hơn ba tháng sau khi lần đầu chạy một giải 10 km.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Ronaldo: 'Jorge Jesus hai lần thất hứa với tôi'",
+      "link": "https://vnexpress.net/ronaldo-jorge-jesus-hai-lan-that-hua-voi-toi-5129245.html",
+      "desc": "Cristiano Ronaldo cho rằng HLV Jorge Jesus hai lần không giữ lời, nhưng anh khẳng định vẫn sẵn sàng khoác áo Bồ Đào Nha và xin lỗi đồng đội vì tự ý rời đội tuyển.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Chanathip: 'Trình độ cầu thủ Thái Lan không kém cầu thủ lai Indonesia'",
+      "link": "https://vnexpress.net/chanathip-trinh-do-cau-thu-thai-lan-khong-kem-cau-thu-lai-indonesia-5129195.html",
+      "desc": "Thái Lan thua Indonesia ở chung kết FIFA ASEAN Cup 2026 nhưng Chanathip Songkrasin tin rằng chất lượng nhân sự hai đội không chênh lệch.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Tây Ban Nha thắng Croatia, vào tứ kết Nations League",
+      "link": "https://vnexpress.net/tay-ban-nha-thang-croatia-vao-tu-ket-nations-league-5129251.html",
+      "desc": "Tiền vệ Mikel Merino vào sân từ ghế dự bị rồi ghi hai bàn, giúp Tây Ban Nha ngược dòng thắng Croatia 2-1 ở lượt bốn bảng A3 và sớm giành vé vào tứ kết Nations League.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Kane lập cú đúp trong ngày đi vào lịch sử tuyển Anh",
+      "link": "https://vnexpress.net/kane-lap-cu-dup-trong-ngay-di-vao-lich-su-tuyen-anh-5129249.html",
+      "desc": "Harry Kane ghi hai bàn giúp Anh thắng CH Czech 3-0 ở lượt bốn bảng A3 Nations League, trong ngày cân bằng kỷ lục 125 lần khoác áo đội tuyển của Peter Shilton.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Djokovic vô địch cả bảy lần dự giải Bắc Kinh",
+      "link": "https://vnexpress.net/djokovic-vo-dich-ca-bay-lan-du-giai-bac-kinh-5129213.html",
+      "desc": "Tay vợt Novak Djokovic nối dài mạch toàn thắng tại Bắc Kinh lên 34 trận, khi Alex de Minaur bỏ cuộc ở chung kết Trung Quốc Mở rộng ngày 6/10.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Alcaraz giải cơn khát danh hiệu",
+      "link": "https://vnexpress.net/alcaraz-giai-con-khat-danh-hieu-5129207.html",
+      "desc": "Hạt giống số một Carlos Alcaraz hạ Jiri Lehecka 7-6(4), 6-4 ở chung kết Nhật Bản Mở rộng ngày 6/10, giành danh hiệu đầu tiên sau gần tám tháng.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Sinner sớm kết thúc mùa giải 2026",
+      "link": "https://vnexpress.net/sinner-som-ket-thuc-mua-giai-2026-5129202.html",
+      "desc": "Tay vợt số một thế giới Jannik Sinner nghỉ hết năm 2026 để điều trị đầu gối phải, mở đường cho Alexander Zverev lên đỉnh bảng ATP.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Trung Quốc bị lật đổ ở giải cờ tướng châu Á",
+      "link": "https://vnexpress.net/trung-quoc-bi-lat-do-o-giai-co-tuong-chau-a-5129198.html",
+      "desc": "Phùng Gia Tuấn (Hong Kong) đánh bại Vương Vũ Bác ở loạt cờ chớp chung kết để vô địch cá nhân nam cờ tướng châu Á 2026, chấm dứt chuỗi năm kỳ đăng quang của Trung Quốc.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Thủ thành Benin: 'Tôi sẽ không biếu bàn thắng cho Messi'",
+      "link": "https://vnexpress.net/thu-thanh-benin-toi-se-khong-bieu-ban-thang-cho-messi-5129008.html",
+      "desc": "Thủ thành Marcel Dandjinou hết mực ca ngợi Lionel Messi, nhưng tuyên bố sẽ ra sân và thi đấu với lòng tự tôn trong trận giã từ ĐTQG của huyền thoại bóng đá Argentina.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "'Bóng đá Việt Nam cần thay đổi tư duy phục vụ ĐTQG'",
+      "link": "https://vnexpress.net/bong-da-viet-nam-can-thay-doi-tu-duy-phuc-vu-dtqg-5129054.html",
+      "desc": "Các chuyên gia Bae Ji-won và Đoàn Minh Xương cho rằng đội tuyển Việt Nam chỉ nên tập trung lực lượng mạnh nhất ở lịch FIFA Days, để hòa nhập với thế giới và bảo vệ sức khỏe cầu thủ.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Medvedev trả giá đắt sau sự cố đánh bóng trúng khán giả ở Bắc Kinh",
+      "link": "https://vnexpress.net/medvedev-tra-gia-dat-sau-su-co-danh-bong-trung-khan-gia-o-bac-kinh-5129040.html",
+      "desc": "Tay vợt Daniil Medvedev mất 219.000 USD, 200 điểm ATP và lợi thế trong cuộc đua dự ATP Finals sau khi bị truất quyền thi đấu tại Trung Quốc Mở rộng 2026.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Hơn hai thập kỷ của Messi ở Argentina",
+      "link": "https://vnexpress.net/hon-hai-thap-ky-cua-messi-o-argentina-5129032.html",
+      "desc": "Trước khi chia tay hôm nay 6/10, Lionel Messi đã lập kỷ lục 207 trận, ghi 125 bàn và giành mọi danh hiệu cao quý nhất cho đội tuyển Argentina.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Báo Đông Nam Á nói gì về thất bại của Việt Nam ở FIFA ASEAN Cup?",
+      "link": "https://vnexpress.net/bao-dong-nam-a-noi-gi-ve-that-bai-cua-viet-nam-o-fifa-asean-cup-5126031.html",
+      "desc": "Truyền thông Indonesia, Thái Lan hay Malaysia đều dành sự quan tâm nhất định đến việc đội tuyển Việt Nam đứt chuỗi 27 trận bất bại rồi kết thúc ngoài top 3 ở FIFA ASEAN Cup 2026.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Trung vệ Indonesia nhại cách ăn mừng của Hai Long",
+      "link": "https://vnexpress.net/trung-ve-indonesia-nhai-cach-an-mung-cua-hai-long-5128954.html",
+      "desc": "Sau khi cùng Indonesia vô địch FIFA ASEAN Cup, Justin Hubner chỉ tay vào logo giải đấu trên tay áo rồi dang hai tay và bĩu môi, giống cách mừng bàn thắng của Nguyễn Hai Long.",
+      "source": "vnexpress-the-thao"
+    },
+    {
+      "title": "Nhịp sống Hà Nội thập niên 1990 qua ống kính nhiếp ảnh gia Anh",
+      "link": "https://vnexpress.net/nhip-song-ha-noi-thap-nien-1990-qua-ong-kinh-nhiep-anh-gia-anh-5130391.html",
+      "desc": "Nhiếp ảnh gia Andy Soloman ghi lại cảnh người dân xem xiếc ở Rạp Xiếc Trung ương, tập thể dục trong công viên Lê Nin, tháng 10/1992.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Gu mặc năng động của Hoàng hậu Đan Mạch",
+      "link": "https://vnexpress.net/gu-mac-nang-dong-cua-hoang-hau-dan-mach-5128462.html",
+      "desc": "Hoàng hậu Mary của Đan Mạch được khen ngợi về nhan sắc cùng phong cách mặc trẻ trung, tạo sự gần gũi.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Minh Kiên uống nước bùn khi đóng 'Trại buôn người'",
+      "link": "https://vnexpress.net/minh-kien-uong-nuoc-bun-khi-dong-trai-buon-nguoi-5127497.html",
+      "desc": "Á hậu Minh Kiên vượt áp lực đóng cảnh bị túm tóc, nhảy sông trong \"Trại buôn người\" - phim điện ảnh đang đạt doanh thu hơn 350 tỷ đồng.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Trùm nhạc rap Diddy 'sống sung túc trong tù'",
+      "link": "https://vnexpress.net/trum-nhac-rap-diddy-song-sung-tuc-trong-tu-5126945.html",
+      "desc": "Rapper Diddy bị dời hạn ra tù sau khi truyền thông đưa tin anh có cuộc sống xa hoa, dùng chất cấm và điện thoại trong trại giam.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "'Đường Tăng' La Gia Anh lo kiếm tiền chữa bệnh",
+      "link": "https://vnexpress.net/duong-tang-la-gia-anh-lo-kiem-tien-chua-benh-5130414.html",
+      "desc": "Nghệ sĩ Hong Kong La Gia Anh nói không dám nghỉ hưu ở tuổi 80, vẫn nhận công việc để có thêm kinh phí dưỡng già.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "TikToker 1,48 m gây chú ý tại The Face Vietnam",
+      "link": "https://vnexpress.net/tiktoker-1-48-m-gay-chu-y-tai-the-face-vietnam-5130026.html",
+      "desc": "TikToker Trần Anh Thư là thí sinh thấp nhất The Face Vietnam qua các mùa với chiều cao 1,48 m.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Anne Carson: Viết để chống lại sự nhàm chán",
+      "link": "https://vnexpress.net/anne-carson-viet-de-chong-lai-su-nham-chan-5130069.html",
+      "desc": "Gọi sự nhàm chán là \"kẻ thù không đội trời chung\", Anne Carson, chủ nhân Nobel Văn học 2026, thường phá vỡ khuôn khổ phong cách sáng tác.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Ông Lưu Đình Phúc giữ chức Cục trưởng Xuất bản và Thư viện",
+      "link": "https://vnexpress.net/ong-luu-dinh-phuc-giu-chuc-cuc-truong-xuat-ban-va-thu-vien-5130311.html",
+      "desc": "Ông Lưu Đình Phúc được điều động làm Cục trưởng Cục Xuất bản và Thư viện; ông Lê Quang Tự Do thay ông Phúc giữ chức Cục trưởng Cục Báo chí.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Nguyễn Văn Chung: 'Tôi hạnh phúc vì sửa được nhà cho bố'",
+      "link": "https://vnexpress.net/nguyen-van-chung-toi-hanh-phuc-vi-sua-duoc-nha-cho-bo-5129512.html",
+      "desc": "Nhạc sĩ Nguyễn Văn Chung nói hoàn thành mục tiêu lớn nhất năm là cải tạo nhà phố 128 m2 dành cho bố tại TP HCM.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Phạm Băng Băng hóa 'bông mẫu đơn bung nở'",
+      "link": "https://vnexpress.net/pham-bang-bang-hoa-bong-mau-don-bung-no-5130201.html",
+      "desc": "Diễn viên Trung Quốc Phạm Băng Băng được các tạp chí nhận xét lộng lẫy trong thiết kế đính hoa lụa.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Kim Kardashian diện áo choàng bọ cạp",
+      "link": "https://vnexpress.net/kim-kardashian-dien-ao-choang-bo-cap-5130162.html",
+      "desc": "Ngôi sao truyền hình Kim Kardashian diện áo choàng hình bọ cạp trong phim mới, gợi nhớ đến huyền thoại Elizabeth Taylor.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Những xu hướng mùa thu sao Việt lựa chọn",
+      "link": "https://vnexpress.net/nhung-xu-huong-mua-thu-sao-viet-lua-chon-5129269.html",
+      "desc": "Hồ Ngọc Hà thể hiện cá tính với đồ da, Thanh Thủy tạo vẻ năng động cùng giày ballet.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Hồ Ngọc Hà và dàn sao diện phá cách",
+      "link": "https://vnexpress.net/ho-ngoc-ha-va-dan-sao-dien-pha-cach-5130230.html",
+      "desc": "Hồ Ngọc Hà, Suboi, Mỹ Anh, Hồng Nhung diện phong cách avant-garde kết hợp vị lai ở triển lãm của nhà thiết kế Cường Đàm.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Công Ninh từng nhận cátxê là một ổ bánh mì",
+      "link": "https://vnexpress.net/cong-ninh-tung-nhan-catxe-la-mot-o-banh-mi-5129895.html",
+      "desc": "Nghệ sĩ Công Ninh nói thời trẻ, ông chật vật gây dựng tên tuổi, nhận những vai phụ với thù lao là một ổ bánh mì.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Video AI 'tỷ phú Jensen Huang nhảy như Michael Jackson' gây sốt",
+      "link": "https://vnexpress.net/video-ai-ty-phu-jensen-huang-nhay-nhu-michael-jackson-gay-sot-5129931.html",
+      "desc": "Video AI tạo tiết mục \"CEO Nvidia Jensen Huang nhảy như Michael Jackson\" đạt hàng triệu lượt xem, thu hút sự chú ý của tỷ phú Elon Musk.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Vợ Messi: 'Tự hào chung đường cùng anh'",
+      "link": "https://vnexpress.net/vo-messi-tu-hao-chung-duong-cung-anh-5129810.html",
+      "desc": "Người mẫu Antonela Roccuzzo, vợ cầu thủ Messi, xúc động khi chồng chia tay tuyển quốc gia Argentina sau hai thập niên cống hiến.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Dàn mỹ nhân trong phim 18+ 'Trại buôn người'",
+      "link": "https://vnexpress.net/dan-my-nhan-trong-phim-18-trai-buon-nguoi-5129548.html",
+      "desc": "Diễn viên Khánh My, Khánh Linh được khán giả quan tâm sau khi đóng vai nạn nhân đường dây lừa đảo trong phim 18+ \"Trại buôn người\".",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Khán giả phản ứng trailer hoạt hình AI của Nguyễn Quang Dũng",
+      "link": "https://vnexpress.net/khan-gia-phan-ung-trailer-hoat-hinh-ai-cua-nguyen-quang-dung-5128924.html",
+      "desc": "Trailer phim \"Thế giới trần trụi\" của đạo diễn Nguyễn Quang Dũng bị nhiều khán giả nhận xét lạm dụng AI, chất lượng hình ảnh gượng gạo.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Anne Carson nhận tin thắng Nobel khi 'đang ở Iceland lắng nghe tiếng gió'",
+      "link": "https://vnexpress.net/anne-carson-nhan-tin-thang-nobel-khi-dang-o-iceland-lang-nghe-tieng-gio-5130093.html",
+      "desc": "Nhà thơ Anne Carson nhận cuộc gọi báo tin bà thắng Nobel khi đang ở Iceland để được \"lắng nghe tiếng gió\", bất ngờ đến không thể trả lời mạch lạc câu hỏi của ban tổ chức.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Mốt phô bày cơ thể ở Tuần lễ thời trang Paris",
+      "link": "https://vnexpress.net/mot-pho-bay-co-the-o-tuan-le-thoi-trang-paris-5129823.html",
+      "desc": "Mốt \"cởi bỏ\" và \"nghệ thuật phô bày cơ thể\" được Chanel, Balenciaga, Tom Ford đẩy mạnh ở Paris Fashion Week.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Nhà thơ Canada Anne Carson thắng Nobel Văn học 2026",
+      "link": "https://vnexpress.net/nha-tho-canada-anne-carson-thang-nobel-van-hoc-2026-5130022.html",
+      "desc": "Nhà thơ Anne Carson, 76 tuổi, đoạt Nobel Văn học 2026 vì sự nghiệp văn chương \"táo bạo và sáng tạo\", với tiền thưởng khoảng 1,2 triệu USD (hơn 31 tỷ đồng).",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "MV tái hiện Hà Nội xưa bằng AI",
+      "link": "https://vnexpress.net/mv-tai-hien-ha-noi-xua-bang-ai-5129237.html",
+      "desc": "Đặng Ngọc Anh, 22 tuổi, kết hợp AI để thực hiện MV \"Sau những ngày yêu xa\" với bối cảnh Hà Nội xưa.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Sao 'Transformers' Shia LaBeouf ly hôn",
+      "link": "https://vnexpress.net/sao-transformers-shia-labeouf-ly-hon-5129822.html",
+      "desc": "Tài tử Shia LaBeouf và mỹ nhân \"The Odyssey\" Mia Goth ly hôn sau 10 năm gắn bó, Goth giành quyền nuôi con và không yêu cầu chồng trợ cấp.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Trương Nghệ Mưu lập đội 'tinh hoa AI' quay bom tấn viễn tưởng",
+      "link": "https://vnexpress.net/truong-nghe-muu-lap-doi-tinh-hoa-ai-quay-bom-tan-vien-tuong-5129761.html",
+      "desc": "Đạo diễn Trung Quốc Trương Nghệ Mưu thành lập tổ gồm các tinh hoa lĩnh vực AI để hỗ trợ ông thực hiện phim khoa học viễn tưởng.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Britney Spears đi chơi cùng hai con",
+      "link": "https://vnexpress.net/britney-spears-di-choi-cung-hai-con-5129749.html",
+      "desc": "Ca sĩ Britney Spears đăng ảnh đi chơi cùng hai con trai Sean, Jayden sau nửa năm bị bắt vì vi phạm luật giao thông.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Nghệ sĩ Kim Xuân: 'Càng giản dị, càng hạnh phúc'",
+      "link": "https://vnexpress.net/nghe-si-kim-xuan-cang-gian-di-cang-hanh-phuc-5129626.html",
+      "desc": "Nghệ sĩ Nhân dân Kim Xuân cho biết vợ chồng bà sống giản dị, đi làm bằng metro, xe buýt, tranh thủ đi bộ để ngắm thành phố.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Mở cổng bình chọn giải thưởng Vietnam iContent Awards 2026",
+      "link": "https://vnexpress.net/mo-cong-binh-chon-giai-thuong-vietnam-icontent-awards-2026-5128824.html",
+      "desc": "Độc giả có thể bình chọn nhà sáng tạo, sản phẩm số và cá nhân, tổ chức vì cộng đồng cho hơn 175 đề cử Vietnam iContent Awards 2026, từ ngày 8/10 đến hết 29/10.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Màn diễn 'Thầy phù thủy' ở Miss Grand 2026",
+      "link": "https://vnexpress.net/man-dien-thay-phu-thuy-o-miss-grand-2026-5129872.html",
+      "desc": "Angelica Lopez thể hiện trang phục lấy cảm hứng từ truyền thuyết trong văn hóa Philippines tại Miss Grand International 2026.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "5 thí sinh nổi bật tại bán kết Miss Grand International 2026",
+      "link": "https://vnexpress.net/5-thi-sinh-noi-bat-tai-ban-ket-miss-grand-international-2026-5129830.html",
+      "desc": "Hoa hậu Emoura Phạm cùng thí sinh của Ecuador, Tanzania, Cuba, Venezuela vào top đầu ứng viên tại bán kết Miss Grand International 2026.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Người mẫu Tú Anh gặp gỡ 'Nữ hoàng tạo dáng' Coco Rocha",
+      "link": "https://vnexpress.net/nguoi-mau-tu-anh-gap-go-nu-hoang-tao-dang-coco-rocha-5129379.html",
+      "desc": "Huỳnh Tú Anh lần đầu trò chuyện với siêu mẫu quốc tế Coco Rocha tại hậu trường show thời trang ở Paris.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Chiều nay công bố giải Nobel Văn học 2026",
+      "link": "https://vnexpress.net/chieu-nay-cong-bo-giai-nobel-van-hoc-2026-5129644.html",
+      "desc": "Viện Hàn lâm Thụy Điển tại Stockholm sẽ công bố tác giả đoạt Nobel Văn học lúc 13h ngày 8/10 (18h cùng ngày giờ Hà Nội).",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Quyền Linh nghỉ dẫn chương trình 'Vì bạn xứng đáng'",
+      "link": "https://vnexpress.net/quyen-linh-nghi-dan-chuong-trinh-vi-ban-xung-dang-5125443.html",
+      "desc": "MC, diễn viên Quyền Linh không dẫn dắt game show \"Vì bạn xứng đáng\" ở mùa mới, người thay thế là Nguyên Khang.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Cuộc tình dẫn đến thảm kịch của người mẫu Thái Thiên Phượng",
+      "link": "https://vnexpress.net/cuoc-tinh-dan-den-tham-kich-cua-nguoi-mau-thai-thien-phuong-5128928.html",
+      "desc": "Người mẫu Hong Kong Thái Thiên Phượng có con với Quảng Cảng Trí năm 19 tuổi, sau khi ly dị, cô trợ cấp cho cả nhà chồng.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "'Danh ca Nhật yêu nhạc Trịnh' trở lại Việt Nam",
+      "link": "https://vnexpress.net/danh-ca-nhat-yeu-nhac-trinh-tro-lai-viet-nam-5129413.html",
+      "desc": "Tokiko Kato - danh ca nổi tiếng khi hát \"Diễm xưa\" bằng tiếng Nhật - trở lại TP HCM viếng mộ Trịnh Công Sơn, và biểu diễn ở Hà Nội vào tháng 11.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Con trai quẹt nước mắt khi Messi đá trận cuối cho Argentina",
+      "link": "https://vnexpress.net/con-trai-quet-nuoc-mat-khi-messi-da-tran-cuoi-cho-argentina-5129527.html",
+      "desc": "Thiago Messi, 14 tuổi, buồn bã khi cha đấu trận cuối cùng trong màu áo đội tuyển quốc gia Argentina.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Chồng khóc bên mộ Từ Hy Viên",
+      "link": "https://vnexpress.net/chong-khoc-ben-mo-tu-hy-vien-5129508.html",
+      "desc": "Nghệ sĩ âm nhạc Hàn DJ Koo viếng mộ Từ Hy Viên dịp sinh nhật cô, thổ lộ nỗi nhớ, tình yêu với bạn đời.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Lisa 'gây mê mẩn' ở tuần thời trang Paris",
+      "link": "https://vnexpress.net/lisa-gay-me-man-o-tuan-thoi-trang-paris-5129298.html",
+      "desc": "Ca sĩ Thái Lan Lisa được các tạp chí thời trang nhận xét vẻ đẹp \"gây mê mẩn\" khi dự tuần thời trang Paris 2026.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Cách trang điểm tôn nét đẹp của vợ Hoài Lâm ngày cưới",
+      "link": "https://vnexpress.net/cach-trang-diem-ton-net-dep-cua-vo-hoai-lam-ngay-cuoi-5129536.html",
+      "desc": "Vợ ca sĩ Hoài Lâm, Ngọc Trinh, 22 tuổi, được khán giả khen rạng rỡ nhờ trang điểm tự nhiên trong tiệc cưới.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Lý do kết quả Nobel Văn học 'đoán lúc nào cũng trật lất'",
+      "link": "https://vnexpress.net/ly-do-ket-qua-nobel-van-hoc-doan-luc-nao-cung-trat-lat-5128888.html",
+      "desc": "Danh sách ứng viên chỉ công khai sau 50 năm, tiêu chí đánh giá bí mật và khó lường khiến Nobel Văn học là giải khó đoán.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Doanh thu thấp, phim của Cổ Thiên Lạc bị hủy chiếu",
+      "link": "https://vnexpress.net/doanh-thu-thap-phim-cua-co-thien-lac-bi-huy-chieu-5129463.html",
+      "desc": "Phim \"Trinh chiến\" do Cổ Thiên Lạc, Thử Sa đóng chính rút khỏi rạp Trung Quốc sau 5 ngày phát hành.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Nghệ sĩ Xuân Bắc, Tự Long tham gia 'Chắp cánh tuổi thơ'",
+      "link": "https://vnexpress.net/nghe-si-xuan-bac-tu-long-tham-gia-chap-canh-tuoi-tho-5129236.html",
+      "desc": "Nghệ sĩ Xuân Bắc, Tự Long sẽ giao lưu khán giả nhí trong chương trình ''Chắp cánh tuổi thơ'', ngày 10/10.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Tăng Thanh Hà diện đầm dạ hội tơ tằm Bảo Lộc",
+      "link": "https://vnexpress.net/tang-thanh-ha-dien-dam-da-hoi-to-tam-bao-loc-5128172.html",
+      "desc": "Diễn viên Tăng Thanh Hà làm nàng thơ bộ sưu tập \"Numéro 6 - Vũ khúc cố đô\" của Nguyễn Phúc Tuấn với chất liệu lụa tơ tằm.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Celine Dion theo mốt quần phóng đại",
+      "link": "https://vnexpress.net/celine-dion-theo-mot-quan-phong-dai-5129149.html",
+      "desc": "Danh ca Celine Dion diện mẫu quần cạp siêu rộng với kính râm bản lớn, được khen \"biến đường phố thành sàn catwalk\".",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "'Phía đông vườn địa đàng': Thiện, ác nằm ở lựa chọn",
+      "link": "https://vnexpress.net/phia-dong-vuon-dia-dang-thien-ac-nam-o-lua-chon-5129205.html",
+      "desc": "\"Phía đông vườn địa đàng\" của John Steinbeck cho rằng bản tính thiện, ác thuộc về quyền tự quyết của con người.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Trang Pháp biến hóa vũ đạo trước 25.000 khán giả Trung Quốc",
+      "link": "https://vnexpress.net/trang-phap-bien-hoa-vu-dao-truoc-25-000-khan-gia-trung-quoc-5129137.html",
+      "desc": "Ca sĩ Trang Pháp thực hiện các động tác đu cột, tung người trên không, dancesport khi tham gia concert hút hàng chục nghìn khán giả ở Trung Quốc.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Emoura Phạm diễn trang phục 'Vinh quy bái tổ'",
+      "link": "https://vnexpress.net/emoura-pham-dien-trang-phuc-vinh-quy-bai-to-5129470.html",
+      "desc": "Hoa hậu Emoura Phạm mang thiết kế \"Vinh quy bái tổ\" nặng 20 kg thi trang phục dân tộc tại Miss Grand International 2026.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Pháo, rapper triệu view thành á hậu",
+      "link": "https://vnexpress.net/phao-rapper-trieu-view-thanh-a-hau-5128583.html",
+      "desc": "Rapper Pháo, 23 tuổi, thay đổi từ hình ảnh gai góc trên sân khấu âm nhạc sang quyến rũ tại Miss Universe Vietnam 2026.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Hoài Lâm lái xe máy đèo cô dâu về nhà",
+      "link": "https://vnexpress.net/hoai-lam-lai-xe-may-deo-co-dau-ve-nha-5128853.html",
+      "desc": "Ca sĩ Hoài Lâm, 31 tuổi, dùng xe máy rước cô dâu Ngọc Trinh, 22 tuổi, về nhà làm lễ tân hôn, sáng 6/10.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Hà Trúc Linh khoe sắc bên thí sinh Hoa hậu Việt Nam 2026",
+      "link": "https://vnexpress.net/ha-truc-linh-khoe-sac-ben-thi-sinh-hoa-hau-viet-nam-2026-5129174.html",
+      "desc": "Hà Trúc Linh dự sự kiện cùng Á hậu Châu Anh, Vân Nhi và 53 thí sinh Hoa hậu Việt Nam 2026, ngày 6/10.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Dương Tử Quỳnh được vinh danh tại Liên hoan phim Busan",
+      "link": "https://vnexpress.net/duong-tu-quynh-duoc-vinh-danh-tai-lien-hoan-phim-busan-5129220.html",
+      "desc": "Minh tinh gốc Malaysia Dương Tử Quỳnh nhận danh hiệu Nhà làm phim châu Á ưu tú tại lễ khai mạc LHP Busan, ngày 6/10.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Phong cách đời thường của siêu mẫu giàu nhất Trung Quốc",
+      "link": "https://vnexpress.net/phong-cach-doi-thuong-cua-sieu-mau-giau-nhat-trung-quoc-5128795.html",
+      "desc": "Lưu Văn - siêu mẫu giàu nhất Trung Quốc - thường diện những bộ đồ rộng, phong cách unisex ở tuổi gần 40.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Nguyễn Trương Quý viết về những 'dấu vân tay' của Hà Nội",
+      "link": "https://vnexpress.net/nguyen-truong-quy-viet-ve-nhung-dau-van-tay-cua-ha-noi-5128051.html",
+      "desc": "Nhà văn Trương Quý khai thác những chuyện phía sau câu ''Hàng Đào lụa đỏ, Hàng Ngang áo xanh'', trong sách ''Dấu vân tay của phố''.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "110 tác phẩm của họa sĩ Văn Giáo trưng bày ở TP HCM",
+      "link": "https://vnexpress.net/110-tac-pham-cua-hoa-si-van-giao-trung-bay-o-tp-hcm-5125241.html",
+      "desc": "Không khí lao động ở hầm mỏ, nhịp sinh hoạt và chiến đấu ở thập niên 1940-1960 được khắc họa sống động qua tranh của Văn Giáo.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Đàm Vĩnh Hưng và đồng nghiệp chúc phúc Hoài Lâm",
+      "link": "https://vnexpress.net/dam-vinh-hung-va-dong-nghiep-chuc-phuc-hoai-lam-5129044.html",
+      "desc": "Đàm Vĩnh Hưng từ TP HCM về Vĩnh Long hát sáu bài ở tiệc cưới Hoài Lâm, cùng các đồng nghiệp chúc phúc đàn em, trưa 6/10.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Mông Gia Tuệ: 'Tôi bình an khi ở bên Trịnh Y Kiện'",
+      "link": "https://vnexpress.net/mong-gia-tue-toi-binh-an-khi-o-ben-trinh-y-kien-5128851.html",
+      "desc": "Diễn viên Hong Kong Mông Gia Tuệ nói chồng - Trịnh Y Kiện - giúp cô vượt qua sợ hãi và ám ảnh, sống bình an.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Dàn diễn viên phụ làm nên thành công của 'Trại buôn người'",
+      "link": "https://vnexpress.net/dan-dien-vien-phu-lam-nen-thanh-cong-cua-trai-buon-nguoi-5128625.html",
+      "desc": "Cascadeur Hoàng Tóc Dài, diễn viên Võ Đình Hiếu cùng nhiều vai phụ góp phần làm nên doanh thu hơn 300 tỷ đồng của \"Trại buôn người\".",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Phim tài liệu 'Mayday' giúp hành khách cứu chuyến bay flydubai",
+      "link": "https://vnexpress.net/phim-tai-lieu-mayday-giup-hanh-khach-cuu-chuyen-bay-flydubai-5128590.html",
+      "desc": "Loạt phim tài liệu nghiên cứu tai nạn hàng không \"Mayday\" trang bị kiến thức giúp hành khách Yaniv Hayun cứu sống 174 người trên chuyến bay của flydubai.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Ra mắt không gian nghệ thuật Saigon Art Hub",
+      "link": "https://vnexpress.net/ra-mat-khong-gian-nghe-thuat-saigon-art-hub-5123900.html",
+      "desc": "Saigon Art Hub mở màn với sân khấu mô phỏng một công trình đang thành hình, quy tụ các nghệ sĩ thể nghiệm múa đương đại, âm nhạc giao thoa Đông - Tây.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "'The Dream Chaser': Dám sống với ước mơ",
+      "link": "https://vnexpress.net/the-dream-chaser-dam-song-voi-uoc-mo-5128466.html",
+      "desc": "Cuốn ''The Dream Chaser'' không cổ vũ những khát vọng viển vông mà đề cao sự kiên trì, tinh thần chủ động trong việc kiến tạo cuộc đời.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Êkíp 'Đường tới thành Thăng Long' dùng AI sửa cảnh chiến đấu",
+      "link": "https://vnexpress.net/ekip-duong-toi-thanh-thang-long-dung-ai-sua-canh-chien-dau-5127735.html",
+      "desc": "Đoàn phim \"Đường tới thành Thăng Long\" dùng AI chỉnh sửa một số đại cảnh giao chiến, dời đô, trước khi tác phẩm phát sóng lần thứ hai.",
+      "source": "vnexpress-giai-tri"
+    },
+    {
+      "title": "Cách Trung Quốc tận dụng nguồn điện xanh dư thừa cho cuộc đua AI",
+      "link": "https://dantri.com.vn/kinh-doanh/cach-trung-quoc-tan-dung-nguon-dien-xanh-du-thua-cho-cuoc-dua-ai-20261009164136570.htm",
+      "desc": "(Dân trí) - Nguồn điện tái tạo dồi dào ở các vùng sa mạc xa xôi đang trở thành đòn bẩy lớn, giúp Trung Quốc cấp điện giá rẻ cho các trung tâm dữ liệu AI và định hình lại toàn bộ hạ tầng năng lượng.",
+      "source": "dantri"
+    },
+    {
+      "title": "Thủ tướng Lê Minh Hưng hội kiến Chủ tịch Đảng Nhân dân Campuchia, Chủ tịch Thượng viện Campuchia Hun Sen",
+      "link": "https://dantri.com.vn/thoi-su/thu-tuong-le-minh-hung-hoi-kien-chu-tich-dang-nhan-dan-campuchia-chu-tich-thuong-vien-campuchia-hun-sen-20261010000137294.htm",
+      "desc": "Để đưa quan hệ hai nước phát triển mạnh mẽ hơn trong giai đoạn mới, hai nhà lãnh đạo nhất trí tiếp tục phát huy các cơ chế hợp tác hiện có trên tất cả các kênh, trong đó có cuộc gặp hai Đảng.",
+      "source": "dantri"
+    },
+    {
+      "title": "Cháy xe khách ở TPHCM, nhiều người thoát nạn kịp thời",
+      "link": "https://dantri.com.vn/thoi-su/chay-xe-khach-o-tphcm-nhieu-nguoi-thoat-nan-kip-thoi-20261009222952724.htm",
+      "desc": "(Dân trí) - Tài xế lái chiếc xe khách chạy trên đường 30 Tháng 4, phường Phước Thắng (TPHCM), bất ngờ phương tiện bốc cháy và bị lửa thiêu rụi.",
+      "source": "dantri"
+    },
+    {
+      "title": "Giá cổ phiếu giảm, ngân hàng SHB lên tiếng về những tin đồn",
+      "link": "https://dantri.com.vn/kinh-doanh/gia-co-phieu-giam-ngan-hang-shb-len-tieng-ve-nhung-tin-don-20261009230718902.htm",
+      "desc": "(Dân trí) - Trước những thông tin chưa được kiểm chứng xuất hiện trên thị trường, SHB khẳng định hoạt động ổn định, triển khai tăng vốn đúng quy định, đa dạng hóa nguồn lực tài chính.",
+      "source": "dantri"
+    },
+    {
+      "title": "Bất ngờ chuỗi phòng tập Citigym nợ thuế gần 10 tỷ đồng",
+      "link": "https://dantri.com.vn/kinh-doanh/bat-ngo-chuoi-phong-tap-citigym-no-thue-gan-10-ty-dong-20261009223919807.htm",
+      "desc": "(Dân trí) - Citigym đứng thứ 5 trong danh sách nợ thuế tại Thuế cơ sở 10 với số tiền hơn 9,5 tỷ đồng, tăng gần 2 tỷ đồng tiền nợ thuế so với tháng trước.",
+      "source": "dantri"
+    },
+    {
+      "title": "Thủ tướng Lê Minh Hưng hội kiến Chủ tịch Quốc hội Campuchia Khuon Sudary",
+      "link": "https://dantri.com.vn/thoi-su/thu-tuong-le-minh-hung-hoi-kien-chu-tich-quoc-hoi-campuchia-khuon-sudary-20261009223721601.htm",
+      "desc": "Việt Nam và Campuchia nhất trí tiếp tục củng cố tin cậy chính trị, duy trì thường xuyên các chuyến thăm, tiếp xúc cấp cao, phát huy hiệu quả các cơ chế hợp tác song phương.",
+      "source": "dantri"
+    },
+    {
+      "title": "Cao tốc Cầu Giẽ - Ninh Bình giảm tốc độ tối đa từ ngày 12/10",
+      "link": "https://dantri.com.vn/thoi-su/cao-toc-cau-gie-ninh-binh-giam-toc-do-toi-da-tu-ngay-1210-20261009221145188.htm",
+      "desc": "(Dân trí) - Từ ngày 12/10, tốc độ tối đa trên cao tốc Cầu Giẽ - Ninh Bình dự kiến giảm từ 120km/h xuống 100km/h nhằm bảo đảm an toàn giao thông và phù hợp với điều kiện hạ tầng tuyến đường.",
+      "source": "dantri"
+    },
+    {
+      "title": "Diễn biến mới của công ty Ba Huân sau khi bị ngân hàng rao bán tài sản",
+      "link": "https://dantri.com.vn/kinh-doanh/dien-bien-moi-cua-cong-ty-ba-huan-sau-khi-bi-ngan-hang-rao-ban-tai-san-20261009220455435.htm",
+      "desc": "(Dân trí) - Công ty cổ phần Ba Huân tiếp tục đứng đầu danh sách nợ thuế tại Thuế cơ sở 6 TPHCM, với số tiền 30,4 tỷ đồng, trong bối cảnh khoản nợ hàng trăm tỷ đồng tại ngân hàng đang bị rao bán.",
+      "source": "dantri"
+    },
+    {
+      "title": "Tái cơ cấu EVN: Vì sao Bộ Tài chính chưa muốn tách công ty truyền tải điện?",
+      "link": "https://dantri.com.vn/kinh-doanh/tai-co-cau-evn-vi-sao-bo-tai-chinh-chua-muon-tach-cong-ty-truyen-tai-dien-20261009214211304.htm",
+      "desc": "(Dân trí) - Bộ Tài chính đề xuất trước mắt giữ EVNNPT trực thuộc EVN, trong khi Bộ Công Thương muốn sớm tách đơn vị này để thúc đẩy thị trường bán lẻ điện cạnh tranh và bảo đảm an ninh cung ứng điện.",
+      "source": "dantri"
+    },
+    {
+      "title": "Mưa lớn dồn dập ở miền Trung, Hà Nội có mưa dông",
+      "link": "https://dantri.com.vn/thoi-tiet/mua-lon-don-dap-o-mien-trung-ha-noi-co-mua-dong-20261009211156771.htm",
+      "desc": "(Dân trí) - Dự báo ngày 10/10, miền Trung tiếp tục có mưa to đến rất to, có nơi trên 250mm, nguy cơ xảy ra lũ quét, sạt lở đất. Hà Nội và nhiều tỉnh miền Bắc cũng xuất hiện mưa dông.",
+      "source": "dantri"
+    },
+    {
+      "title": "Việt Nam - Campuchia phấn đấu nâng thương mại lên 20 tỷ USD",
+      "link": "https://dantri.com.vn/thoi-su/viet-nam-campuchia-phan-dau-nang-thuong-mai-len-20-ty-usd-20261009215943851.htm",
+      "desc": "Thủ tướng Chính phủ Lê Minh Hưng chân thành cảm ơn Thủ tướng Hun Manet, Chính phủ và nhân dân Vương quốc Campuchia đã dành cho đoàn đại biểu cấp cao Chính phủ Việt Nam sự đón tiếp nồng ấm, trọng thị.",
+      "source": "dantri"
+    },
+    {
+      "title": "Thiều Bảo Trâm kể hành trình trưởng thành, gây chú ý với nhan sắc khác lạ",
+      "link": "https://dantri.com.vn/giai-tri/thieu-bao-tram-ke-hanh-trinh-truong-thanh-gay-chu-y-voi-nhan-sac-khac-la-20261009212025536.htm",
+      "desc": "(Dân trí) - Thiều Bảo Trâm nhận được sự quan tâm của khán giả khi trở thành với âm nhạc cùng diện mạo khác lạ.",
+      "source": "dantri"
+    },
+    {
+      "title": "Vượt Thái Lan, gạo ST25 đạt giải Nhì gạo ngon nhất thế giới 2026",
+      "link": "https://dantri.com.vn/kinh-doanh/vuot-thai-lan-gao-st25-dat-giai-nhi-gao-ngon-nhat-the-gioi-2026-20261009200714198.htm",
+      "desc": "(Dân trí) - Sau ba lần giành giải Nhất, gạo ST25 nhãn hiệu Gạo Ông Cua của Việt Nam xếp thứ hai tại cuộc thi Gạo ngon nhất thế giới 2026, sau Myanmar.",
+      "source": "dantri"
+    },
+    {
+      "title": "Mua 820kg lòng lợn bốc mùi hôi thối, không hóa đơn mang về… nuôi cá?",
+      "link": "https://dantri.com.vn/thoi-su/mua-820kg-long-lon-boc-mui-hoi-thoi-khong-hoa-don-mang-ve-nuoi-ca-20261009210952097.htm",
+      "desc": "(Dân trí) - Sau khi bị công an phát hiện vận chuyển 820kg lòng lợn bốc mùi hôi thối, không có hóa đơn, chứng từ, tài xế ô tô khai mua ở cơ sở giết mổ về làm thức ăn nuôi cá.",
+      "source": "dantri"
+    },
+    {
+      "title": "Mỹ là thị trường xuất khẩu lớn nhất của Tây Ninh",
+      "link": "https://dantri.com.vn/kinh-doanh/my-la-thi-truong-xuat-khau-lon-nhat-cua-tay-ninh-20261009171844183.htm",
+      "desc": "(Dân trí) - Mỹ là thị trường xuất khẩu lớn nhất của Tây Ninh, tiếp đến là Trung Quốc và Campuchia. Trong 9 tháng đầu năm, tổng kim ngạch xuất khẩu của tỉnh đạt hơn 15,5 tỷ USD, tăng 19% so với cùng kỳ.",
+      "source": "dantri"
+    },
+    {
+      "title": "Ả rập Xê út đặt điều kiện ngừng bắn với lực lượng Houthi",
+      "link": "https://dantri.com.vn/the-gioi/a-rap-xe-ut-dat-dieu-kien-ngung-ban-voi-luc-luong-houthi-20261009204012650.htm",
+      "desc": "(Dân trí) - Ả rập Xê út sẽ không chấp thuận ngừng bắn với lực lượng Houthi cho đến khi chính phủ Yemen được Riyadh hậu thuẫn giành lại toàn bộ phần lãnh thổ đã mất.",
+      "source": "dantri"
+    },
+    {
+      "title": "BMW F 450 GS sắp về Việt Nam, giá từ 419 triệu đồng",
+      "link": "https://dantri.com.vn/o-to-xe-may/bmw-f-450-gs-sap-ve-viet-nam-gia-tu-419-trieu-dong-20261009133044194.htm",
+      "desc": "(Dân trí) - BMW F 450 GS là sản phẩm hợp tác giữa thương hiệu mô tô xứ Bavaria và công ty TVS Motor đến từ Ấn Độ, có thể được xem là đối thủ của Honda NX500 nhưng sở hữu giá bán không hề rẻ.",
+      "source": "dantri"
+    },
+    {
+      "title": "Đối thủ của Toyota Vios lần đầu giảm giá xuống dưới 300 triệu đồng",
+      "link": "https://dantri.com.vn/o-to-xe-may/doi-thu-cua-toyota-vios-lan-dau-giam-gia-xuong-duoi-300-trieu-dong-20261007130224697.htm",
+      "desc": "(Dân trí) - Giá bán thực tế của Kia Soluto đang ở mức thấp nhất từ trước tới nay, nhưng dòng xe này chỉ còn được phân phối với hai phiên bản số sàn phục vụ khách hàng có nhu cầu mua xe chạy dịch vụ.",
+      "source": "dantri"
+    },
+    {
+      "title": "BYD làm rõ thông tin hacker có thể can thiệp vào hệ thống điện của xe",
+      "link": "https://dantri.com.vn/o-to-xe-may/byd-lam-ro-thong-tin-hacker-co-the-can-thiep-vao-he-thong-dien-cua-xe-20261008145222788.htm",
+      "desc": "(Dân trí) - Hãng xe Trung Quốc đã nhanh chóng phản hồi những lo ngại về an ninh mạng đối với Shark 6 sau khi một bộ phim tài liệu của Australia công bố cách mẫu bán tải này có thể bị tấn công tương đối dễ dàng.",
+      "source": "dantri"
+    },
+    {
+      "title": "Mỹ - Iran trao đổi đề xuất mới chấm dứt xung đột",
+      "link": "https://dantri.com.vn/the-gioi/my-iran-trao-doi-de-xuat-moi-cham-dut-xung-dot-20261009204515242.htm",
+      "desc": "(Dân trí) - Tổng thống Iran tuyên bố Tehran sẽ tiếp tục đàm phán với Washington và hai bên đã trao đổi các đề xuất.",
+      "source": "dantri"
+    },
+    {
+      "title": "Bé trai kháu khỉnh bị bỏ rơi trước cổng chùa ở TPHCM",
+      "link": "https://dantri.com.vn/thoi-su/be-trai-khau-khinh-bi-bo-roi-truoc-cong-chua-o-tphcm-20261009191824247.htm",
+      "desc": "(Dân trí) - Bé trai khoảng 6-7 tháng tuổi bị bỏ rơi trước cổng chùa Vạn Thông, phường Tân Phước (TPHCM). Em đang được người dân nuôi dưỡng trong thời gian chính quyền tìm người thân.",
+      "source": "dantri"
+    },
+    {
+      "title": "180 công trình “Made in Bách khoa” kể chuyện 70 năm kiến tạo công nghệ",
+      "link": "https://dantri.com.vn/giao-duc/180-cong-trinh-made-in-bach-khoa-ke-chuyen-70-nam-kien-tao-cong-nghe-20261009192439099.htm",
+      "desc": "(Dân trí) - Từ những công trình giải quyết bài toán cấp thiết trong chiến tranh đến các sản phẩm công nghệ số hiện nay, hơn 180 nghiên cứu được giới thiệu tại triển lãm kỷ niệm 70 năm Đại học Bách khoa Hà Nội.",
+      "source": "dantri"
+    },
+    {
+      "title": "TPHCM đưa sân bay Đất Đỏ, Gò Găng và Dầu Tiếng vào hồ sơ quy hoạch 100 năm",
+      "link": "https://dantri.com.vn/thoi-su/tphcm-dua-san-bay-dat-do-go-gang-va-dau-tieng-vao-ho-so-quy-hoach-100-nam-20261009191026013.htm",
+      "desc": "(Dân trí) - Sân bay Đất Đỏ, Gò Găng và Dầu Tiếng đang được TPHCM cập nhật vào hồ sơ Quy hoạch tổng thể thành phố tầm nhìn 100 năm với vai trò là các sân bay chuyên dùng.",
+      "source": "dantri"
+    },
+    {
+      "title": "Vì sao Gen Z không muốn sống bằng một việc, phải ôm thêm nghề tay trái?",
+      "link": "https://dantri.com.vn/kinh-doanh/vi-sao-gen-z-khong-muon-song-bang-mot-viec-phai-om-them-nghe-tay-trai-20261009184624980.htm",
+      "desc": "(Dân trí) - Rời văn phòng 8 tiếng để bước vào ca làm thứ hai, ngày càng nhiều người trẻ (Gen Z) chọn làm nhiều việc cùng lúc để trang trải cuộc sống, tìm chỗ dựa an toàn trước thị trường việc làm nhiều biến động.",
+      "source": "dantri"
+    },
+    {
+      "title": "Trường Đại học CMC khai giảng khóa 5 và ra mắt mô hình AI-Native",
+      "link": "https://dantri.com.vn/giao-duc/truong-dai-hoc-cmc-khai-giang-khoa-5-va-ra-mat-mo-hinh-ai-native-20261009193635710.htm",
+      "desc": "(Dân trí) - Ngày 8/10, Trường Đại học CMC khai giảng, chào đón tân sinh viên khóa 5 tại Hà Nội, ra mắt mô hình đại học AI-Native và công bố khung đánh giá mới.",
+      "source": "dantri"
+    },
+    {
+      "title": "Note Group công bố bộ nhận diện thương hiệu mới",
+      "link": "https://dantri.com.vn/kinh-doanh/note-group-cong-bo-bo-nhan-dien-thuong-hieu-moi-20261009192527770.htm",
+      "desc": "(Dân trí) - Ngày 2/10, Công ty Cổ phần Note Group công bố nhận diện thương hiệu mới. Với sự kiện này, Note Group hướng đến mục tiêu trở thành đơn vị cung cấp giải pháp quảng cáo ngoài trời hàng đầu.",
+      "source": "dantri"
+    },
+    {
+      "title": "Vinhomes Sài Gòn Park: Nhiều tiện ích lớn chốt tiến độ",
+      "link": "https://dantri.com.vn/bat-dong-san/vinhomes-sai-gon-park-nhieu-tien-ich-lon-chot-tien-do-20261009192015492.htm",
+      "desc": "(Dân trí) - Công viên Thiên văn Galaxy Park dự kiến hoàn thành quý IV; chuỗi điểm đến giải trí hẹn ngày khai trương quý IV/2027; tiếp đến, trường học, trung tâm thương mại, bệnh viện và văn phòng cũng lần lượt về đích.",
+      "source": "dantri"
+    },
+    {
+      "title": "Ngoại ngữ mở rộng cơ hội việc làm, gia tăng lợi thế thu nhập",
+      "link": "https://dantri.com.vn/lao-dong-viec-lam/ngoai-ngu-mo-rong-co-hoi-viec-lam-gia-tang-loi-the-thu-nhap-20261009180204123.htm",
+      "desc": "(Dân trí) - Theo phân tích của Saramin Vietnam, ngoại ngữ không chỉ là lợi thế cạnh tranh trên thị trường lao động mà còn có thể ảnh hưởng đến mức thu nhập và cơ hội nghề nghiệp của người lao động.",
+      "source": "dantri"
+    },
+    {
+      "title": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên",
+      "link": "https://dantri.com.vn/du-lich/du-khach-nghe-hat-then-thuong-tra-tren-chuyen-tau-di-san-thai-nguyen-20261009124242295.htm",
+      "desc": "(Dân trí) - Chuyến tàu di sản \"Hành trình về với xứ trà\" mang đến cho du khách trải nghiệm văn hóa bản địa độc đáo, từ thưởng thức trà đến lắng nghe những làn điệu hát then truyền thống.",
+      "source": "dantri"
+    },
+    {
+      "title": "Nga hoàn tất giám sát y tế sau ca tử vong vì bệnh phổi lạ",
+      "link": "https://dantri.com.vn/the-gioi/nga-hoan-tat-giam-sat-y-te-sau-ca-tu-vong-vi-benh-phoi-la-20261009115723714.htm",
+      "desc": "(Dân trí) - Nga xác nhận hoàn tất quá trình truy vết các trường hợp tiếp xúc với nữ nhân viên nghiên cứu dịch hạch.",
+      "source": "dantri"
+    },
+    {
+      "title": "Người dân sống thấp thỏm dưới chân đồi sạt lở ở Lâm Đồng",
+      "link": "https://dantri.com.vn/dt360/nguoi-dan-song-thap-thom-duoi-chan-doi-sat-lo-o-lam-dong-20261009155709922.htm",
+      "desc": "(Dân trí) - Mưa lớn kéo dài cuối năm 2025 khiến triền đồi cao 30-50m ở thôn Lạc Thiện 2, xã D'ran, tỉnh Lâm Đồng sạt lở. Hiện nay, khu vực tiếp tục có diễn biến phức tạp làm người dân sống trong lo lắng.",
+      "source": "dantri"
+    },
+    {
+      "title": "Chủ đầu tư bán \"chui\" 682 căn hộ ở TPHCM đang nợ thuế 46,6 tỷ đồng",
+      "link": "https://dantri.com.vn/bat-dong-san/chu-dau-tu-ban-chui-682-can-ho-o-tphcm-dang-no-thue-466-ty-dong-20261009184908813.htm",
+      "desc": "(Dân trí) - Công ty TNHH Sản xuất thương mại Lý Khương, đơn vị vừa bị phạt vì bán sai phép 682 căn hộ, đang nợ thuế 46,6 tỷ đồng, đứng đầu danh sách tại Thuế cơ sở 13 TPHCM.",
+      "source": "dantri"
+    },
+    {
+      "title": "Zverev thoát chấn thương, Djokovic sớm chia tay Thượng Hải Masters",
+      "link": "https://dantri.com.vn/the-thao/zverev-thoat-chan-thuong-djokovic-som-chia-tay-thuong-hai-masters-20261009190617262.htm",
+      "desc": "(Dân trí) - Alexander Zverev thoát hiểm sau cú ngã đáng lo ngại, trong khi Hubert Hurkacz tạo địa chấn bằng chiến thắng trước Novak Djokovic tại Thượng Hải Masters.",
+      "source": "dantri"
+    },
+    {
+      "title": "Cây bồ đề cổ thụ bật gốc ở TPHCM được trồng lại",
+      "link": "https://dantri.com.vn/dt360/cay-bo-de-co-thu-bat-goc-o-tphcm-duoc-trong-lai-20261009162102679.htm",
+      "desc": "(Dân trí) - Sau 2 ngày bật gốc, cây bồ đề cổ thụ cao hơn 20m trên đường Đinh Tiên Hoàng (TPHCM) đã được trồng lại sáng 9/10, gia cố và chăm sóc để phục hồi.",
+      "source": "dantri"
+    },
+    {
+      "title": "Mẹ Ronaldo bật khóc, khẳng định tuyển Bồ Đào Nha không tôn trọng con trai",
+      "link": "https://dantri.com.vn/the-thao/me-ronaldo-bat-khoc-khang-dinh-tuyen-bo-dao-nha-khong-ton-trong-con-trai-20261009175340783.htm",
+      "desc": "(Dân trí) - Bà Dolores Aveiro đã bật khóc khi nói về tình cảnh của Cristiano Ronaldo và cho rằng đội tuyển Bồ Đào Nha không tôn trọng con trai mình.",
+      "source": "dantri"
+    },
+    {
+      "title": "Loạt xe Geely ưu đãi tháng 10: Xe xăng hỗ trợ trước bạ, xe điện tặng bộ sạc",
+      "link": "https://dantri.com.vn/o-to-xe-may/loat-xe-geely-uu-dai-thang-10-xe-xang-ho-tro-truoc-ba-xe-dien-tang-bo-sac-20261009174746485.htm",
+      "desc": "(Dân trí) - Geely áp dụng ưu đãi tháng 10 gồm giảm tiền mặt, hỗ trợ 50% lệ phí trước bạ và tặng bộ sạc, bảo hiểm, bảo dưỡng. Sau ưu đãi, Monjaro có giá từ 999 triệu đồng, Coolray từ khoảng 469 triệu đồng tùy địa phương đ",
+      "source": "dantri"
+    },
+    {
+      "title": "Sở Y tế TPHCM rút công bố nhiều cơ sở tiêm chủng",
+      "link": "https://dantri.com.vn/suc-khoe/so-y-te-tphcm-rut-cong-bo-nhieu-co-so-tiem-chung-20261009153342172.htm",
+      "desc": "(Dân trí) - Sở Y tế TPHCM vừa rút công bố hai cơ sở tiêm chủng thuộc Công ty Cổ phần Y tế Chấn Văn và nhiều phòng khám trên địa bàn.",
+      "source": "dantri"
+    },
+    {
+      "title": "Khám sức khỏe cho hơn 169.000 trẻ, phát hiện hơn 90% có vấn đề sức khỏe",
+      "link": "https://dantri.com.vn/suc-khoe/kham-suc-khoe-cho-hon-169000-tre-phat-hien-hon-90-co-van-de-suc-khoe-20261009181143001.htm",
+      "desc": "(Dân trí) - Trong số 169.352 trẻ được khám sức khỏe tại 78/126 xã, phường ở Hà Nội, 152.970 trẻ, tương đương 90,3%, được ghi nhận có ít nhất một vấn đề sức khỏe.",
+      "source": "dantri"
+    },
+    {
+      "title": "Nga dồn dập tấn công hạ tầng trọng yếu, Kiev đối mặt \"thời khắc sinh tồn\"",
+      "link": "https://dantri.com.vn/the-gioi/nga-don-dap-tan-cong-ha-tang-trong-yeu-kiev-doi-mat-thoi-khac-sinh-ton-20261009181228645.htm",
+      "desc": "(Dân trí) - Thị trưởng Kiev cảnh báo các cuộc tấn công dồn dập của Nga đang đẩy thủ đô Ukraine vào tình thế khó khăn.",
+      "source": "dantri"
+    },
+    {
+      "title": "VinFast tổ chức chuỗi lái thử ô tô điện tại 10 tỉnh, thành",
+      "link": "https://dantri.com.vn/o-to-xe-may/vinfast-to-chuc-chuoi-lai-thu-o-to-dien-tai-10-tinh-thanh-20261009175735467.htm",
+      "desc": "(Dân trí) - Chuỗi sự kiện “Lên đời xe điện - Chọn xe chọn VinFast” diễn ra tại ba miền với hoạt động trưng bày, lái thử và tư vấn thông tin là cơ hội để người dùng Việt dễ dàng chuyển đổi sang xe điện với ưu đãi hấp dẫn.",
+      "source": "dantri"
+    },
+    {
+      "title": "Shopee đồng hành cùng doanh nghiệp địa phương đưa sản phẩm OCOP lên thị trường số",
+      "link": "https://dantri.com.vn/kinh-doanh/shopee-dong-hanh-cung-doanh-nghiep-dia-phuong-dua-san-pham-ocop-len-thi-truong-so-20261009182008691.htm",
+      "desc": "(Dân trí) - Thông qua chuỗi hoạt động xúc tiến thương mại trên nền tảng số, Shopee hỗ trợ doanh nghiệp vừa và nhỏ đưa sản phẩm địa phương, sản phẩm OCOP tiếp cận người tiêu dùng trên cả nước, mở thêm cơ hội tăng trưởng t",
+      "source": "dantri"
+    },
+    {
+      "title": "Xăng E10 công bố hơn 28.200 đồng/lít, vì sao có nơi bán giá cao hơn?",
+      "link": "https://dantri.com.vn/kinh-doanh/xang-e10-cong-bo-hon-28200-donglit-vi-sao-co-noi-ban-gia-cao-hon-20261009175924076.htm",
+      "desc": "(Dân trí) - Giá xăng E10 tại một số cửa hàng vượt 29.000 đồng/lít, cao hơn mức giá điều hành được công bố. Nguyên nhân liên quan đến chủng loại xăng và khu vực áp dụng giá bán.",
+      "source": "dantri"
+    },
+    {
+      "title": "Phó Thủ tướng yêu cầu xử lý nghiêm hành vi găm hàng, thao túng giá",
+      "link": "https://dantri.com.vn/kinh-doanh/pho-thu-tuong-yeu-cau-xu-ly-nghiem-hanh-vi-gam-hang-thao-tung-gia-20261009181402254.htm",
+      "desc": "(Dân trí) - Phó Thủ tướng Nguyễn Văn Thắng yêu cầu tăng cường giám sát giá cả, xử lý hành vi găm hàng, thao túng giá và yêu cầu doanh nghiệp giảm giá bán tương ứng khi chi phí đầu vào giảm.",
+      "source": "dantri"
+    },
+    {
+      "title": "Giám đốc Công an Hà Nội Nguyễn Thanh Tùng là Công dân Thủ đô ưu tú năm 2026",
+      "link": "https://dantri.com.vn/thoi-su/giam-doc-cong-an-ha-noi-nguyen-thanh-tung-la-cong-dan-thu-do-uu-tu-nam-2026-20261009181103275.htm",
+      "desc": "(Dân trí) - Trung tướng Nguyễn Thanh Tùng, Giám đốc Công an Hà Nội là 1 trong 9 người được vinh danh là Công dân Thủ đô ưu tú năm 2026.",
+      "source": "dantri"
+    },
+    {
+      "title": "Bộ trưởng Nội vụ: \"Nhân tài không phải gắn liền với bằng cấp\"",
+      "link": "https://dantri.com.vn/noi-vu/bo-truong-noi-vu-nhan-tai-khong-phai-gan-lien-voi-bang-cap-20261009174553716.htm",
+      "desc": "(Dân trí) - Bộ trưởng Bộ Nội vụ Nguyễn Tiến Hải nêu quan điểm mới về nhân tài trong quá trình tham mưu đề án chiến lược quốc gia về thu hút, trọng dụng nhân tài trong các ngành, lĩnh vực mũi nhọn của đất nước.",
+      "source": "dantri"
+    },
+    {
+      "title": "BUV và Manchester Metropolitan mở rộng hợp tác đào tạo gắn thực tiễn",
+      "link": "https://dantri.com.vn/giao-duc/buv-va-manchester-metropolitan-mo-rong-hop-tac-dao-tao-gan-thuc-tien-20261009175607385.htm",
+      "desc": "(Dân trí) - Trường Đại học Anh quốc Việt Nam (BUV) và Đại học Manchester Metropolitan đồng hành chú trọng phát triển kỹ năng nghề nghiệp, góp phần nâng cao chất lượng nguồn nhân lực Việt Nam.",
+      "source": "dantri"
+    },
+    {
+      "title": "Ông Đinh Văn Nơi yêu cầu Phú Quốc xử lý dứt điểm hồ sơ trễ hẹn",
+      "link": "https://dantri.com.vn/thoi-su/ong-dinh-van-noi-yeu-cau-phu-quoc-xu-ly-dut-diem-ho-so-tre-hen-20261009164810986.htm",
+      "desc": "(Dân trí) - Trước tình trạng hồ sơ đất đai tồn đọng trên địa bàn, Phó Bí thư Tỉnh ủy An Giang, Bí thư Đảng ủy đặc khu Phú Quốc Đinh Văn Nơi đã trực tiếp kiểm tra và chỉ đạo giải quyết.",
+      "source": "dantri"
+    },
+    {
+      "title": "Nghe hội bạn thân lập kế thử chồng, tôi phát hiện bí mật gây sốc",
+      "link": "https://dantri.com.vn/tinh-yeu-gioi-tinh/nghe-hoi-ban-than-lap-ke-thu-chong-toi-phat-hien-bi-mat-gay-soc-20261008115803593.htm",
+      "desc": "(Dân trí) - Từ một “kế hoạch thử chồng” được lập vội vàng ở quán cà phê, tôi lần lượt phát hiện hết bí mật này đến bí mật khác đến từ những người thân thiết với mình nhất.",
+      "source": "dantri"
+    },
+    {
+      "title": "Học sinh thiết kế robot, lên ý tưởng đưa STEM đến với bạn nhỏ vùng cao",
+      "link": "https://dantri.com.vn/giao-duc/hoc-sinh-thiet-ke-robot-len-y-tuong-dua-stem-den-voi-ban-nho-vung-cao-20261009165018784.htm",
+      "desc": "(Dân trí) - Không chỉ dừng lại ở việc lập trình và đưa robot lên sàn thi đấu, nhiều học sinh còn ấp ủ các dự án cộng đồng, mang tri thức công nghệ và mô hình học tập STEM đến với trẻ em nghèo, vùng sâu vùng xa.",
+      "source": "dantri"
+    },
+    {
+      "title": "Giải pháp chống ngập mới ở đường ven biển Bắc Nha Trang",
+      "link": "https://dantri.com.vn/thoi-su/giai-phap-chong-ngap-moi-o-duong-ven-bien-bac-nha-trang-20261009171802778.htm",
+      "desc": "(Dân trí) - Đoạn đường Phạm Văn Đồng, ven biển phường Bắc Nha Trang (tỉnh Khánh Hòa) thường xuyên ngập khi mưa lớn. Hiện địa phương đã hạ vỉa hè, tạo lối thoát nước mưa ra biển.",
+      "source": "dantri"
+    },
+    {
+      "title": "Cả nước giảm 50% số trường công lập, 28.000 cán bộ quản lý chuyển giảng dạy",
+      "link": "https://dantri.com.vn/thoi-su/ca-nuoc-giam-50-so-truong-cong-lap-28000-can-bo-quan-ly-chuyen-giang-day-20261009174618218.htm",
+      "desc": "(Dân trí) - Theo báo cáo của Bộ Giáo dục, 34/34 địa phương đã hoàn thành phương án sắp xếp cơ sở giáo dục. Số cơ sở giáo dục công lập giảm 18.975 cơ sở, hơn 28.000 cán bộ quản lý chuyển sang giảng dạy.",
+      "source": "dantri"
+    },
+    {
+      "title": "Con số đáng báo động với Đình Bắc và đội tuyển Việt Nam",
+      "link": "https://dantri.com.vn/the-thao/con-so-dang-bao-dong-voi-dinh-bac-va-doi-tuyen-viet-nam-20261009172834058.htm",
+      "desc": "(Dân trí) - Đình Bắc đã bị quá tải khi phải thi đấu quá nhiều trong vòng một năm qua. Tương tự, các tuyển thủ Việt Nam cũng lâm vào tình cảnh ngặt nghèo đó.",
+      "source": "dantri"
+    },
+    {
+      "title": "Hà Nội công bố khởi công Công viên Safari Ba Vì và hàng loạt dự án lớn",
+      "link": "https://dantri.com.vn/thoi-su/ha-noi-cong-bo-khoi-cong-cong-vien-safari-ba-vi-va-hang-loat-du-an-lon-20261009173701975.htm",
+      "desc": "(Dân trí) - Dịp 10/10, Hà Nội có 96 công trình, dự án khánh thành, khởi công với tổng mức đầu tư khoảng 147.075 tỷ đồng, trong số này có 18 công trình, dự án tiêu biểu.",
+      "source": "dantri"
+    },
+    {
+      "title": "Cuộc hội ngộ xúc động của đồng đội sau 50 năm ngày đầu nhập ngũ",
+      "link": "https://dantri.com.vn/thoi-su/cuoc-hoi-ngo-xuc-dong-cua-dong-doi-sau-50-nam-ngay-dau-nhap-ngu-20261009165433595.htm",
+      "desc": "(Dân trí) - Từ những chàng trai tuổi mười tám, đôi mươi ngày đầu nhập ngũ, sau nửa thế kỷ, họ gặp lại nhau khi mái tóc đã bạc, nhưng tình đồng đội của những người lính năm xưa vẫn vẹn nguyên, ấm áp như ngày nào.",
+      "source": "dantri"
+    },
+    {
+      "title": "Chủ tịch Quốc hội: “Kiên quyết không để xây dựng luật phục vụ lợi ích nhóm”",
+      "link": "https://dantri.com.vn/thoi-su/chu-tich-quoc-hoi-kien-quyet-khong-de-xay-dung-luat-phuc-vu-loi-ich-nhom-20261009172726771.htm",
+      "desc": "(Dân trí) - Theo Chủ tịch Quốc hội, thể chế phải thực sự mở đường, khơi thông và phát huy các nguồn lực cho phát triển đất nước, kiên quyết không để xảy ra tình trạng xây dựng pháp luật nhằm phục vụ lợi ích nhóm.",
+      "source": "dantri"
+    },
+    {
+      "title": "Hứa hẹn lãi cao từ kinh doanh nông sản, người phụ nữ lừa hơn 28 tỷ đồng",
+      "link": "https://dantri.com.vn/phap-luat/hua-hen-lai-cao-tu-kinh-doanh-nong-san-nguoi-phu-nu-lua-hon-28-ty-dong-20261009171458180.htm",
+      "desc": "(Dân trí) - Với thủ đoạn hứa hẹn lợi nhuận cao từ kinh doanh nông sản, một phụ nữ ở Quảng Ngãi đã chiếm đoạt hơn 28 tỷ đồng của nhiều người.",
+      "source": "dantri"
+    },
+    {
+      "title": "iHanoi có 6,6 triệu tài khoản, tiếp nhận hơn 263.000 phản ánh",
+      "link": "https://dantri.com.vn/khoa-hoc/ihanoi-co-66-trieu-tai-khoan-tiep-nhan-hon-263000-phan-anh-20261009135946106.htm",
+      "desc": "(Dân trí) - Từ 73 ứng dụng và điểm tiếp cận riêng lẻ, Hà Nội hướng tới tích hợp dịch vụ trên iHanoi, giúp người dân thuận tiện gửi phản ánh, tra cứu thông tin và sử dụng các tiện ích.",
+      "source": "dantri"
+    },
+    {
+      "title": "Tổng Bí thư, Chủ tịch nước: Xử lý tận gốc nguồn ô nhiễm kênh Bắc Hưng Hải",
+      "link": "https://dantri.com.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-xu-ly-tan-goc-nguon-o-nhiem-kenh-bac-hung-hai-20261009171130198.htm",
+      "desc": "(Dân trí) - Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu xử lý tận gốc nguồn ô nhiễm, hiện đại hóa hệ thống thủy lợi Bắc Hưng Hải, bảo đảm an ninh nguồn nước và phát triển bền vững.",
+      "source": "dantri"
+    },
+    {
+      "title": "Hàng loạt ô tô giảm giá trong tháng 10, có mẫu giảm gần 330 triệu đồng",
+      "link": "https://dantri.com.vn/o-to-xe-may/hang-loat-o-to-giam-gia-trong-thang-10-co-mau-giam-gan-330-trieu-dong-20261006105923847.htm",
+      "desc": "(Dân trí) - Trong tháng 10, nhiều hãng ô tô tại thị trường Việt Nam tiếp tục áp dụng các chương trình ưu đãi cho khách mua xe, với mức giảm giá cao nhất lên đến gần 330 triệu đồng.",
+      "source": "dantri"
+    },
+    {
+      "title": "Sau nhiều lần thai ngoài tử cung, người phụ nữ Đắk Lắk vẫn không từ bỏ giấc mơ có con",
+      "link": "https://dantri.com.vn/suc-khoe/sau-nhieu-lan-thai-ngoai-tu-cung-nguoi-phu-nu-dak-lak-van-khong-tu-bo-giac-mo-co-con-20261009165326153.htm",
+      "desc": "(Dân trí) - Sau nhiều lần thai ngoài tử cung và phải cắt hai vòi trứng, hành trình làm mẹ của người phụ nữ đến từ Đắk Lắk tưởng như ngày càng xa hơn.",
+      "source": "dantri"
+    },
+    {
+      "title": "Người đàn ông đi bộ trong làn ô tô bị xe tải tông tử vong ở TPHCM",
+      "link": "https://dantri.com.vn/thoi-su/nguoi-dan-ong-di-bo-trong-lan-o-to-bi-xe-tai-tong-tu-vong-o-tphcm-20261009164224365.htm",
+      "desc": "(Dân trí) - Người đàn ông đi bộ bị xe tải tông tử vong trên xa lộ Hà Nội, phường Đông Hòa (TPHCM). Hiện chưa có người thân đến nhận thi thể.",
+      "source": "dantri"
+    },
+    {
+      "title": "Phó Chủ tịch TPHCM Hoàng Nguyên Dinh kiểm tra cao tốc TPHCM - Mộc Bài",
+      "link": "https://dantri.com.vn/thoi-su/pho-chu-tich-tphcm-hoang-nguyen-dinh-kiem-tra-cao-toc-tphcm-moc-bai-20261009155057552.htm",
+      "desc": "(Dân trí) - Phó Chủ tịch UBND TPHCM Hoàng Nguyên Dinh biểu dương nỗ lực của các địa phương trong công tác giải phóng mặt bằng dự án cao tốc TPHCM - Mộc Bài, đồng thời đề nghị hoàn thành trong tháng 10.",
+      "source": "dantri"
+    },
+    {
+      "title": "Chứng khoán VIX bất ngờ lộ diện ở VPBank, nắm 1,17% vốn",
+      "link": "https://dantri.com.vn/kinh-doanh/chung-khoan-vix-bat-ngo-lo-dien-o-vpbank-nam-117-von-20261009153303773.htm",
+      "desc": "(Dân trí) - Chứng khoán VIX sở hữu gần 117 triệu cổ phiếu VPB, tương ứng 1,17% vốn điều lệ của VPBank. Cổ phiếu ngân hàng này có chuỗi tăng 5 phiên liên tiếp.",
+      "source": "dantri"
+    },
+    {
+      "title": "Rivera Nagomi tại Waterpoint: Từ không gian an hòa đến giá trị sống thực tế",
+      "link": "https://dantri.com.vn/bat-dong-san/rivera-nagomi-tai-waterpoint-tu-khong-gian-an-hoa-den-gia-tri-song-thuc-te-20261009160649838.htm",
+      "desc": "(Dân trí) - Vượt lên khái niệm về một sản phẩm nhà ở thấp tầng, phân khu Rivera Nagomi chuyển hóa triết lý an hòa - Nagomi thành những giá trị sống thực tế, kết nối hài hòa giữa thiên nhiên, sự riêng tư và nhịp sống đô t",
+      "source": "dantri"
+    },
+    {
+      "title": "Diễn đàn Kinh tế Mùa thu 2026 ở TPHCM có gì đặc biệt?",
+      "link": "https://dantri.com.vn/kinh-doanh/dien-dan-kinh-te-mua-thu-2026-o-tphcm-co-gi-dac-biet-20261009163621002.htm",
+      "desc": "(Dân trí) - Diễn đàn Kinh tế Mùa thu 2026 diễn ra từ 26/10 đến 29/10 tại TPHCM, dự kiến quy tụ khoảng 1.500 đại biểu trong nước và quốc tế, với trọng tâm là hợp tác, công nghệ và các động lực tăng trưởng mới.",
+      "source": "dantri"
+    },
+    {
+      "title": "Nam công nhân Việt Nam thắng giải \"thợ thép mạnh nhất Nhật Bản\"",
+      "link": "https://dantri.com.vn/doi-song/nam-cong-nhan-viet-nam-thang-giai-tho-thep-manh-nhat-nhat-ban-20261009163153901.htm",
+      "desc": "(Dân trí) - Vượt qua 33 thí sinh khác, một lao động 33 tuổi người Việt Nam giành giải cao nhất trong cuộc thi kỹ năng gia công cốt thép toàn Nhật Bản lần thứ 6.",
+      "source": "dantri"
+    },
+    {
+      "title": "Nhóm nhạc mới Việt Nam mang “Giao thoa” đến sân khấu đương đại Hàn Quốc",
+      "link": "https://dantri.com.vn/giai-tri/nhom-nhac-moi-viet-nam-mang-giao-thoa-den-san-khau-duong-dai-han-quoc-20261009085720357.htm",
+      "desc": "(Dân trí) - Giao Collective là đại diện duy nhất của Việt Nam được Trung tâm Văn hóa châu Á Quốc gia Hàn Quốc lựa chọn tham gia NGAPAC 2026, cùng 5 nhóm nghệ thuật khác đến từ khu vực châu Á.",
+      "source": "dantri"
+    },
+    {
+      "title": "Cựu Phó Chủ tịch tỉnh Lào Cai Lê Ngọc Hưng bị đề nghị truy tố",
+      "link": "https://dantri.com.vn/phap-luat/cuu-pho-chu-tich-tinh-lao-cai-le-ngoc-hung-bi-de-nghi-truy-to-20261009163930011.htm",
+      "desc": "(Dân trí) - Cơ quan Cảnh sát điều tra Bộ Công an đề nghị truy tố 31 bị can trong vụ án tại Công ty Việt Trung. Cựu Phó Chủ tịch UBND tỉnh Lào Cai Lê Ngọc Hưng bị cáo buộc hưởng lợi 355 triệu đồng.",
+      "source": "dantri"
+    },
+    {
+      "title": "Chở hàng vượt quá kích thước, tài xế và chủ xe khách bị phạt tiền",
+      "link": "https://dantri.com.vn/thoi-su/cho-hang-vuot-qua-kich-thuoc-tai-xe-va-chu-xe-khach-bi-phat-tien-20261009161521426.htm",
+      "desc": "(Dân trí) - Qua kiểm tra, lực lượng chức năng phát hiện xe khách chở hàng vượt quá kích thước bao ngoài của xe. Tổ công tác đã lập biên bản vi phạm hành chính đối với lái xe và chủ phương tiện theo quy định.",
+      "source": "dantri"
+    },
+    {
+      "title": "Nobel Hòa bình 2026 gọi tên nữ thẩm phán Nam Phi",
+      "link": "https://dantri.com.vn/the-gioi/nobel-hoa-binh-2026-goi-ten-nu-tham-phan-nam-phi-20261009161212183.htm",
+      "desc": "(Dân trí) - Thẩm phán người Nam Phi Navi Pillay đã được trao giải Nobel Hòa bình 2026.",
+      "source": "dantri"
+    },
+    {
+      "title": "Sinh viên hoang mang vì “tiền rơi trúng tài khoản”, chuyên gia nói gì?",
+      "link": "https://dantri.com.vn/giao-duc/sinh-vien-hoang-mang-vi-tien-roi-trung-tai-khoan-chuyen-gia-noi-gi-20261009161015117.htm",
+      "desc": "(Dân trí) - Nhận 600.000 đồng từ người lạ, sau đó được nhờ hoàn trả vì chuyển nhầm, một nữ sinh viên tại TPHCM rơi vào tình huống khó xử vì không biết đây là giao dịch nhầm thật hay thủ đoạn lừa đảo.",
+      "source": "dantri"
+    },
+    {
+      "title": "Loạt dự án điện LNG nguy cơ trễ hẹn, Bộ Công Thương tính phương án thay thế",
+      "link": "https://dantri.com.vn/kinh-doanh/loat-du-an-dien-lng-nguy-co-tre-hen-bo-cong-thuong-tinh-phuong-an-thay-the-20261009151253210.htm",
+      "desc": "(Dân trí) - Một số dự án điện khí LNG tại miền Bắc có nguy cơ chậm tiến độ, không kịp vận hành trước năm 2030. Bộ Công Thương đề nghị lấy ý kiến phương án thay thế bằng nhiệt điện than, nhiệt điện khí.",
+      "source": "dantri"
+    },
+    {
+      "title": "Vụ nữ sinh hành hung bạn nhập viện: Sở chỉ đạo không né tránh",
+      "link": "https://dantri.com.vn/giao-duc/vu-nu-sinh-hanh-hung-ban-nhap-vien-so-chi-dao-khong-ne-tranh-20261009153541165.htm",
+      "desc": "(Dân trí) - Chỉ trong 3 ngày, tại Đắk Lắk liên tiếp xảy ra 2 vụ nữ sinh đánh nhau nghiêm trọng gây thương tích, lãnh đạo Sở GD&ĐT Đắk Lắk khẳng định kiên quyết không dung thứ cho hành vi bạo lực học đường.",
+      "source": "dantri"
+    },
+    {
+      "title": "Bắt tạm giam thanh niên giả danh giám đốc công ty lừa chạy việc",
+      "link": "https://dantri.com.vn/phap-luat/bat-tam-giam-thanh-nien-gia-danh-giam-doc-cong-ty-lua-chay-viec-20261009152814850.htm",
+      "desc": "(Dân trí) - Thanh niên ở Cần Thơ giả danh người môi giới việc làm, mạo danh giám đốc công ty để lừa đảo hàng trăm triệu đồng của những người tìm việc.",
+      "source": "dantri"
+    },
+    {
+      "title": "Khởi tố 24 bị can trong đường dây lừa đảo đầu tư vàng ảo",
+      "link": "https://dantri.com.vn/phap-luat/khoi-to-24-bi-can-trong-duong-day-lua-dao-dau-tu-vang-ao-20261009151325765.htm",
+      "desc": "(Dân trí) - Công an TP Cần Thơ đã khởi tố 24 bị can trong đường dây lừa đảo đầu tư vàng ảo qua ứng dụng Phantom, bước đầu xác định 4 người bị chiếm đoạt hơn 26,5 tỷ đồng.",
+      "source": "dantri"
+    },
+    {
+      "title": "Phạt người tung tin bịa đặt đại sứ du lịch chơi Pickleball làm lây lan bệnh",
+      "link": "https://dantri.com.vn/phap-luat/phat-nguoi-tung-tin-bia-dat-dai-su-du-lich-choi-pickleball-lam-lay-lan-benh-20261009154135720.htm",
+      "desc": "(Dân trí) - Người đàn ông đăng tải, chia sẻ thông tin sai sự thật liên quan đến nữ Đại sứ du lịch tỉnh Quảng Trị, bị cơ quan công an xử phạt hành chính 10 triệu đồng.",
+      "source": "dantri"
+    },
+    {
+      "title": "The Sync Show: Màn ra mắt của Norton Park thu hút 2.000 nhân viên kinh doanh",
+      "link": "https://dantri.com.vn/bat-dong-san/the-sync-show-man-ra-mat-cua-norton-park-thu-hut-2000-nhan-vien-kinh-doanh-20261009152512585.htm",
+      "desc": "(Dân trí) - 2.000 chuyên viên kinh doanh cùng hội tụ tại The Sync Show, nơi Gamuda Land lần đầu giới thiệu về Norton Park qua ngôn ngữ của âm thanh, ánh sáng và nghệ thuật đương đại.",
+      "source": "dantri"
+    },
+    {
+      "title": "Tài xế lái ô tô đi ngược chiều trên cao tốc, bị xe khác ghi hình gửi CSGT",
+      "link": "https://dantri.com.vn/thoi-su/tai-xe-lai-o-to-di-nguoc-chieu-tren-cao-toc-bi-xe-khac-ghi-hinh-gui-csgt-20261009151506982.htm",
+      "desc": "(Dân trí) - Anh L. điều khiển ô tô con mang BKS 18A-134.xx có hành vi đi ngược chiều trên cao tốc. Hành vi vi phạm của tài xế đã bị người dân ghi hình và phản ánh tới Cục CSGT.",
+      "source": "dantri"
+    },
+    {
+      "title": "Một cổ phiếu hệ sinh thái Masan bị khối ngoại xả ròng gần 9.600 tỷ đồng",
+      "link": "https://dantri.com.vn/kinh-doanh/mot-co-phieu-he-sinh-thai-masan-bi-khoi-ngoai-xa-rong-gan-9600-ty-dong-20261009151859787.htm",
+      "desc": "(Dân trí) - Tâm điểm của thị trường phiên hôm nay là giao dịch khối ngoại, khi nhà đầu tư nước ngoài bán ròng mạnh cổ phiếu MCH gần 9.600 tỷ đồng.",
+      "source": "dantri"
+    },
+    {
+      "title": "Loạt cổ phiếu bất động sản quay đầu tăng mạnh, dự báo lợi nhuận quý III",
+      "link": "https://dantri.com.vn/bat-dong-san/loat-co-phieu-bat-dong-san-quay-dau-tang-manh-du-bao-loi-nhuan-quy-iii-20261009142406309.htm",
+      "desc": "(Dân trí) - Nhiều cổ phiếu bất động sản giao dịch khởi sắc, điểm nhấn là NVL của Novaland tăng trần sau chuỗi giảm liên tiếp.",
+      "source": "dantri"
+    },
+    {
+      "title": "Tiếp tục rà soát, sắp xếp tinh gọn tổ chức bên trong các bộ, ngành",
+      "link": "https://dantri.com.vn/noi-vu/tiep-tuc-ra-soat-sap-xep-tinh-gon-to-chuc-ben-trong-cac-bo-nganh-20261009151358119.htm",
+      "desc": "(Dân trí) - Cùng với rà soát phân cấp, phân quyền, phân định thẩm quyền, Bộ Nội vụ sẽ tiếp tục tham mưu sắp xếp, tinh gọn tổ chức bên trong các bộ, ngành.",
+      "source": "dantri"
+    },
+    {
+      "title": "Trương Trọng Hiếu gặp sự cố trên sân khấu Nam vương Toàn cầu 2026",
+      "link": "https://dantri.com.vn/giai-tri/truong-trong-hieu-gap-su-co-tren-san-khau-nam-vuong-toan-cau-2026-20261009152319658.htm",
+      "desc": "(Dân trí) - Trương Trọng Hiếu gặp sự cố khi trình diễn tại Mister Global 2026, song anh nhanh chóng ứng biến và hoàn thành phần thi Trang phục dân tộc.",
+      "source": "dantri"
+    },
+    {
+      "title": "Lễ đón Thủ tướng Lê Minh Hưng thăm chính thức Vương quốc Campuchia",
+      "link": "https://dantri.com.vn/thoi-su/le-don-thu-tuong-le-minh-hung-tham-chinh-thuc-vuong-quoc-campuchia-20261009152943180.htm",
+      "desc": "(Dân trí) - Chiều 9/10, tại Thủ đô Phnom Penh, Thủ tướng Campuchia Hun Manet chủ trì Lễ đón Thủ tướng Chính phủ Lê Minh Hưng và Đoàn đại biểu cấp cao Việt Nam thăm chính thức Vương quốc Campuchia.",
+      "source": "dantri"
+    },
+    {
+      "title": "Hai chuyến ra biển liên tiếp bắt được hơn 16 tấn cá bò, ngư dân thu tiền tỷ",
+      "link": "https://dantri.com.vn/lao-dong-viec-lam/hai-chuyen-ra-bien-lien-tiep-bat-duoc-hon-16-tan-ca-bo-ngu-dan-thu-tien-ty-20261009144736028.htm",
+      "desc": "(Dân trí) - Một chủ tàu hành nghề lưới vây trên biển tại thành phố Huế cùng các ngư dân đã đánh bắt được hơn 16 tấn cá bò sau 2 chuyến biển, mang lại doanh thu lớn.",
+      "source": "dantri"
+    },
+    {
+      "title": "Vụ xô xát ở quán thịt dê Ninh Bình: Thanh niên đến xin lỗi và livestream",
+      "link": "https://dantri.com.vn/doi-song/vu-xo-xat-o-quan-thit-de-ninh-binh-thanh-nien-den-xin-loi-va-livestream-20261009150951501.htm",
+      "desc": "(Dân trí) - Nam thanh niên bị đuổi đánh trước nhà hàng thịt dê ở Ninh Bình, cùng với bố mình đã đến nhà ông bảo vệ để xin lỗi. Người này dùng điện thoại livestream lại buổi gặp gỡ.",
+      "source": "dantri"
+    },
+    {
+      "title": "Con gái tỷ phú Johnathan Hạnh Nguyễn nổi bật giữa dàn sao Việt",
+      "link": "https://dantri.com.vn/giai-tri/con-gai-ty-phu-johnathan-hanh-nguyen-noi-bat-giua-dan-sao-viet-20261009150238234.htm",
+      "desc": "(Dân trí) - Jacqueline Tiên Nguyễn - con gái tỷ phú Johnathan Hạnh Nguyễn - gây chú ý giữa dàn sao Việt như Hồ Ngọc Hà, Hồng Nhung, Mỹ Linh tại sự kiện thời trang.",
+      "source": "dantri"
+    },
+    {
+      "title": "Từ nước mắm đến rau thơm, nguyên liệu Việt vào nhà hàng cao cấp",
+      "link": "https://dantri.com.vn/du-lich/tu-nuoc-mam-den-rau-thom-nguyen-lieu-viet-vao-nha-hang-cao-cap-20261009134741711.htm",
+      "desc": "(Dân trí) - Sau thời gian sống và làm việc tại Việt Nam, bếp trưởng Sam Naisbett tại một nhà hàng ở TPHCM thử quét nước mắm lên nguyên liệu trước khi nướng, thay cho cách chế biến quen thuộc với chảo và bơ.",
+      "source": "dantri"
+    },
+    {
+      "title": "Những \"bí mật\" phía sau mỗi giải thưởng Nobel danh giá",
+      "link": "https://dantri.com.vn/the-gioi/nhung-bi-mat-phia-sau-moi-giai-thuong-nobel-danh-gia-20261005163745989.htm",
+      "desc": "(Dân trí) - Phía sau mỗi giải thưởng danh giá Nobel được công bố hàng năm là một quy trình lựa chọn kéo dài khoảng 16 tháng, với những cuộc đánh giá, thẩm tra diễn ra trong bí mật.",
+      "source": "dantri"
+    },
+    {
+      "title": "VinFast VF 2: Mẫu xe phù hợp nhu cầu người dùng ở nhiều địa phương",
+      "link": "https://dantri.com.vn/o-to-xe-may/vinfast-vf-2-mau-xe-phu-hop-nhu-cau-nguoi-dung-o-nhieu-dia-phuong-20261009144957153.htm",
+      "desc": "(Dân trí) - Chỗ đỗ cố định tạo thuận lợi để người dùng nạp pin VF 2 ngay tại nhà, trong khi phạm vi 210km và kích thước gọn giúp mẫu minicar của VinFast phù hợp với nhiều lịch trình tại các địa phương.",
+      "source": "dantri"
+    },
+    {
+      "title": "Từ “cho phép” đến “khuyến khích”: Đổi mới tư duy về đảng viên làm kinh tế",
+      "link": "https://dantri.com.vn/kinh-doanh/tu-cho-phep-den-khuyen-khich-doi-moi-tu-duy-ve-dang-vien-lam-kinh-te-20261009121647180.htm",
+      "desc": "(Dân trí) - Ông Đặng Hồng Anh, Chủ tịch Hội Doanh nhân trẻ Việt Nam, chia sẻ quan điểm về chủ trương đảng viên tham gia hoạt động đầu tư, kinh doanh.",
+      "source": "dantri"
+    },
+    {
+      "title": "Hướng đến APEC 2027: Sân bay Gia Bình và bài toán hạ tầng mang tầm quốc gia",
+      "link": "https://dantri.com.vn/kinh-doanh/huong-den-apec-2027-san-bay-gia-binh-va-bai-toan-ha-tang-mang-tam-quoc-gia-20261009144804449.htm",
+      "desc": "(Dân trí) - Nhà ga VIP, tháp kiểm soát không lưu, đường băng và những hệ thống vận hành ứng dụng AI đang đồng thời được triển khai gấp rút tại Cảng Hàng không Quốc tế Gia Bình, hướng tới mục tiêu sẵn sàng phục vụ APEC 20",
+      "source": "dantri"
+    },
+    {
+      "title": "Chủ tịch Phú Thọ nêu rõ yêu cầu khi di dời loạt nhà máy ra khỏi Việt Trì",
+      "link": "https://dantri.com.vn/thoi-su/chu-tich-phu-tho-neu-ro-yeu-cau-khi-di-doi-loat-nha-may-ra-khoi-viet-tri-20261009142331092.htm",
+      "desc": "(Dân trí) - Các doanh nghiệp thuộc diện di dời nhà máy ra khỏi thành phố Việt Trì cũ (tỉnh Phú Thọ) phải xây dựng phương án gửi về Sở Tài chính tổng hợp và xây dựng kế hoạch trước ngày 10/11.",
+      "source": "dantri"
+    },
+    {
+      "title": "Đang mừng sinh nhật, đội kèn đám tang đi ngang bất ngờ thổi… Happy Birthday",
+      "link": "https://dantri.com.vn/doi-song/dang-mung-sinh-nhat-doi-ken-dam-tang-di-ngang-bat-ngo-thoi-happy-birthday-20261009143401593.htm",
+      "desc": "(Dân trí) - Đang tổ chức sinh nhật, một nhóm bạn ở Đà Nẵng bất ngờ được đội kèn vừa phục vụ đám tang xong đi ngang qua, dừng lại thổi giai điệu Happy Birthday. Tình huống thu hút ý kiến với góc nhìn khác nhau.",
+      "source": "dantri"
+    },
+    {
+      "title": "VinFast Flazz Max: Xe đi học hợp phong cách thể thao của người trẻ",
+      "link": "https://dantri.com.vn/o-to-xe-may/vinfast-flazz-max-xe-di-hoc-hop-phong-cach-the-thao-cua-nguoi-tre-20261009144217987.htm",
+      "desc": "(Dân trí) - Kiểu dáng thể thao, kích thước vừa vặn, phối màu cá tính, thao tác điều khiển đơn giản cùng phương án đổi pin thuận tiện, VinFast Flazz Max được người trẻ yêu thích.",
+      "source": "dantri"
+    },
+    {
+      "title": "Người phụ nữ bên cạnh ông chủ Facebook và cách dùng khối tài sản 250 tỷ USD",
+      "link": "https://dantri.com.vn/doi-song/nguoi-phu-nu-ben-canh-ong-chu-facebook-va-cach-dung-khoi-tai-san-250-ty-usd-20261009111202864.htm",
+      "desc": "(Dân trí) - Không thường xuyên xuất hiện trước công chúng với những món đồ xa xỉ, Priscilla Chan - vợ của Mark Zuckerberg (nhà sáng lập Facebook) - xây dựng hình ảnh gắn với giáo dục, y tế và thiện nguyện.",
+      "source": "dantri"
+    },
+    {
+      "title": "Yêu cầu bồi thường 470 triệu đồng, chủ xe Mercedes chỉ được 671.000 đồng",
+      "link": "https://dantri.com.vn/phap-luat/yeu-cau-boi-thuong-470-trieu-dong-chu-xe-mercedes-chi-duoc-671000-dong-20261009140252924.htm",
+      "desc": "(Dân trí) - Dù đưa ra yêu cầu người phụ nữ cào xước chiếc Mercedes phải bồi thường gần 470 triệu đồng, nhưng chị Đ.B.N. chỉ được tòa chấp nhận khoản bồi thường trực tiếp hơn 671.000 đồng.",
+      "source": "dantri"
+    },
+    {
+      "title": "Nữ giáo viên trẻ xúc động khi lớp học không còn cảnh \"chỉ 3 em đi học\"",
+      "link": "https://dantri.com.vn/giao-duc/nu-giao-vien-tre-xuc-dong-khi-lop-hoc-khong-con-canh-chi-3-em-di-hoc-20261009123829518.htm",
+      "desc": "(Dân trí) - Sau hơn một tháng vắng học, 161/166 học sinh Tiến Sơn đã trở lại lớp. Các thầy cô giáo đang nỗ lực dạy bù, giúp các em bù đắp kiến thức và sớm theo kịp chương trình học.",
+      "source": "dantri"
+    },
+    {
+      "title": "Phát hiện loài súng khổng lồ mới từ rừng rậm Colombia",
+      "link": "https://dantri.com.vn/the-gioi/phat-hien-loai-sung-khong-lo-moi-tu-rung-ram-colombia-20261009120748535.htm",
+      "desc": "(Dân trí) - Một bức ảnh \"tự sướng\" đã dẫn đến việc phát hiện loài súng khổng lồ hoàn toàn mới, ẩn mình trong những cánh rừng rậm sâu thẳm ở Colombia.",
+      "source": "dantri"
+    },
+    {
+      "title": "Chung cư The Sun Avenue tăng phí giữ xe gần gấp đôi, cư dân phản ứng",
+      "link": "https://dantri.com.vn/bat-dong-san/chung-cu-the-sun-avenue-tang-phi-giu-xe-gan-gap-doi-cu-dan-phan-ung-20261009110210024.htm",
+      "desc": "(Dân trí) - Cư dân tại chung cư The Sun Avenue ở TPHCM phản ứng sau khi phí trông giữ xe máy tăng từ 64.800 lên 120.000 đồng/tháng, ô tô tăng từ 1,32 triệu lên 1,5 triệu đồng/tháng.",
+      "source": "dantri"
+    },
+    {
+      "title": "Quốc Thiên công bố concert cá nhân tiếp theo tại Hà Nội",
+      "link": "https://dantri.com.vn/giai-tri/quoc-thien-cong-bo-concert-ca-nhan-tiep-theo-tai-ha-noi-20261009141348465.htm",
+      "desc": "(Dân trí) - Từng là Quán quân \"Vietnam Idol 2008\" nhưng Quốc Thiên có nhiều năm chật vật. Sau dấu ấn tại \"Anh trai vượt ngàn chông gai\", ca sĩ dự kiến tổ chức concert cá nhân tại Hà Nội vào ngày 29/11.",
+      "source": "dantri"
+    },
+    {
+      "title": "Billiards: Hai cơ thủ Việt Nam ngược dòng ngoạn mục vào vòng 16 PBA",
+      "link": "https://thanhnien.vn/billiards-hai-co-thu-viet-nam-nguoc-dong-ngoan-muc-vao-vong-16-pba-185261010002001729.htm",
+      "desc": " Giải PBA Tour đang diễn ra đã đi đến những vòng đấu cuối cùng. Tại vòng 16 cơ thủ, billiards carom 3 băng Việt Nam có 2 đại diện tranh tài.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Thận yếu: Bác sĩ dặn đừng bỏ qua dấu hiệu đầu tiên này",
+      "link": "https://thanhnien.vn/than-yeu-bac-si-dan-dung-bo-qua-dau-hieu-dau-tien-nay-185261009214508519.htm",
+      "desc": " Bệnh thận thường tiến triển âm thầm và nhiều người chỉ phát hiện khi chức năng thận đã suy giảm đáng kể. Tuy nhiên, một thay đổi dễ nhận thấy khi đi tiểu có thể là dấu hiệu cần lưu ý.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Ăn xôi mặn mỗi ngày: Đường huyết, huyết áp có bị ảnh hưởng?",
+      "link": "https://thanhnien.vn/an-xoi-man-moi-ngay-duong-huyet-huyet-ap-co-bi-anh-huong-185261009132356359.htm",
+      "desc": " Xôi mặn là món ăn sáng quen thuộc và thường tạo cảm giác no lâu. Tuy nhiên, thường xuyên ăn với phần xôi lớn sẽ ảnh hưởng đến đường huyết và huyết áp, nhất là ở người thừa cân, tiểu đường và huyết áp cao.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Đội tuyển Việt Nam khủng hoảng nhân sự cỡ nào, thầy Kim cũng không 'sợ hãi'",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-khung-hoang-nhan-su-co-nao-thay-kim-cung-khong-so-hai-185261009162111439.htm",
+      "desc": " Những vòng đấu tại V-League và giải hạng nhất sẽ rất quan trọng với các cầu thủ trẻ. Nhiều gương mặt trong lứa tuổi 23 sẽ được rèn luyện thêm bản lĩnh, thêm kinh nghiệm thi đấu chuyên nghiệp, để tìm cơ hội khoác áo đội ",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Lịch thi đấu HAGL vs Đà Nẵng rất hay hôm nay: Đối thủ phố núi ‘xuống biển’ tìm điểm",
+      "link": "https://thanhnien.vn/lich-thi-dau-hagl-vs-da-nang-rat-hay-hom-nay-doi-thu-pho-nui-xuong-bien-tim-diem-185261009203714287.htm",
+      "desc": " Việc CLB Hà Tĩnh bất ngờ quật ngã Thể Công Viettel ở trận đấu sớm hứa hẹn mở ra vòng 3 V-League 2026 - 2027 khó lường, trong đó có trận cầu '6 điểm' giữa HAGL và CLB Đà Nẵng vào hôm nay.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Cách duy nhất để đội tuyển Việt Nam không bị vắt kiệt: Phải tìm được 'tổ 2' xứng tầm",
+      "link": "https://thanhnien.vn/cach-duy-nhat-de-doi-tuyen-viet-nam-khong-bi-vat-kiet-phai-tim-duoc-to-2-xung-tam-185261009195050658.htm",
+      "desc": " Lực lượng thiếu chiều sâu là nguyên nhân khiến đội tuyển Việt Nam xuống thể lực, dẫn tới thất bại tại FIFA ASEAN Cup 2026.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "FPT Play phát trực tiếp trận Việt Nam đấu Đài Loan và Kyrgyzstan: Ai sẽ mua bản quyền trận gặp Qatar?",
+      "link": "https://thanhnien.vn/fpt-play-phat-truc-tiep-tran-viet-nam-dau-dai-loan-va-kyrgyzstan-ai-se-mua-ban-quyen-tran-gap-qatar-185261007011612318.htm",
+      "desc": " Đội tuyển Việt Nam sẽ tham dự Asian Cup 2027 vào đầu năm sau, trước đó đội bóng được dẫn dắt bởi HLV Kim Sang-sik sẽ có đợt tập trung thi đấu giao hữu nhân dịp FIFA Days tháng 11 và đặc biệt có thêm trận giao hữu vào ng",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 9.10, giải độc đắc cộng dồn 15,8 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-910-giai-doc-dac-cong-don-158-ti-dong-185261009190644783.htm",
+      "desc": " Tối 9.10, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 15,8 tỉ đồng.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Ông Trump gọi người vẫn dùng thuật ngữ AI là ‘kẻ thù’",
+      "link": "https://thanhnien.vn/ong-trump-goi-nguoi-van-dung-thuat-ngu-ai-la-ke-thu-185261009201422103.htm",
+      "desc": " Tổng thống Mỹ Donald Trump tuyên bố Nhà Trắng coi những người tiếp tục sử dụng thuật ngữ 'trí tuệ nhân tạo' (AI), thay vì cách gọi 'siêu trí tuệ' (SI), là \"kẻ thù\".",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Ông Trump xác định ‘kẻ thù’ mới về 'siêu trí tuệ'",
+      "link": "https://thanhnien.vn/ong-trump-xac-dinh-ke-thu-moi-ve-sieu-tri-tue-185261009175322218.htm",
+      "desc": " Một lời đe dọa được Tổng thống Donald Trump đưa ra một tuần sau khi ký sắc lệnh hành pháp đổi tên AI thành ‘siêu trí tuệ’.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Đưa hợp tác kinh tế Việt Nam - Campuchia lên tầm cao mới",
+      "link": "https://thanhnien.vn/dua-hop-tac-kinh-te-viet-nam-campuchia-len-tam-cao-moi-185261009204721103.htm",
+      "desc": " Chiều 9.10, Thủ tướng Lê Minh Hưng và Thủ tướng Campuchia Hun Manet đã đồng chủ trì, phát biểu chỉ đạo tại Diễn đàn Doanh nghiệp Việt Nam - Campuchia 2026.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Việt Nam và Campuchia tăng cường phối hợp phòng chống tội phạm công nghệ cao",
+      "link": "https://thanhnien.vn/viet-nam-va-campuchia-tang-cuong-phoi-hop-phong-chong-toi-pham-cong-nghe-cao-185261009205631065.htm",
+      "desc": " Chiều 9.10, ngay sau lễ đón chính thức trọng thể tại Cung Hòa Bình ở Thủ đô Phnom Penh (Campuchia), Thủ tướng Lê Minh Hưng và Thủ tướng Campuchia Hun Manet đã tiến hành hội đàm.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Anthropic cấm người dùng có ‘hành vi lăng mạ hoặc tàn nhẫn’ với Claude",
+      "link": "https://thanhnien.vn/anthropic-cam-nguoi-dung-co-hanh-vi-lang-ma-hoac-tan-nhan-voi-claude-18526100918562069.htm",
+      "desc": " Công ty Anthropic đã bổ sung quy định cấm người dùng có 'hành vi lạm dụng hoặc tàn nhẫn kéo dài và không cần thiết' đối với các mô hình trí tuệ nhân tạo (AI) của hãng.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Sạc iPhone 17 Pro Max đến 80% thay vì đầy, pin sau một năm thế nào?",
+      "link": "https://thanhnien.vn/sac-iphone-17-pro-max-den-80-thay-vi-day-pin-sau-mot-nam-the-nao-185261007144345421.htm",
+      "desc": " Trải nghiệm một năm với giới hạn sạc 80% cho thấy iPhone 17 Pro Max còn 97% dung lượng pin sau 277 chu kỳ.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Chỉ 20 phút đi bộ, đường ruột thay đổi thế nào?",
+      "link": "https://thanhnien.vn/chi-20-phut-di-bo-duong-ruot-thay-doi-the-nao-185261009023844055.htm",
+      "desc": " Không chỉ tốt cho tim mạch, thể lực, đi bộ còn có thể kích thích hoạt động của đường ruột chỉ sau thời gian ngắn. Nghiên cứu mới cho thấy, sau 20 phút đi bộ với tốc độ thoải mái, nhu động ruột có những thay đổi rõ.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Người Trung Quốc mệt mỏi với phim ngắn AI",
+      "link": "https://thanhnien.vn/nguoi-trung-quoc-met-moi-voi-phim-ngan-ai-185261008112352133.htm",
+      "desc": " Trong 8 tháng đầu năm 2026, hơn 90% trong số 430.000 phim ngắn được phát hành trực tuyến ở Trung Quốc là sản phẩm của AI.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Duyệt dự án chống ngập chợ Thủ Đức hơn 5.100 tỉ đồng cuối năm 2026",
+      "link": "https://thanhnien.vn/duyet-du-an-chong-ngap-cho-thu-duc-hon-5100-ti-dong-cuoi-nam-2026-185261009185216392.htm",
+      "desc": " UBND TP.HCM yêu cầu phê duyệt 2 dự án thành phần cải tạo rạch Thủ Đức trong năm nay để sớm thi công, chống ngập cho khu vực chợ Thủ Đức.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Rò rỉ mẫu Redmi Turbo 6 Max có pin hơn 10.000 mAh",
+      "link": "https://thanhnien.vn/ro-ri-mau-redmi-turbo-6-max-co-pin-hon-10000-mah-185261009092334328.htm",
+      "desc": " Nguồn tin rò rỉ uy tín cho biết Xiaomi đang sản xuất một mẫu điện thoại Redmi với viên pin vượt mức 10.000 mAh.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Xem nhanh 20h ngày 9.10: Hành trình 100 năm cà phê Khe Sanh | Mỹ cân nhắc nối lại tấn công Iran",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-910-lau-nam-goc-se-phat-song-xu-ban-tu-toi-my-can-nhac-noi-lai-tan-cong-iran-185261009184007062.htm",
+      "desc": " ‘Xem nhanh 20h’ ngày 9.10 có nhiều tin tức đáng chú ý về: 100 năm cà phê Khe Sanh: Từ vùng đất bom đạn đến những mùa quả ngọt; Bộ trưởng Chiến tranh ca ngợi thủy thủ tàu sân bay, Mỹ cân nhắc nối lại tấn công Iran;...",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Diện cả sắc đen quyền lực mà không hề nhàm chán",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-ca-sac-den-quyen-luc-ma-khong-he-nham-chan-185261008213511839.htm",
+      "desc": " Sắc đen chưa bao giờ vắng bóng trên sàn diễn hay trong tủ đồ của những tín đồ sành mốt. Diện trang phục đen không đơn thuần là một lựa chọn an toàn mà là nghệ thuật khẳng định cá tính mạnh mẽ.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Xổ số miền Nam ngày 9 tháng 10 - Kết quả xổ số hôm nay thứ sáu",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-9-thang-10-ket-qua-xo-so-hom-nay-thu-sau-185261009200033406.htm",
+      "desc": " Xem kết quả xổ số miền Nam ngày 9 tháng 10; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ sáu ngày 9.10.2026.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Từ 12.10, cao tốc Cầu Giẽ - Ninh Bình chỉ được chạy tối đa 100 km/h",
+      "link": "https://thanhnien.vn/tu-1210-cao-toc-cau-gie-ninh-binh-chi-duoc-chay-toi-da-100-km-h-185261009195158656.htm",
+      "desc": " Tốc độ khai thác tối đa trên cao tốc Cầu Giẽ - Ninh Bình sẽ giảm từ 120 km/h tại một số đoạn tuyến xuống chỉ còn 100 km/h.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Gặp biển 'STOP' ở giao lộ vắng, tài xế có bắt buộc phải dừng hẳn?",
+      "link": "https://thanhnien.vn/gap-bien-stop-o-giao-lo-vang-tai-xe-co-bat-buoc-phai-dung-han-185261009142513848.htm",
+      "desc": " Giao lộ hoàn toàn vắng, tầm nhìn thông thoáng nhưng phía trước có biển \"STOP\", nhiều tài xế thường chỉ rà phanh, quan sát rồi tiếp tục chạy. Cách xử lý tưởng chừng hợp lý này liệu có đúng quy định?",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Trao 90 giải thưởng về tin học cho cán bộ, công chức trẻ",
+      "link": "https://thanhnien.vn/trao-90-giai-thuong-ve-tin-hoc-cho-can-bo-cong-chuc-tre-185261009193040652.htm",
+      "desc": " Ngày 9.10, tại Hà Nội, Trung ương Đoàn tổ chức trao 90 giải thưởng tại Hội thi Tin học khối cán bộ, công chức trẻ toàn quốc lần thứ X năm 2026, sau hai ngày tranh tài của 316 thí sinh đến từ 34 tỉnh, thành đoàn và đoàn ",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Tối nay có mưa sao băng Draconids, từng còn 'quá khứ rực rỡ' gần 100 năm trước",
+      "link": "https://thanhnien.vn/toi-nay-co-mua-sao-bang-draconids-tung-con-qua-khu-ruc-ro-gan-100-nam-truoc-185261009135031264.htm",
+      "desc": " Draconids, trận mưa sao băng từng bùng nổ thành 'bão sao băng' với hàng ngàn vệt sáng xuất hiện mỗi giờ gần 100 năm trước, tối nay 9.10 quay trở lại.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Nam bộ đón triều cường rất cao, miền Trung vẫn mưa lớn trên 250 mm",
+      "link": "https://thanhnien.vn/nam-bo-don-trieu-cuong-rat-cao-mien-trung-van-mua-lon-tren-250-mm-1852610091928327.htm",
+      "desc": " Trong những ngày tới, miền Trung tiếp tục có mưa lớn, có nơi trên 250 mm. Trong khi đó, Nam bộ sẽ có đợt triều cường cao gây ngập úng ở khu vực trũng, thấp ven biển, ven sông.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Sự tiện lợi của AI có thể đẩy các cán bộ công chức vi phạm pháp luật",
+      "link": "https://thanhnien.vn/su-tien-loi-cua-ai-co-the-day-cac-can-bo-cong-chuc-vi-pham-phap-luat-185261009184302787.htm",
+      "desc": " Làm thế nào để tận dụng AI nhằm tối ưu hóa năng suất làm việc, đồng thời vẫn đảm bảo tuyệt đối an toàn thông tin và tính thượng tôn pháp luật? Những trăn trở này đã được đưa ra thảo luận tại diễn đàn \"Công chức trẻ và k",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Hơn 1.200 vụ tai nạn trong 9 tháng đầu năm, đâu là những khu vực đáng lo nhất ở TP.HCM?",
+      "link": "https://thanhnien.vn/hon-1200-vu-tai-nan-trong-9-thang-dau-nam-dau-la-nhung-khu-vuc-dang-lo-nhat-o-tphcm-18526100917255602.htm",
+      "desc": " Dù chưa ghi nhận bất kỳ \"điểm đen\" nào, TP.HCM vẫn có 655 người tử vong vì tai nạn giao thông trong 9 tháng đầu năm. Nghịch lý này xuất phát từ đâu và những \"điểm mù\" nguy hiểm nào đang rình rập tại vùng ven?",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Vì sao Bộ Tài chính đề xuất 'chưa vội' tách EVNNPT khỏi EVN?",
+      "link": "https://thanhnien.vn/vi-sao-bo-tai-chinh-de-xuat-chua-voi-tach-evnnpt-khoi-evn-18526100918451249.htm",
+      "desc": " Trong văn bản gửi Chính phủ mới đây, Bộ Tài chính đã phân tích những hệ lụy nếu thực hiện tách ngay EVNNPT ra khỏi EVN, theo đề xuất từ Bộ Công thương.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Hơn 28.000 hiệu trưởng, hiệu phó quay lại làm giáo viên sau sáp nhập",
+      "link": "https://thanhnien.vn/hon-28000-hieu-truong-hieu-pho-quay-lai-lam-giao-vien-sau-sap-nhap-185261009183834548.htm",
+      "desc": " Theo Bộ GD-ĐT, 34 địa phương cả nước đã hoàn thành phương án sắp xếp cơ sở giáo dục; số cơ sở giáo dục công lập giảm 18.975 cơ sở, tương đương 50,6%; hơn 28.000 hiệu trưởng, hiệu phó chuyển sang làm công tác giảng dạy.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Cùng sống xanh số 169: Tạo nhiều trò chơi trên bè nuôi cá để giữ ký ức với ông bà",
+      "link": "https://thanhnien.vn/cung-song-xanh-so-169-tao-nhieu-tro-choi-tren-be-nuoi-ca-de-giu-ky-uc-voi-ong-ba-185261008202508371.htm",
+      "desc": " Tuổi thơ của anh Dương Kế Hiền ở TP. Cần Thơ là những ngày hè được ra bè nuôi cá của ông bà. Khi ông bà không còn ở đây nữa, vì muốn giữ lại những kỷ niệm với ông bà mình mà anh Hiền đã tạo ra nơi đây không chỉ là bè nu",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Bệnh viện Hoàn Mỹ Sài Gòn triển khai dịch vụ bảo lãnh viện phí quốc tế",
+      "link": "https://thanhnien.vn/benh-vien-hoan-my-sai-gon-trien-khai-dich-vu-bao-lanh-vien-phi-quoc-te-185261009194254732.htm",
+      "desc": " Bệnh viện Hoàn Mỹ Sài Gòn nâng cao trải nghiệm chăm sóc sức khỏe với dịch vụ bảo lãnh viện phí quốc tế, giúp khách hàng an tâm điều trị.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Khánh thành nhà vệ sinh, xóa cảnh học sinh phải nín nhịn đi vệ sinh",
+      "link": "https://thanhnien.vn/khanh-thanh-nha-ve-sinh-xoa-canh-hoc-sinh-phai-nin-nhin-di-ve-sinh-185261009165656977.htm",
+      "desc": " Hai công trình \"nhà vệ sinh cho em\" vừa khánh thành đã góp phần xóa sổ cảnh học sinh 2 trường ở Đồng Nai phải nín nhịn đi vệ sinh vì nỗi ám ảnh với mùi hôi thối, sự xuống cấp của nhà vệ sinh cũ.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Rực rỡ sắc màu lễ rước y trang Katê 2026 giữa màn mưa",
+      "link": "https://thanhnien.vn/ruc-ro-sac-mau-le-ruoc-y-trang-kate-2026-giua-man-mua-185261009171206282.htm",
+      "desc": " Dù trời mưa, đồng bào Chăm và Raglai ở Khánh Hòa vẫn tưng bừng tham gia lễ rước y trang nữ thần Pô Inư Nưgar, nghi thức mở đầu lễ hội Katê 2026.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "AI học từ sáng tạo của con người: Ai được hưởng lợi?",
+      "link": "https://thanhnien.vn/ai-hoc-tu-sang-tao-cua-con-nguoi-ai-duoc-huong-loi-185261009190826784.htm",
+      "desc": " Trí tuệ nhân tạo (AI) giờ đây có thể viết báo, vẽ tranh hay sáng tác nhạc chỉ trong vài giây nhờ 'học' từ kho dữ liệu khổng lồ của con người. Thế nhưng, câu chuyện không dừng lại ở việc công nghệ làm được những gì, mà l",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Chiến dịch 'Không một mình': Lá chắn bảo vệ trẻ em trên không gian mạng",
+      "link": "https://thanhnien.vn/chien-dich-khong-mot-minh-la-chan-bao-ve-tre-em-tren-khong-gian-mang-185261009160959366.htm",
+      "desc": " Chiến dịch 'Không một mình' diễn ra từ 10.10 đến 10.12 với thông điệp 'Kết nối không tổn thương', nhấn mạnh việc trẻ em và thanh thiếu niên không phải tự mình đối mặt khi gặp vấn đề trên môi trường mạng. Một góc nhìn cù",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Giao xe máy cho con chưa đủ tuổi: Có thể bị phạt cải tạo không giam giữ đến 3 năm",
+      "link": "https://thanhnien.vn/giao-xe-may-cho-con-chua-du-tuoi-co-the-bi-phat-cai-tao-khong-giam-giu-den-3-nam-185261009173422596.htm",
+      "desc": " Vụ người cha bị khởi tố sau khi giao xe máy cho con 14 tuổi gây tai nạn ở Đắk Lắk đặt ra vấn đề trách nhiệm pháp lý của phụ huynh khi để con điều khiển phương tiện chưa đúng quy định.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Tretinoin và Retinol: Đâu mới là ‘chân ái’ giúp da căng bóng, tươi trẻ như tuổi 20+?",
+      "link": "https://thanhnien.vn/tretinoin-va-retinol-dau-moi-la-chan-ai-giup-da-cang-bong-tuoi-tre-nhu-tuoi-20-185261009190606488.htm",
+      "desc": " Nhiều chị em khao khát làn da căng bóng, láng mịn như 20+ nhưng lại bối rối giữa vô vàn hoạt chất 'trẻ hóa'. Trong đó, tretinoin và retinol luôn được xướng lên nhiều. Dù cùng thuộc họ Retinoids nhưng cơ chế hoạt động, m",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Cô gái xinh đẹp hát 'Xóm đêm', bị Thái Châu góp ý vì nghẹn lời",
+      "link": "https://thanhnien.vn/co-gai-xinh-dep-hat-xom-dem-bi-thai-chau-gop-y-vi-nghen-loi-18526100917563057.htm",
+      "desc": " Thể hiện ca khúc 'Xóm đêm' trên sân khấu 'Người kể chuyện tình', thí sinh Tăng Vịnh Nghi nhận những góp ý từ danh ca Thái Châu và các giám khảo.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Đắk Lắk chỉ đạo làm rõ 2 vụ nữ sinh đánh nhau",
+      "link": "https://thanhnien.vn/dak-lak-chi-dao-lam-ro-2-vu-nu-sinh-danh-nhau-185261009175402855.htm",
+      "desc": " Sở GD-ĐT Đắk Lắk yêu cầu các trường phối hợp với gia đình và công an làm rõ 2 vụ nữ sinh đánh nhau tại xã Quảng Phú và Ea Tul, đồng thời tăng cường phòng ngừa bạo lực học đường.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Quốc Thiên hóa 'chiến binh' trong concert riêng tại Hà Nội",
+      "link": "https://thanhnien.vn/quoc-thien-hoa-chien-binh-trong-concert-rieng-tai-ha-noi-185261009162603968.htm",
+      "desc": " Sau khi ghi điểm tại 'Anh trai vượt ngàn chông gai', Quốc Thiên quyết định tổ chức concert cá nhân tiếp theo tại Hà Nội.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "LPBank lan tỏa ‘Khỏe thể chất - Trọn Lộc Phát’ qua sự kiện thể thao cộng đồng",
+      "link": "https://thanhnien.vn/lpbank-lan-toa-khoe-the-chat-tron-loc-phat-qua-su-kien-the-thao-cong-dong-185261009184841433.htm",
+      "desc": " Đồng hành cùng Lễ phát động Phong trào Toàn dân tập luyện thể thao trong khuôn khổ Chương trình 'Vì một Việt Nam khỏe mạnh', LPBank lan tỏa thông điệp 'Khỏe thể chất - Trọn Lộc Phát', kết nối tinh thần rèn luyện thể tha",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Cựu Phó chủ tịch tỉnh Lào Cai Lê Ngọc Hưng bị cáo buộc hưởng lợi 355 triệu",
+      "link": "https://thanhnien.vn/cuu-pho-chu-tich-tinh-lao-cai-le-ngoc-hung-bi-cao-buoc-huong-loi-355-trieu-185261009182036754.htm",
+      "desc": " Ông Lê Ngọc Hưng, cựu Phó chủ tịch UBND tỉnh Lào Cai, bị đề nghị truy tố, do liên quan đến vụ án xảy ra tại VTM với cáo buộc lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ và hưởng lợi 355 triệu đồng.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Xe buýt xem thường luật, 'cướp đường' chạy ngược chiều trên phố",
+      "link": "https://thanhnien.vn/xe-buyt-xem-thuong-luat-cuop-duong-chay-nguoc-chieu-tren-pho-185261009152502631.htm",
+      "desc": " Đường hẹp lại đông phương tiện lưu thông, tuy nhiên tài xế vẫn bất chấp nguy hiểm lái xe buýt vượt ẩu, chạy lấn hẳn sang làn đường ngược chiều, ép các xe khác phải nhường đường.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Ông Đinh Văn Nơi kiểm tra việc xử lý hồ sơ đất đai ở Phú Quốc",
+      "link": "https://thanhnien.vn/ong-dinh-van-noi-kiem-tra-viec-xu-ly-ho-so-dat-dai-o-phu-quoc-185261009181258596.htm",
+      "desc": " Trước tình trạng hồ sơ đất đai bị tồn đọng, ông Đinh Văn Nơi, Phó bí thư Tỉnh ủy An Giang, Bí thư Đảng ủy đặc khu Phú Quốc đã trực tiếp kiểm tra, chỉ đạo giải quyết thủ tục hành chính, nêu cao tinh thần phục vụ người dâ",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Bị lật kèo bằng câu 'Hợp đồng đâu?': Tin nhắn điện thoại có phải là bằng chứng?",
+      "link": "https://thanhnien.vn/bi-lat-keo-bang-cau-hop-dong-dau-tin-nhan-dien-thoai-co-phai-la-bang-chung-185261009063038142.htm",
+      "desc": " Khi thỏa thuận chỉ là những dòng tin nhắn điện thoại mà không có hợp đồng văn bản, liệu người lao động có đòi được tiền? Cùng luật sư tìm câu trả lời.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Giám đốc Công an TP.Hà Nội được vinh danh 'Công dân thủ đô ưu tú' năm 2026",
+      "link": "https://thanhnien.vn/giam-doc-cong-an-tpha-noi-duoc-vinh-danh-cong-dan-thu-do-uu-tu-nam-2026-185261009172430997.htm",
+      "desc": " Với những đóng góp thiết thực cho cộng đồng, cho sự phát triển của thủ đô, trung tướng Nguyễn Thanh Tùng, Giám đốc Công an TP.Hà Nội, cùng 8 cá nhân được trao danh hiệu 'Công dân thủ đô ưu tú' năm 2026.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Hà Nội khởi công dự án safari Ba Vì, tổ hợp trường đua ngựa Sóc Sơn",
+      "link": "https://thanhnien.vn/ha-noi-khoi-cong-du-an-safari-ba-vi-to-hop-truong-dua-ngua-soc-son-185261009171545372.htm",
+      "desc": " Trong 14 dự án đưa vào khởi công dịp 10.10 tại Hà Nội có dự án công viên safari Ba Vì quy mô 299 ha; dự án tổ hợp vui chơi giải trí đa năng - trường đua ngựa Sóc Sơn với quy mô 125 ha.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Miss Universe Vietnam 2026 mở màn cho show Nguyễn Minh Công",
+      "link": "https://thanhnien.vn/thoi-trang-tre/miss-universe-vietnam-2026-mo-man-cho-show-nguyen-minh-cong-185261009172945757.htm",
+      "desc": " Nhà thiết kế Nguyễn Minh Công ra mắt bộ sưu tập Bậu mặc bà ba tại Bảo tàng Phụ nữ Nam Bộ. Trong đó, Miss Universe Vietnam 2026 Nguyễn Quỳnh Anh đảm nhận vị trí mở màn show diễn.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Huyết áp cao: Chuyên gia tiết lộ thực đơn lý tưởng cho bữa tối",
+      "link": "https://thanhnien.vn/huyet-ap-cao-chuyen-gia-tiet-lo-thuc-don-ly-tuong-cho-bua-toi-185261009180024481.htm",
+      "desc": " Chế độ ăn nhiều natri, chất béo bão hòa và đường có thể làm tăng huyết áp. Vì vậy, điều chỉnh chế độ ăn, đặc biệt lựa chọn thực phẩm phù hợp cho bữa tối, góp phần kiểm soát huyết áp và giảm nguy cơ bệnh tim mạch.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Mưa lớn giờ tan trường ở TP.HCM, phụ huynh lội nước cõng con về nhà",
+      "link": "https://thanhnien.vn/mua-lon-gio-tan-truong-o-tphcm-phu-huynh-loi-nuoc-cong-con-ve-nha-185261009174254242.htm",
+      "desc": " Mưa lớn chiều 9.10 khiến đường An Bình (TP.HCM) ngập sâu chỉ sau khoảng 20 phút. Đúng giờ tan trường, nhiều phụ huynh phải cõng con qua đường ngập.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Hàng loạt sao phủi đình đám góp mặt tại giải Gia Lai Cup 2026",
+      "link": "https://thanhnien.vn/hang-loat-sao-phui-dinh-dam-gop-mat-tai-giai-gia-lai-cup-2026-185261009170912193.htm",
+      "desc": " Chiều 9.10, ban tổ chức giải bóng đá Gia Lai Cup 2026 đã họp kỹ thuật và bốc thăm chia bảng. Giải đấu này hứa hẹn hấp dẫn khi quy tụ rất nhiều siêu phủi có tiếng.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Bệnh thận nên ăn cá gì? 4 lựa chọn giàu dinh dưỡng",
+      "link": "https://thanhnien.vn/benh-than-nen-an-ca-gi-4-lua-chon-giau-dinh-duong-185261009132104181.htm",
+      "desc": " Thay thế một phần thịt đỏ và thực phẩm chế biến bằng cá sẽ mang lại nhiều lợi ích cho tim và sức khỏe chuyển hóa. Đây là những yếu tố có liên quan mật thiết đến sức khỏe thận.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "CSGT tạm dừng xử phạt xe chạy dưới tốc độ tối thiểu tại 3 đoạn cao tốc",
+      "link": "https://thanhnien.vn/csgt-tam-dung-xu-phat-xe-chay-duoi-toc-do-toi-thieu-tai-3-doan-cao-toc-185261009170141659.htm",
+      "desc": " Từ ngày 1.10, CSGT tạm dừng đo tốc độ và xử phạt xe chạy dưới tốc độ tối thiểu tại 3 đoạn dốc trên cao tốc để khảo sát, đánh giá.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Diễn đàn Kinh tế Mùa thu 2026 quy tụ 1.500 đại biểu trong nước và quốc tế",
+      "link": "https://thanhnien.vn/dien-dan-kinh-te-mua-thu-2026-quy-tu-1500-dai-bieu-trong-nuoc-va-quoc-te-185261009173748267.htm",
+      "desc": " Chiều 9.10, Trung tâm Cách mạng công nghiệp lần thứ 4 tại TP.HCM tổ chức họp báo về Diễn đàn Kinh tế Mùa thu (AEF) 2026 tại TP.HCM, dự kiến được tổ chức vào cuối tháng 10 này.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Đình Bắc không chấn thương nặng, HLV Kim thở phào khi dàn sao đội tuyển Việt Nam được nghỉ ngơi",
+      "link": "https://thanhnien.vn/dinh-bac-on-hlv-kim-tho-phao-khi-dan-sao-doi-tuyen-viet-nam-duoc-nghi-ngoi-185261009173141042.htm",
+      "desc": " Việc Đình Bắc không dính chấn thương nặng giúp HLV Kim Sang-sik thở phào, khi dàn sao đội tuyển Việt Nam được nghỉ ngơi sau FIFA ASEAN Cup 2026.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Tìm thấy 8 hài cốt liệt sĩ tại nhiều xã, phường ở Quảng Trị",
+      "link": "https://thanhnien.vn/tim-thay-8-hai-cot-liet-si-tai-nhieu-xa-phuong-o-quang-tri-185261009172820563.htm",
+      "desc": " Tiếp tục mở rộng tìm kiếm, Bộ Chỉ huy quân sự tỉnh Quảng Trị phát hiện thêm 8 hài cốt liệt sĩ ở các khu vực xã Dân Hóa, Ái Tử và phường Quảng Trị.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Chung kết ngược tại Old Trafford: Ai thua dễ 'bay ghế'",
+      "link": "https://thanhnien.vn/chung-ket-nguoc-tai-old-trafford-ai-thua-de-bay-ghe-185261009172054012.htm",
+      "desc": " Michael Carrick (M.U) và Roberto De Zerbi (Tottenham) đang cùng dẫn đầu danh sách các HLV… dễ bị sa thải nhất tại giải Ngoại hạng Anh. Họ sẽ gặp nhau ở trận M.U – Tottenham, diễn ra lúc 23 giờ 30 ngày 10.19 (giờ Việt Na",
+      "source": "thanhnien"
+    },
+    {
+      "title": "Lãi suất tiền đồng và giá USD liên ngân hàng liên tục giảm",
+      "link": "https://thanhnien.vn/lai-suat-tien-dong-va-gia-usd-lien-ngan-hang-lien-tuc-giam-185261009164808644.htm",
+      "desc": " Lãi suất tiền đồng và giá USD trên thị trường liên ngân hàng liên tục giảm mạnh trong những ngày qua.",
+      "source": "thanhnien"
+    },
+    {
+      "title": "One UI 9.5 mở rộng xuống điện thoại Galaxy giá rẻ",
+      "link": "https://thanhnien.vn/one-ui-95-mo-rong-xuong-dien-thoai-galaxy-gia-re-185261009093656068.htm",
+      "desc": " Việc thử nghiệm One UI 9.5 trên Galaxy A17 5G cho thấy Samsung có thể mang bản cập nhật mới đến nhiều máy giá rẻ.",
+      "source": "thanhnien"
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "google-trends-vn",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "name": "vnexpress-moi-nhat",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "name": "vnexpress-noi-bat",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "name": "vnexpress-the-thao",
+      "ok": true,
+      "items": 60
+    },
+    {
+      "name": "vnexpress-giai-tri",
+      "ok": true,
+      "items": 60
+    },
+    {
+      "name": "dantri",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "name": "thanhnien",
+      "ok": true,
+      "items": 60
+    }
+  ]
+}
