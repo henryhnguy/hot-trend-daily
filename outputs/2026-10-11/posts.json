@@ -1,0 +1,100 @@
+{
+  "summaries": {
+    "Google Trends VN": [
+      "Xu hướng tìm kiếm thể thao quốc tế áp đảo với cụm từ 'thứ hạng của aston villa gặp brentford' đạt trên 5.000 lượt tìm kiếm",
+      "Kình địch bóng đá Tây Ban Nha thu hút quan tâm lớn với từ khóa 'real madrid' đạt hơn 500 lượt và 'real vs' đạt hơn 200 lượt tìm kiếm",
+      "Tiền đạo Anthony Gordon nhận được hơn 200 lượt tìm kiếm liên quan đến vòng đấu Ngoại hạng Anh",
+      "Trận cầu tâm điểm bóng đá Đức 'leipzig đấu với frankfurt' ghi nhận hơn 200 lượt tìm kiếm",
+      "Đội bóng nước Ý 'inter' thu hút hơn 200 lượt tìm kiếm từ người hâm mộ",
+      "Các cặp đấu và cầu thủ đáng chú ý gồm 'man utd – brighton', 'atm vs' và Gabriel Jesus đều đạt trên 100 lượt tìm kiếm",
+      "Từ khóa con số '90' lọt top thịnh hành với hơn 100 lượt tìm kiếm thể thao"
+    ],
+    "Facebook": [
+      "Cộng đồng mạng chia sẻ dồn dập tin tức cảnh báo sau vụ khoảng 60 người nhập viện nghi do ngộ độc bánh mì tại Quảng Ngãi",
+      "Hình ảnh người đẹp Emoura Phạm đạt danh hiệu Á hậu 4 Miss Grand International 2026 nhận được hàng loạt lời chúc mừng trên các trang sắc đẹp",
+      "Dư luận bóng đá tranh cãi nảy lửa quanh việc Cristiano Ronaldo bị Liên đoàn Bóng đá Bồ Đào Nha đình chỉ thi đấu do tự ý rời đội",
+      "Thông tin triều cường lịch sử 2,2m tại sông Đồng Nai vượt kỷ lục 26 năm và làm ngập nhiều tuyến đường TP.HCM thu hút sự chú ý theo dõi lộ trình di chuyển",
+      "Không khí rực rỡ từ màn bắn pháo hoa kỷ niệm 72 năm Ngày Giải phóng Thủ đô tại Hà Nội tiếp tục lan tỏa trên newfeed"
+    ],
+    "TikTok": [
+      "Các đoạn video cắt ngắn phần thi thuyết trình về hòa bình và khoảnh khắc đăng quang Á hậu 4 của Emoura Phạm thu hút lượng tương tác lớn",
+      "Nội dung hình ảnh người dân lội nước, xe chết máy do triều cường dâng cao tại Nam Bộ được người dùng ghi lại và lan truyền nhanh chóng",
+      "Các video thể thao bàn luận về góc khuất mâu thuẫn giữa Ronaldo và huấn luyện viên tuyển Bồ Đào Nha nhận nhiều lượt bình luận tranh luận",
+      "Kênh đời sống và y tế chia sẻ các video cảnh báo phòng tránh ngộ độc thực phẩm đường phố sau vụ việc tại miền Trung"
+    ],
+    "X + Threads": [
+      "Chủ đề bàn luận về bản lĩnh sân khấu cùng dự án xây cầu miền Tây của đại diện Việt Nam tại Miss Grand International 2026 tạo hiệu ứng thảo luận tích cực",
+      "Cộng đồng theo dõi bóng đá châu Âu liên tục chia sẻ thông cáo kỷ luật của FPF nhắm vào Cristiano Ronaldo",
+      "Nhiều tài khoản cập nhật liên tục tình hình ngập lụt, triều cường đỉnh điểm tại khu vực Đông Nam Bộ",
+      "Thông tin các cơ quan chức năng triệt phá đường dây làm sai lệch số liệu quan trắc môi trường tại TP.HCM được bàn luận chuyên sâu"
+    ]
+  },
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Cảnh báo ngộ độc thực phẩm: Số ca nhập viện sau khi ăn bánh mì ở Quảng Ngãi tăng lên 60 người",
+      "reason": "Tin an toàn vệ sinh thực phẩm có tính cảnh báo cộng đồng và mức độ chia sẻ rất cao khi số nạn nhân tăng đột biến từ 16 lên 60 ca.",
+      "source_url": "https://thanhnien.vn/vu-nhieu-nguoi-nghi-ngo-doc-thuc-pham-sau-an-banh-mi-tang-len-60-ca-185261010212306659.htm"
+    },
+    {
+      "rank": 2,
+      "title": "Emoura Phạm xuất sắc đoạt danh hiệu Á hậu 4 Miss Grand International 2026",
+      "reason": "Chủ đề xuất hiện đồng loạt trên nhiều cơ quan báo chí lớn, mang tính viral cảm xúc tích cực và đại diện cho Việt Nam tại đấu trường quốc tế.",
+      "source_url": "https://thanhnien.vn/emoura-pham-vao-top-5-miss-grand-international-2026-18526101022090065.htm"
+    },
+    {
+      "rank": 3,
+      "title": "Cristiano Ronaldo chính thức bị Liên đoàn Bóng đá Bồ Đào Nha đình chỉ thi đấu",
+      "reason": "Sự kiện thể thao chấn động quốc tế, gắn liền với làn sóng tìm kiếm bóng đá đang áp đảo trên Google Trends VN và tạo tranh luận đa chiều.",
+      "source_url": "https://thanhnien.vn/ronaldo-bi-dinh-chi-thi-dau-tam-thoi-cho-bo-dao-nha-nguy-co-nhan-an-phat-6-thang-185261010230620842.htm"
+    }
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "topic_title": "Cảnh báo ngộ độc thực phẩm: Số ca nhập viện sau khi ăn bánh mì ở Quảng Ngãi tăng lên 60 người",
+      "body_markdown": "HƠN 60 NGƯỜI NHẬP VIỆN NGHI DO NGỘ ĐỘC BÁNH MÌ TẠI QUẢNG NGÃI\n\nThông tin từ Sở Y tế tỉnh Quảng Ngãi cho biết, số trường hợp phải nhập viện điều trị nghi do ngộ độc thực phẩm sau khi ăn bánh mì trên địa bàn đã tăng lên khoảng 60 người.\n\nTrước đó, các cơ sở y tế tại địa phương đã tiếp nhận nhiều bệnh nhân có biểu hiện rối loạn tiêu hóa, trong đó có trường hợp 8 người thuộc cùng một gia đình ở xã Mỏ Cày phải đồng loạt cấp cứu. Đa số các bệnh nhân nhập viện trong tình trạng đau bụng, nôn ói và mệt mỏi, hiện đang được các y bác sĩ tích cực chăm sóc và theo dõi sức khỏe.\n\nSự việc đang khiến dư luận địa phương hết sức lo lắng về vấn đề an toàn vệ sinh thực phẩm. Ngành y tế cùng lực lượng chức năng đang khẩn trương tiến hành truy xuất nguồn gốc, lấy mẫu thực phẩm để kiểm nghiệm nhằm xác định chính xác nguyên nhân dẫn đến sự cố.\n\nMọi người cần hết sức cẩn trọng khi lựa chọn đồ ăn chế biến sẵn ngoài hàng quán, đặc biệt trong điều kiện thời tiết ẩm ướt để bảo vệ sức khỏe bản thân và gia đình. Hãy chia sẻ thông tin này để người thân cùng nâng cao tinh thần cảnh giác.",
+      "hashtags": [
+        "#NgoDocThucPham",
+        "#QuangNgai",
+        "#AnToanThucPham",
+        "#CanhBaoSucKhoe",
+        "#TinNongXaHoi"
+      ],
+      "timing": "11h30–12h00 hôm nay (khung giờ ăn trưa và nghỉ ngơi, người dùng mạng quan tâm nhiều đến vấn đề an toàn thực phẩm)",
+      "source_url": "https://thanhnien.vn/vu-nhieu-nguoi-nghi-ngo-doc-thuc-pham-sau-an-banh-mi-tang-len-60-ca-185261010212306659.htm",
+      "image_file": "bai-1.jpg"
+    },
+    {
+      "n": 2,
+      "topic_title": "Emoura Phạm xuất sắc đoạt danh hiệu Á hậu 4 Miss Grand International 2026",
+      "body_markdown": "ĐẠI DIỆN VIỆT NAM EMOURA PHẠM XUẤT SẮC ĐẠT Á HẬU 4 MISS GRAND INTERNATIONAL 2026\n\nTối 10/10, đêm chung kết cuộc thi Hoa hậu Hòa bình Quốc tế 2026 (Miss Grand International) đã chính thức khép lại tại Bangkok, Thái Lan với chiến thắng thuộc về đại diện Tanzania.\n\nĐại diện của Việt Nam, người đẹp Emoura Phạm, đã có màn trình diễn xuất sắc xuyên suốt các vòng thi để góp mặt trong Top 5 chung cuộc và giành danh hiệu Á hậu 4. Thành tích này đánh dấu một cột mốc tự hào mới cho nhan sắc nước nhà trên đấu trường quốc tế.\n\nTại đêm thi quyết định, Emoura Phạm gây ấn tượng mạnh mẽ với ban giám khảo và khán giả quốc tế qua bài thuyết trình song ngữ đầy cảm xúc về hòa bình. Đặc biệt, trong phần trả lời câu hỏi ứng xử, cô đã khéo léo gắn kết thông điệp cùng dự án xây cầu thiện nguyện hỗ trợ người dân vùng sông nước miền Tây, nhận được sự tán thưởng nhiệt liệt từ khán đài.\n\nNỗ lực bền bỉ và sự tự tin của cô gái Việt Nam đã đem lại niềm tự hào lớn cho đông đảo người hâm mộ quê nhà.\n\nBạn cảm thấy thế nào về phần thể hiện đầy tự tin của Emoura Phạm trong đêm chung kết vừa qua?",
+      "hashtags": [
+        "#MissGrandInternational",
+        "#EmouraPham",
+        "#AHau4",
+        "#NhanSacViet",
+        "#TinGiaiTri"
+      ],
+      "timing": "15h15–15h45 hôm nay (khung giờ chiều phù hợp để cập nhật tin văn hóa giải trí tích cực, thu hút bạn trẻ)",
+      "source_url": "https://thanhnien.vn/emoura-pham-vao-top-5-miss-grand-international-2026-185261022090065.htm",
+      "image_file": "bai-2.jpg"
+    },
+    {
+      "n": 3,
+      "topic_title": "Cristiano Ronaldo chính thức bị Liên đoàn Bóng đá Bồ Đào Nha đình chỉ thi đấu",
+      "body_markdown": "CRISTIANO RONALDO BỊ ĐÌNH CHỈ THI ĐẤU TẠM THỜI, ĐỐI DIỆN NGUY CƠ BỊ TREO GIÒ 6 THÁNG\n\nLiên đoàn Bóng đá Bồ Đào Nha (FPF) vừa ra thông báo chính thức về việc đình chỉ thi đấu tạm thời đối với Cristiano Ronaldo ở cấp độ đội tuyển quốc gia.\n\nQuyết định kỷ luật này được đưa ra sau khi chân sút 41 tuổi tự ý rời khỏi đội tuyển quốc gia trong đợt tập trung vừa qua do mâu thuẫn căng thẳng với Huấn luyện viên trưởng Jorge Jesus. Hiện tại, FPF đang mở một tiến trình điều tra kỷ luật đối với siêu sao này. Theo các quy định hiện hành, Ronaldo có nguy cơ phải nhận án phạt cấm thi đấu lên tới 6 tháng nếu bị xác định vi phạm nghiêm trọng nội quy của đội tuyển.\n\nSự việc đang tạo nên một cơn địa chấn thực sự trong làng bóng đá thế giới. Mọi phán quyết chính thức sẽ được định đoạt sau khi quá trình xem xét kỷ luật kết thúc, song đây là lần hiếm hoi một huyền thoại bóng đá hàng đầu phải nhận quyết định đình chỉ ngay trong màu áo đội tuyển quê hương.\n\nTheo bạn, quyết định đình chỉ thi đấu đối với Ronaldo của Liên đoàn Bóng đá Bồ Đào Nha là thỏa đáng hay quá khắt khe?",
+      "hashtags": [
+        "#CristianoRonaldo",
+        "#CR7",
+        "#BongDaQuocTe",
+        "#BoDaoNha",
+        "#TheThao247"
+      ],
+      "timing": "19h30–20h00 hôm nay (khung giờ vàng buổi tối, lượng người xem thể thao và thảo luận mạng xã hội đạt đỉnh điểm)",
+      "source_url": "https://thanhnien.vn/ronaldo-bi-dinh-chi-thi-dau-tam-thoi-cho-bo-dao-nha-nguy-co-nhan-an-phat-6-thang-185261010230620842.htm",
+      "image_file": "bai-3.jpg"
+    }
+  ],
+  "notes": "3 chủ đề được tuyển chọn bảo đảm 3 lĩnh vực tách biệt: An toàn đời sống/Y tế cộng đồng (vụ ngộ độc bánh mì Quảng Ngãi), Văn hóa/Giải trí tích cực (Emoura Phạm đoạt Á hậu 4), Thể thao quốc tế nóng (Ronaldo bị FPF kỷ luật). Toàn bộ nội dung bài viết tuân thủ chặt chẽ số liệu có sẵn từ báo chí, không phỏng đoán, không sử dụng markdown styling trong thân bài."
+}
