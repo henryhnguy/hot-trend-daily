@@ -1,0 +1,94 @@
+{
+  "summaries": {
+    "Google Trends VN": [
+      "Từ khóa 'cảnh sát giao thông' đứng đầu xu hướng tìm kiếm với hơn 10.000 lượt (approx_traffic: 10000+)",
+      "Trận đấu AFC giữa 'al-nassr đấu với câu lạc bộ bóng đá neftchi fergana' đạt lượng tìm kiếm rất cao (approx_traffic: 10000+)",
+      "Giải đấu 'champions league châu á' được quan tâm rộng rãi (approx_traffic: 1000+)",
+      "Từ khóa giải trí đời sống 'karaoke' duy trì lượng truy vấn ổn định (approx_traffic: 1000+)",
+      "Cặp đấu 'levante đấu với sevilla' thuộc nhóm thể thao quốc tế nổi bật (approx_traffic: 500+)",
+      "HLV trưởng tuyển Việt Nam 'kim sang-sik' tiếp tục nằm trong danh sách tìm kiếm (approx_traffic: 200+)",
+      "Các cặp trận bóng đá châu Âu như 'torino vs', 'sevilla vs' và giải 'serie a' có lưu lượng tìm kiếm từ 100+ đến 200+"
+    ],
+    "Facebook": [
+      "Cộng đồng mạng chia sẻ dồn dập thông tin về đợt triều cường đạt đỉnh 1,95m tại TP.HCM khiến nhiều trường phải cho học sinh nghỉ sớm",
+      "Các hội nhóm địa phương lan truyền cảnh báo vụ việc 135 người nghi ngộ độc thực phẩm sau khi ăn bánh mì tại Quảng Ngãi",
+      "Người dùng bàn luận xôn xao về quyết định khởi tố vợ chồng chủ kênh mạng xã hội Già Làng Tây Nguyên do tự dán nhãn sâm Ngọc Linh trục lợi",
+      "Nhiều trang tin tức chia sẻ trường hợp tài xế phân trần ăn quả hồng khi vi phạm nồng độ cồn và bị xử phạt"
+    ],
+    "TikTok": [
+      "Xuất hiện nhiều video ngắn ghi lại cảnh ngập lụt, nước tràn vào nhà trọ công nhân trong đợt triều cường tại TP.HCM",
+      "Các nội dung cảnh báo an toàn vệ sinh thực phẩm xoay quanh vụ ngộ độc bánh mì ở Quảng Ngãi thu hút lượt xem cao",
+      "Video thông tin nhanh về pháp luật, đặc biệt vụ việc xử lý hành vi giả mạo thương hiệu sâm Ngọc Linh nhận được nhiều bình luận ủng hộ cơ quan chức năng"
+    ],
+    "X + Threads": [
+      "Thảo luận sôi nổi về bài toán ngập úng đô thị và biến đổi khí hậu khi triều cường liên tiếp lập đỉnh mới ở phía Nam",
+      "Cộng đồng mạng trao đổi về trách nhiệm kiểm soát chất lượng thực phẩm đường phố sau vụ việc ngộ độc tại miền Trung",
+      "Người dùng bàn luận về tính minh bạch của các mặt hàng đặc sản bán qua mạng xã hội sau các đợt kiểm tra pháp lý"
+    ]
+  },
+  "topics": [
+    {
+      "rank": 1,
+      "title": "135 người nghi ngộ độc sau khi ăn bánh mì ở Quảng Ngãi, có 39 trẻ nhỏ và 3 thai phụ",
+      "reason": "Vụ việc có tính chất cảnh báo cộng đồng rất cao về an toàn thực phẩm, số nạn nhân lớn xuất hiện trên nhiều trang báo chính thống",
+      "source_url": "https://vnexpress.net/39-tre-3-thai-phu-o-quang-ngai-nghi-ngo-doc-sau-an-banh-mi-5131313.html"
+    },
+    {
+      "rank": 2,
+      "title": "Triều cường chạm đỉnh 1,95m, nhiều trường ở TP.HCM cho học sinh về sớm",
+      "reason": "Tin tức dân sinh sát sườn ảnh hưởng trực tiếp đến giao thông và đời sống hàng triệu người dân, phụ huynh tại TP.HCM",
+      "source_url": "https://vnexpress.net/nhieu-truong-o-tp-hcm-cho-hoc-sinh-ve-som-tranh-trieu-cuong-5131253.html"
+    },
+    {
+      "rank": 3,
+      "title": "Khởi tố vợ chồng chủ kênh Facebook Già Làng Tây Nguyên vì tự dán nhãn sâm Ngọc Linh",
+      "reason": "Đánh trúng sự quan tâm của cộng đồng mạng về vấn nạn lừa đảo bán đặc sản, trục lợi qua mạng xã hội",
+      "source_url": "https://dantri.com.vn/phap-luat/vo-chong-chu-kenh-facebook-gia-lang-tay-nguyen-bi-khoi-to-20261012173101244.htm"
+    }
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "topic_title": "135 người nghi ngộ độc sau khi ăn bánh mì ở Quảng Ngãi, có 39 trẻ nhỏ và 3 thai phụ",
+      "body_markdown": "CẢNH BÁO: ĐÃ CÓ 135 NGƯỜI NHẬP VIỆN NGHI NGỘ ĐỘC SAU KHI ĂN BÁNH MÌ TẠI QUẢNG NGÃI.\n\nThông tin từ Sở Y tế Quảng Ngãi cho biết, tính đến nay đã ghi nhận tới 135 trường hợp phải nhập viện điều trị do nghi ngộ độc sau khi ăn bánh mì. Đáng lo ngại, trong danh sách bệnh nhân có 39 trẻ em và 3 thai phụ đang phải theo dõi y tế chặt chẽ.\n\nTrong suốt bốn ngày qua, các cơ sở y tế trên địa bàn liên tục tiếp nhận những ca bệnh có biểu hiện nôn mửa, đau bụng, sốt cao. Thậm chí có những gia đình ghi nhận từ 3 đến 8 người cùng lúc phải đi cấp cứu. Hiện tại, cơ quan chức năng địa phương đã khẩn trương vào cuộc điều tra dịch tễ và lấy mẫu xét nghiệm để làm rõ nguyên nhân gây ra sự việc trên.\n\nĐây là lời cảnh tỉnh lớn về an toàn vệ sinh thực phẩm trong sinh hoạt hằng ngày. Người dân cần hết sức lưu ý lựa chọn thực phẩm bảo đảm và nhanh chóng đến ngay cơ sở y tế khi xuất hiện triệu chứng bất thường sau khi ăn.\n\nBạn nghĩ sao về công tác quản lý an toàn thực phẩm đối với các hàng quán hiện nay? Hãy để lại ý kiến bên dưới nhé!",
+      "hashtags": [
+        "#NgoDocThucPham",
+        "#QuangNgai",
+        "#TinNongXaHoi",
+        "#AnToanThucPham"
+      ],
+      "timing": "11h30–12h15 hôm nay (khung giờ nghỉ trưa, người dùng lướt tin tức đời sống và quan tâm đến cảnh báo an toàn thực phẩm)",
+      "source_url": "https://vnexpress.net/39-tre-3-thai-phu-o-quang-ngai-nghi-ngo-doc-sau-an-banh-mi-5131313.html",
+      "image_file": "bai-1.jpg"
+    },
+    {
+      "n": 2,
+      "topic_title": "Triều cường chạm đỉnh 1,95m, nhiều trường ở TP.HCM cho học sinh về sớm",
+      "body_markdown": "TRIỀU CƯỜNG CHẠM ĐỈNH 1,95M: NHIỀU TRƯỜNG Ở TP.HCM THÔNG BÁO CHO HỌC SINH VỀ SỚM ĐỂ TRÁNH NGẬP.\n\nTrước dự báo đỉnh triều cường dâng cao lên đến 1,95m vào chiều tối, ít nhất 5 trường học tại TP.HCM đã chủ động sắp xếp để phụ huynh đón con từ 15h, sớm hơn 30 phút đến 2 tiếng so với thường lệ. Động thái này nhằm bảo đảm an toàn đi lại cho học sinh và tránh cảnh ùn tắc giao thông do ngập lụt diện rộng.\n\nTại các khu vực trũng thấp thuộc khu Nam thành phố như Nhà Bè, nước dâng cao đã tràn sâu vào nhiều tuyến đường và phòng trọ của người lao động. Không ít công nhân sau giờ tan ca đã phải tất tả tát nước, kê cao đồ đạc trong nhà thay vì kịp chuẩn bị bữa cơm tối. Nhiều gia đình thậm chí phải thức trắng đêm để canh con nước và hạn chế hư hỏng tài sản.\n\nLãnh đạo TP.HCM đã yêu cầu các địa phương khẩn trương rà soát các khu vực ngập úng định kỳ để có giải pháp điều tiết đồng bộ.\n\nTuyến đường của bạn hiện tại thế nào? Hãy cập nhật nhanh tình hình ngập nước ở khu vực mình để mọi người cùng chủ động lộ trình nhé!",
+      "hashtags": [
+        "#TrieuCuongTPHCM",
+        "#NgapNuoc",
+        "#TinNongTPHCM",
+        "#GiaoThong"
+      ],
+      "timing": "15h30–16h15 hôm nay (ngay trước giờ tan tầm chiều tối để người dân kịp nắm bắt cảnh báo ngập úng và lộ trình di chuyển)",
+      "source_url": "https://vnexpress.net/nhieu-truong-o-tp-hcm-cho-hoc-sinh-ve-som-tranh-trieu-cuong-5131253.html",
+      "image_file": "bai-2.jpg"
+    },
+    {
+      "n": 3,
+      "topic_title": "Khởi tố vợ chồng chủ kênh Facebook Già Làng Tây Nguyên vì tự dán nhãn sâm Ngọc Linh",
+      "body_markdown": "KHỞI TỐ VỢ CHỒNG CHỦ KÊNH \"GIÀ LÀNG TÂY NGUYÊN\" VÌ TỰ Ý DÁN NHÃN SÂM NGỌC LINH BÁN KIẾM LỜI.\n\nCơ quan chức năng đã chính thức ra quyết định khởi tố đối với vợ chồng chủ kênh Facebook \"Già Làng Tây Nguyên\" để điều tra làm rõ các hành vi gian lận nguồn gốc xuất xứ hàng hóa.\n\nTheo hồ sơ điều tra, hai đối tượng này đã mua gom các củ sâm không có tem truy xuất nguồn gốc hợp pháp trên thị trường. Sau đó, họ tự ý in và dán nhãn chỉ dẫn địa lý \"sâm Ngọc Linh\" lên sản phẩm, đem ngâm rượu, ngâm mật ong rồi trưng bày, rao bán nhằm thu lợi bất chính qua mạng xã hội. Hành vi này không chỉ xâm hại nghiêm trọng đến thương hiệu sâm quý được bảo hộ mà còn gây thiệt hại trực tiếp cho người tiêu dùng tin tưởng mua hàng.\n\nCơ quan chức năng khuyến cáo người dân cần cẩn trọng kiểm tra tem mác và giấy chứng nhận truy xuất nguồn gốc rõ ràng khi tìm mua các loại nông đặc sản có giá trị cao trên môi trường mạng.\n\nBạn nghĩ sao về vụ việc này? Hãy chia sẻ để cảnh báo người thân cảnh giác khi mua hàng qua mạng nhé!",
+      "hashtags": [
+        "#GiaLangTayNguyen",
+        "#SamNgocLinh",
+        "#KhoiTo",
+        "#CanhBaoLuaDao"
+      ],
+      "timing": "19h15–20h00 hôm nay (khung giờ vàng buổi tối, tương tác cao với các tin tức pháp luật và răn đe vi phạm trên mạng xã hội)",
+      "source_url": "https://dantri.com.vn/phap-luat/vo-chong-chu-kenh-facebook-gia-lang-tay-nguyen-bi-khoi-to-20261012173101244.htm",
+      "image_file": "bai-3.jpg"
+    }
+  ],
+  "notes": "3 chủ đề được chọn đại diện cho 3 mảng riêng biệt: Y tế/An toàn thực phẩm (Quảng Ngãi), Dân sinh/Thời tiết (TP.HCM), Pháp luật/Thương mại điện tử (Tây Nguyên). Tất cả số liệu 135 người, 39 trẻ em, đỉnh triều 1,95m đều được giữ chính xác theo nội dung bài báo nguồn."
+}
