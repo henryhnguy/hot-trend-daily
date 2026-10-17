@@ -1,0 +1,94 @@
+{
+  "summaries": {
+    "Google Trends VN": [
+      "Từ khóa 'lịch đá bóng hôm nay' dẫn đầu xu hướng tìm kiếm với hơn 2.000 lượt tra cứu",
+      "Cặp đấu La Liga 'betis đấu với barcelona' thu hút hơn 2.000 lượt quan tâm",
+      "Trận cầu Ngoại hạng Anh 'newcastle đấu với aston villa' ghi nhận hơn 1.000 lượt tìm kiếm",
+      "Đại chiến Bundesliga 'bayern đấu với leipzig' đạt hơn 1.000 lượt tìm kiếm",
+      "Các sự kiện giải trí và văn hóa như 'concert anh trai vượt ngàn chông gai 2026' đạt hơn 100 lượt tìm kiếm",
+      "Nhân vật bóng đá 'josé mourinho' ghi nhận hơn 200 lượt tìm kiếm trong ngày"
+    ],
+    "Facebook": [
+      "Cộng đồng mạng chia sẻ rầm rộ thông tin quy định mới: mua bán vàng từ 5 triệu đồng trở lên trong ngày bắt buộc phải chuyển khoản",
+      "Nhiều hội nhóm phụ huynh tại TP.HCM lo lắng trước thông tin chùm ca bệnh viêm màng não mô cầu xuất hiện tại trường học",
+      "Hình ảnh nhóm phụ nữ ngồi dàn hàng giữa khúc cua đèo Hải Vân chụp ảnh gây bão phẫn nộ về ý thức an toàn giao thông",
+      "Người hâm mộ thể thao bàn tán sôi nổi về kết quả vòng 4 V-League với chiến thắng đậm của Hải Phòng và pha ghi bàn của Tuấn Hải"
+    ],
+    "TikTok": [
+      "Xu hướng làm video giải thích quy định chuyển khoản khi mua vàng trên 5 triệu đồng thu hút nhiều thảo luận của tiểu thương và người mua",
+      "Các đoạn clip ngắn ghi lại cảnh nhóm du khách tạo dáng nguy hiểm tại các cung đèo dốc nhận về lượng tương tác chỉ trích lớn",
+      "Nội dung chia sẻ kiến thức nhận biết dấu hiệu nhiễm khuẩn não mô cầu ở trẻ nhỏ được người dùng quan tâm theo dõi",
+      "Clip tổng hợp bàn thắng và diễn biến nóng các giải bóng đá quốc tế cùng V-League được giới trẻ chia sẻ mạnh"
+    ],
+    "X + Threads": [
+      "Người dùng Threads bàn luận sôi nổi quanh việc siết chặt quản lý giao dịch vàng không tiền mặt nhằm minh bạch hóa thị trường",
+      "Chủ đề văn hóa ứng xử nơi công cộng và trào lưu bất chấp tính mạng để chụp ảnh sống ảo tiếp tục bị lên án gay gắt",
+      "Nhiều bài đăng nhắc nhở người thân và đồng nghiệp theo dõi triệu chứng sốt phát ban, chú ý phòng ngừa dịch bệnh giao mùa"
+    ]
+  },
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Chính thức áp dụng: Mua bán vàng từ 5 triệu đồng/ngày phải chuyển khoản",
+      "reason": "Quy định tài chính - đời sống tác động trực tiếp đến thói quen thanh toán của đông đảo người dân, xuất hiện đồng loạt trên các mặt báo lớn và có lượng thảo luận cao.",
+      "source_url": "https://dantri.com.vn/kinh-doanh/tu-1610-mua-ban-vang-trong-ngay-tu-5-trieu-dong-phai-chuyen-khoan-20261017194303496.htm"
+    },
+    {
+      "rank": 2,
+      "title": "TP.HCM ghi nhận ca não mô cầu thứ 4 tại trường học: Bộ Y tế khuyến cáo khẩn",
+      "reason": "Tin tức an sinh - y tế cộng đồng khẩn cấp, xuất hiện trên cả Dân trí và Thanh Niên, mức độ quan tâm của phụ huynh và người dân rất lớn.",
+      "source_url": "https://thanhnien.vn/tphcm-ghi-nhan-ca-nao-mo-cau-nhom-b-thu-4-tai-truong-thcs-hai-ba-trung-185261017203744458.htm"
+    },
+    {
+      "rank": 3,
+      "title": "Xác minh nhóm phụ nữ ngồi bệt giữa khúc cua đèo Hải Vân để chụp ảnh",
+      "reason": "Vụ việc vi phạm an toàn giao thông gây bức xúc dư luận trên mạng xã hội, lực lượng chức năng đã vào cuộc điều tra, mang tính cảnh báo ý thức cộng đồng cao.",
+      "source_url": "https://thanhnien.vn/csgt-da-nang-xac-minh-nhom-6-phu-nu-ngoi-giua-duong-deo-hai-van-chup-anh-185261017211145648.htm"
+    }
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "topic_title": "Chính thức áp dụng: Mua bán vàng từ 5 triệu đồng/ngày phải chuyển khoản",
+      "body_markdown": "Từ ngày 16/10, người dân khi mua bán vàng có giá trị từ 5 triệu đồng trở lên trong ngày bắt buộc phải thực hiện thanh toán không dùng tiền mặt.\n\nCụ thể, theo quy định tại Nghị định số 390/2026/NĐ-CP, việc thanh toán mua bán vàng có giá trị từ 5 triệu đồng trong ngày trở lên phải được thực hiện thông qua tài khoản hoặc các phương tiện thanh toán không dùng tiền mặt. Đây là sự điều chỉnh rất đáng chú ý so với quy định trước đây vốn áp dụng ngưỡng giao dịch từ 20 triệu đồng.\n\nQuy định mới này được đưa ra nhằm tăng cường tính minh bạch, hạn chế rủi ro trong lưu thông tiền mặt và hỗ trợ công tác quản lý thị trường kim loại quý. Với người tiêu dùng thường xuyên tích lũy hoặc mua sắm trang sức, việc chuẩn bị sẵn tài khoản ngân hàng hoặc ứng dụng thanh toán quét mã khi đến tiệm vàng là điều cần lưu ý ngay từ lúc này.\n\nBạn đánh giá thế nào về quy định thanh toán không tiền mặt mới đối với mặt hàng vàng? Hãy để lại ý kiến dưới phần bình luận.",
+      "hashtags": [
+        "#ThiTruongVang",
+        "#ChinhSachMoi",
+        "#ThanhToanKhongTienMat",
+        "#TinNongXaHoi"
+      ],
+      "timing": "11h30–12h15 hôm nay (khung giờ nghỉ trưa, người dùng theo dõi tin tức tài chính - đời sống tác động trực tiếp đến giao dịch hàng ngày)",
+      "source_url": "https://dantri.com.vn/kinh-doanh/tu-1610-mua-ban-vang-trong-ngay-tu-5-trieu-dong-phai-chuyen-khoan-20261017194303496.htm",
+      "image_file": "bai-1.jpg"
+    },
+    {
+      "n": 2,
+      "topic_title": "TP.HCM ghi nhận ca não mô cầu thứ 4 tại trường học: Bộ Y tế khuyến cáo khẩn",
+      "body_markdown": "Ngành y tế TP.HCM vừa ghi nhận ca bệnh do não mô cầu nhóm B thứ tư tại Trường THCS Hai Bà Trưng, khiến nhiều phụ huynh học sinh vô cùng lo lắng.\n\nBên cạnh trường hợp mắc não mô cầu mới nhất, cơ quan y tế cũng phát hiện nhiều học sinh khác tại đây đang nhiễm cúm mùa và virus đường hô hấp thông thường. Trước diễn biến này, hệ thống y tế dự phòng địa phương đã khẩn trương kích hoạt quy trình điều tra dịch tễ, khử khuẩn trường lớp và giám sát sức khỏe toàn bộ các trường hợp tiếp xúc gần.\n\nLiên quan đến chùm ca bệnh, Cục Phòng bệnh thuộc Bộ Y tế đã phát đi công văn khẩn cấp. Cơ quan chức năng khuyến cáo người dân tuyệt đối không tự ý mua và sử dụng kháng sinh đại trà để phòng bệnh khi chưa có hướng dẫn y khoa. Việc tự điều trị không đúng cách có thể dẫn đến nguy cơ kháng thuốc nguy hiểm và làm chậm trễ quá trình cấp cứu nếu xuất hiện triệu chứng nặng.\n\nCác bậc phụ huynh hãy theo dõi sát sao biểu hiện sức khỏe của con em và chia sẻ thông tin này để mọi người chủ động phòng tránh.",
+      "hashtags": [
+        "#SucKhoeCongDong",
+        "#NaoMoCau",
+        "#YTeTPHCM",
+        "#CanhBaoDichBenh"
+      ],
+      "timing": "15h30–16h15 hôm nay (khung giờ chiều, thời điểm phụ huynh cập nhật tin tức an toàn trường học trước giờ đón con)",
+      "source_url": "https://thanhnien.vn/tphcm-ghi-nhan-ca-nao-mo-cau-nhom-b-thu-4-tai-truong-thcs-hai-ba-trung-185261017203744458.htm",
+      "image_file": "bai-2.jpg"
+    },
+    {
+      "n": 3,
+      "topic_title": "Xác minh nhóm phụ nữ ngồi bệt giữa khúc cua đèo Hải Vân để chụp ảnh",
+      "body_markdown": "Bất chấp dòng xe cộ đang lên xuống liên tục, một nhóm người vẫn thản nhiên ngồi bệt ngay giữa khúc cua tay áo nguy hiểm trên đèo Hải Vân để chụp ảnh kỷ niệm.\n\nĐoạn clip và hình ảnh ghi lại cảnh nhóm khoảng 6 phụ nữ mặc đồng phục ngồi dàn hàng trên mặt đường tại khúc cua đèo Hải Vân đang lan truyền nhanh chóng trên mạng xã hội, nhận về làn sóng bức xúc lớn từ cộng đồng. Nhiều tài xế bức xúc cho biết vị trí khúc cua vốn là điểm mù khuất tầm nhìn, chỉ cần một phương tiện mất phanh hoặc thiếu chú ý là có thể dẫn đến tai nạn thảm khốc.\n\nTrước thông tin phản ánh từ dư luận, lực lượng Cảnh sát giao thông Công an thành phố Đà Nẵng đã tiếp nhận và đang tiến hành xác minh danh tính nhóm người trên để xử lý nghiêm theo quy định của pháp luật. Hành vi dừng đỗ, ngồi giữa lòng đường đèo dốc không chỉ đe dọa an toàn của chính bản thân mà còn gây nguy hiểm trực tiếp cho những người cùng tham gia giao thông.\n\nMột bức ảnh đẹp không bao giờ đáng giá hơn sự an toàn tính mạng. Bạn nghĩ sao về việc xử lý các trường hợp bất chấp nguy hiểm để sống ảo?",
+      "hashtags": [
+        "#AnToanGiaoThong",
+        "#DeoHaiVan",
+        "#CSGTDaNang",
+        "#YThucGiaoThong"
+      ],
+      "timing": "19h30–20h15 hôm nay (khung giờ vàng buổi tối, người dùng có nhiều thời gian tương tác và chia sẻ các nội dung phản ánh ý thức xã hội)",
+      "source_url": "https://thanhnien.vn/csgt-da-nang-xac-minh-nhom-6-phu-nu-ngoi-giua-duong-deo-hai-van-chup-anh-185261017211145648.htm",
+      "image_file": "bai-3.jpg"
+    }
+  ],
+  "notes": "Ba chủ đề được chọn đại diện cho 3 mảng hoàn toàn khác nhau theo đúng tiêu chí biên tập: Kinh tế - đời sống thiết thực (quy định mua bán vàng), Sức khỏe - an sinh cộng đồng (chùm ca não mô cầu học đường), và Trật tự an toàn giao thông - ý thức xã hội (ngồi giữa đèo Hải Vân chụp ảnh). Tất cả nguồn link bài báo đều chuẩn xác theo dữ liệu RSS cung cấp."
+}
