@@ -1,0 +1,96 @@
+{
+  "summaries": {
+    "Google Trends VN": [
+      "Lưu lượng tìm kiếm về bóng đá quốc tế áp đảo dịp cuối tuần với trận Bournemouth gặp Sunderland đạt hơn 5.000 lượt tìm kiếm.",
+      "Từ khóa 'bxh ngoại hạng anh' ghi nhận hơn 2.000 lượt quan tâm khi lịch thi đấu vòng 7 diễn ra căng thẳng.",
+      "Trận đấu giữa Fiorentina và Como 1907 ghi nhận hơn 2.000 lượt tìm kiếm tại Serie A.",
+      "Các cặp đấu Bayer Leverkusen - SC Freiburg và AC Milan - Atalanta cùng đạt mốc hơn 1.000 lượt tìm kiếm.",
+      "Cuộc so tài Nottingham Forest gặp Arsenal thu hút hơn 1.000 lượt tìm kiếm từ người hâm mộ Ngoại hạng Anh.",
+      "Trận Lorient đối đầu Monaco tại giải VĐQG Pháp đạt hơn 500 lượt tìm kiếm."
+    ],
+    "Facebook": [
+      "Cộng đồng mạng chia sẻ rầm rộ hình ảnh sà lan lai dắt vòm thép hình lá dừa nặng 3.400 tấn của cầu đi bộ vượt biển từ Vũng Tàu về bến Bạch Đằng, TP.HCM.",
+      "Dư luận đặc biệt quan tâm vụ việc Công an TP.HCM khởi tố, bắt tạm giam Tôn Bằng liên quan đến xâm phạm nhãn hiệu Hằng Du Mục và thu giữ 29 tấn táo đỏ.",
+      "Nhiều diễn đàn cảnh báo mạnh mẽ thủ đoạn pha trộn thuốc tân dược vào thảo dược để giả mạo 'đông y gia truyền' chữa viêm xoang, thuê KOL quảng cáo bán cho hàng nghìn người.",
+      "V-League vòng 4 sôi động với kịch bản nghẹt thở: derby Hà Nội FC thắng CAHN 2-1 và Ninh Bình ngược dòng thắng kịch tính HAGL 4-3."
+    ],
+    "TikTok": [
+      "Xu hướng bàn luận xoay quanh các diễn biến pháp lý của phiên livestream và drama thương hiệu liên quan tới Hằng Du Mục và Tôn Bằng.",
+      "Nhiều tài khoản chia sẻ video trực tiếp cảnh đoàn tàu kéo chở nhịp cầu biểu tượng lá dừa di chuyển trên sông Soài Rạp.",
+      "Các video cảnh báo bẫy thực phẩm chức năng, thuốc nam đông y gắn mác gia truyền bán tràn lan qua livestream được đẩy lên xu hướng."
+    ],
+    "X + Threads": [
+      "Các bài đăng trên Threads bàn luận sôi nổi về bài học bảo vệ quyền sở hữu trí tuệ và thương hiệu cá nhân trong kinh doanh online.",
+      "Giới trẻ tại TP.HCM rủ nhau canh góc check-in đón nhịp cầu đi bộ hình lá dừa cập bến trung tâm thành phố.",
+      "Cộng đồng thể thao chia sẻ thông tin bảng xếp hạng và các pha bóng kịch tính của bóng đá trong nước lẫn quốc tế."
+    ]
+  },
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Bắt tạm giam Tôn Bằng vì xâm phạm nhãn hiệu Hằng Du Mục, thu giữ 29 tấn táo đỏ",
+      "reason": "Chủ đề cực nóng trên mạng xã hội gắn liền với nhân vật nổi tiếng, được đưa tin đồng loạt trên các báo lớn và có tác động cảnh báo pháp lý kinh doanh online.",
+      "source_url": "https://thanhnien.vn/cong-an-tphcm-bat-tam-giam-ton-bang-vi-xam-pham-nhan-hieu-hang-du-muc-185261018160247037.htm"
+    },
+    {
+      "rank": 2,
+      "title": "Lai dắt nhịp cầu lá dừa 3.400 tấn vượt biển về bến Bạch Đằng TP.HCM",
+      "reason": "Sự kiện hạ tầng mang tính biểu tượng đô thị, hình ảnh trực quan hoành tráng thu hút đông đảo người dân theo dõi trực tiếp và trên mạng xã hội.",
+      "source_url": "https://vnexpress.net/lai-dat-cau-di-bo-hinh-la-dua-vuot-bien-ve-trung-tam-tp-hcm-5133731.html"
+    },
+    {
+      "rank": 3,
+      "title": "Triệt phá đường dây sản xuất thuốc đông y giả chữa viêm xoang, thuê KOL quảng cáo",
+      "reason": "Tin tức an sinh xã hội có tính cảnh báo cộng đồng rất cao, đánh trúng nỗi lo người tiêu dùng khi mua dược phẩm qua không gian mạng.",
+      "source_url": "https://dantri.com.vn/phap-luat/pha-tron-tan-duoc-voi-thao-duoc-ban-thuoc-gia-thu-loi-5-ty-dong-20261018101848236.htm"
+    }
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "topic_title": "Bắt tạm giam Tôn Bằng vì xâm phạm nhãn hiệu Hằng Du Mục, thu giữ 29 tấn táo đỏ",
+      "body_markdown": "Công an TP.HCM vừa chính thức khởi tố bị can, bắt tạm giam Tôn Bằng (chồng cũ của TikToker Hằng Du Mục) để điều tra về hành vi xâm phạm quyền sở hữu công nghiệp.\n\nTheo kết quả điều tra ban đầu, đối tượng Tôn Bằng đã có hành vi sử dụng trái phép nhãn hiệu Hằng Du Mục để kinh doanh mặt hàng táo đỏ khi chưa nhận được sự đồng thuận hay cấp phép từ chủ sở hữu hợp pháp. Khám xét kho hàng liên quan, lực lượng chức năng phát hiện và tạm giữ khoảng 29 tấn táo đỏ gắn nhãn mác vi phạm.\n\nVụ việc là hồi chuông cảnh tỉnh sâu sắc về việc tôn trọng và chấp hành pháp luật sở hữu trí tuệ tại Việt Nam. Không ít cá nhân hiện nay vẫn lầm tưởng mối quan hệ cá nhân có thể thay thế quyền pháp lý đã được nhà nước bảo hộ độc quyền. Mọi hành vi tự ý mượn danh tiếng, thương hiệu của người khác nhằm trục lợi thương mại đều phải đối mặt với chế tài pháp luật nghiêm khắc.\n\nBạn nghĩ sao về vụ việc trên? Hãy để lại ý kiến dưới phần bình luận và lưu ý cẩn trọng khi lựa chọn hàng hóa trực tuyến.",
+      "hashtags": [
+        "#HangDuMuc",
+        "#TonBang",
+        "#PhapLuat",
+        "#SoHuuTriTue",
+        "#TinNongXaHoi"
+      ],
+      "timing": "11h30–12h30 hôm nay (khung giờ nghỉ trưa, người dùng lướt tin tức mạng xã hội mạnh nhất)",
+      "source_url": "https://thanhnien.vn/cong-an-tphcm-bat-tam-giam-ton-bang-vi-xam-pham-nhan-hieu-hang-du-muc-185261018160247037.htm",
+      "image_file": "bai-1.jpg"
+    },
+    {
+      "n": 2,
+      "topic_title": "Lai dắt nhịp cầu lá dừa 3.400 tấn vượt biển về bến Bạch Đằng TP.HCM",
+      "body_markdown": "Một hình ảnh mãn nhãn vừa xuất hiện trên tuyến đường thủy hướng về trung tâm TP.HCM: vòm thép cầu đi bộ hình lá dừa khổng lồ nặng hơn 3.400 tấn đang trên hải trình vượt biển về bến Bạch Đằng.\n\nCấu kiện vòm thép có chiều dài 187 m và rộng hơn 35 m, được các đoàn tàu kéo lai dắt chuyên dụng vận chuyển từ cảng Đông Xuyên (Vũng Tàu), vượt quãng đường thủy khoảng 124 km. Đến chiều 18/10, nhịp cầu đã tiến vào cửa sông Soài Rạp và neo đậu an toàn tại khu vực phao neo SR05 để nghỉ đêm, trước khi tiếp tục hành trình về bến Bạch Đằng nhằm chuẩn bị cho mốc hợp long công trình.\n\nCầu đi bộ vượt sông Sài Gòn mang thiết kế biểu trưng lá dừa nước cách điệu, hứa hẹn sẽ trở thành điểm nhấn kiến trúc nổi bật và không gian sinh hoạt công cộng mới mẻ cho người dân thành phố.\n\nNhiều người dân hai bên bờ sông đã tranh thủ ghi lại khoảnh khắc ấn tượng này. Bạn đã sẵn sàng để đón chờ ngày cây cầu đi bộ biểu tượng này chính thức nối nhịp đôi bờ chưa?",
+      "hashtags": [
+        "#CauDiBoSongSaiGon",
+        "#TPHCM",
+        "#BenBachDang",
+        "#HaTangDoThi",
+        "#TinNong"
+      ],
+      "timing": "15h30–16h30 hôm nay (thời điểm cập nhật hành trình mới của đoàn lai dắt trên sông, đón tương tác chiều)",
+      "source_url": "https://vnexpress.net/lai-dat-cau-di-bo-hinh-la-dua-vuot-bien-ve-trung-tam-tp-hcm-5133731.html",
+      "image_file": "bai-2.jpg"
+    },
+    {
+      "n": 3,
+      "topic_title": "Triệt phá đường dây sản xuất thuốc đông y giả chữa viêm xoang, thuê KOL quảng cáo",
+      "body_markdown": "Cảnh báo khẩn cấp cho những ai có thói quen mua thuốc đông y qua mạng xã hội: cơ quan chức năng vừa triệt phá đường dây sản xuất thuốc chữa viêm xoang giả mạo quy mô lớn do đối tượng Bùi Văn Trường cầm đầu.\n\nThủ đoạn của nhóm đối tượng này là lén lút thu mua thuốc tân dược trộn lẫn với bột thảo dược rẻ tiền, sau đó đóng gói và dán mác mỹ miều là bài thuốc đông y gia truyền. Để lấy lòng tin người bệnh, nhóm móc nối và thuê các KOL quảng bá rầm rộ trên các nền tảng mạng xã hội, lừa bán trót lọt cho hàng nghìn khách hàng trên cả nước, thu lợi bất chính ước tính khoảng 5 tỷ đồng.\n\nViệc tự ý pha trộn tân dược không rõ liều lượng vào sản phẩm gắn mác thảo dược tiềm ẩn nguy cơ phá hủy nội tạng, gây ngộ độc nặng nề cho người sử dụng. Cơ quan chức năng khuyến cáo người dân tuyệt đối không tự ý mua thuốc điều trị theo lời giới thiệu của những người có ảnh hưởng trên mạng mà chưa có chỉ định y khoa.\n\nHãy chia sẻ ngay thông tin này để người thân, bạn bè nâng cao cảnh giác trước các chiêu trò quảng cáo thuốc gia truyền dỏm!",
+      "hashtags": [
+        "#CanhBao",
+        "#ThuocGia",
+        "#SucKhoeDoiSong",
+        "#KOLQuangCao",
+        "#TinNongXaHoi"
+      ],
+      "timing": "19h30–20h30 hôm nay (khung giờ vàng buổi tối, gia đình quây quần, nội dung cảnh báo đạt tỷ lệ chia sẻ cao)",
+      "source_url": "https://dantri.com.vn/phap-luat/pha-tron-tan-duoc-voi-thao-duoc-ban-thuoc-gia-thu-loi-5-ty-dong-20261018101848236.htm",
+      "image_file": "bai-3.jpg"
+    }
+  ],
+  "notes": "Dữ liệu ngày 18/10/2026 cho thấy đề tài liên quan đến người nổi tiếng/vụ bắt tạm giam Tôn Bằng và sự kiện hạ tầng nhịp cầu 3.400 tấn thu hút thảo luận đa nền tảng nhất. 3 bài đăng được chia đều ở 3 mảng riêng biệt: Pháp luật/Kinh doanh online, Đô thị/Đời sống, và Cảnh báo sức khỏe cộng đồng nhằm đảm bảo tính đa dạng và tối ưu độ lan tỏa."
+}
