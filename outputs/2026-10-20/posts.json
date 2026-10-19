@@ -1,0 +1,92 @@
+{
+  "summaries": {
+    "Google Trends VN": [
+      "Từ khóa 'monza vs cagliari' dẫn đầu tìm kiếm bóng đá quốc tế với hơn 2.000 lượt tra cứu (approx_traffic: 2000+)",
+      "Giải Saudi Pro League thu hút quan tâm với 'al hilal đấu với al-hazm' đạt hơn 500 lượt tìm kiếm (approx_traffic: 500+)",
+      "Giải Ngoại hạng Anh và La Liga ghi nhận sự chú ý qua các trận 'getafe đấu với rayo' (200+), 'tottenham – aston villa' (100+), 'tot vs' (200+)",
+      "Các từ khóa thể thao và cá nhân nổi bật khác gồm tiền đạo nhập tịch 'nguyễn xuân son' (200+) và CLB 'monza' (200+)",
+      "Từ khóa liên quan cơ quan quản lý, tổ chức như 'giám sát' (200+), 'fc' (200+), 'hit' (100+) cũng có biến động tìm kiếm"
+    ],
+    "Facebook": [
+      "Cộng đồng mạng chia sẻ dồn dập thông tin vụ rò rỉ khí clo từ bãi phế liệu tại Thượng Phúc (Hà Nội) khiến hơn 40 người phải nhập viện cấp cứu",
+      "Hình ảnh và video nhịp vòm cầu đi bộ hình lá dừa nặng 3.400 tấn được lai dắt về Bến Bạch Đằng (TP.HCM) lan truyền mạnh mẽ trên các hội nhóm đô thị",
+      "Phụ huynh tại TP.HCM đặc biệt lo lắng, bàn luận về chùm 4 ca não mô cầu tại trường THCS Hai Bà Trưng và việc hơn 2.000 học sinh phải uống kháng sinh dự phòng",
+      "Thông tin thời tiết cảnh báo siêu bão Champi đạt cấp 16, giật trên cấp 17 ngoài khơi tạo ra nhiều tương tác cảnh giác biển động"
+    ],
+    "TikTok": [
+      "Xu hướng làm video ngắn cập nhật cận cảnh quá trình kéo nhịp cầu 'lá dừa nước' qua cầu Bình Khánh, cập Bến Bạch Đằng thu hút lượt xem lớn",
+      "Các nội dung video cảnh báo ngộ độc khí độc từ phế liệu và hướng dẫn nhận biết dấu hiệu nhiễm khuẩn não mô cầu nhận được nhiều chia sẻ",
+      "Các trích đoạn kịch tính từ vòng 4 V-League như trận Thể Công gặp CLB Công an TP.HCM và tranh cãi phòng vé concert âm nhạc tiếp tục thu hút người xem trẻ"
+    ],
+    "X + Threads": [
+      "Người dùng Threads tại TP.HCM rôm rả chia sẻ ảnh check-in thực tế chiếc cầu đi bộ vòm thép trên sông Sài Gòn",
+      "Nhiều thảo luận y tế và sức khỏe gia đình tập trung vào biện pháp phòng tránh bệnh truyền nhiễm sau sự cố não mô cầu tại trường học",
+      "Cộng đồng theo dõi quốc tế trao đổi về diễn biến bão Champi ở tây bắc Thái Bình Dương và căng thẳng ngoại giao quốc tế"
+    ]
+  },
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Hơn 40 người nhập viện cấp cứu nghi do rò rỉ khí clo tại bãi phế liệu ở Hà Nội",
+      "reason": "Sự việc an toàn hóa chất nghiêm trọng gây ngộ độc tập thể quy mô lớn, xuất hiện đồng loạt trên các báo chính thống, có tính cảnh báo an toàn đời sống rất cao.",
+      "source_url": "https://dantri.com.vn/thoi-su/vu-40-nguoi-nhap-vien-o-ha-noi-ro-ri-binh-chua-khi-clo-20261019222925244.htm"
+    },
+    {
+      "rank": 2,
+      "title": "Vòm cầu đi bộ hình lá dừa 3.400 tấn chính thức cập Bến Bạch Đằng sau 30 giờ lai dắt",
+      "reason": "Công trình biểu tượng mới của TP.HCM nhận được lượng tương tác trực quan khổng lồ, xuất hiện nổi bật trên VnExpress, Dân trí, Thanh niên.",
+      "source_url": "https://vnexpress.net/hon-30-gio-dua-vom-cau-la-dua-3-400-tan-ve-ben-bach-dang-5134069.html"
+    },
+    {
+      "rank": 3,
+      "title": "Chồng hiến thận cứu vợ trong ca ghép đầu tiên thành công tại Đồng Nai",
+      "reason": "Câu chuyện nhân văn xúc động về tình nghĩa vợ chồng công nhân nghèo cùng dấu mốc y tế địa phương, tạo cảm xúc ấm áp và tương tác tích cực cho fanpage.",
+      "source_url": "https://vnexpress.net/chong-hien-than-cho-vo-trong-ca-ghep-dau-tien-o-dong-nai-5134199.html"
+    }
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "topic_title": "Hơn 40 người nhập viện cấp cứu nghi do rò rỉ khí clo tại bãi phế liệu ở Hà Nội",
+      "body_markdown": "CẢNH BÁO SỰ CỐ HÓA CHẤT: HƠN 40 NGƯỜI NHẬP VIỆN CẤP CỨU VÌ RÒ RỈ BÌNH KHÍ CLO TẠI HÀ NỘI\n\nMột sự cố nghiêm trọng vừa xảy ra tại thôn Mễ Sơn, xã Thượng Phúc, Hà Nội khiến hàng chục người dân phải tức tốc đưa đi cấp cứu trong tình trạng khó thở, buồn nôn.\n\nTheo thông tin ban đầu từ cơ quan chức năng, nguyên nhân xuất phát từ đống phế liệu của một hộ dân trên địa bàn. Trong quá trình thu gom, tích trữ phế liệu, một bình chứa khí clo đã bị gãy van dẫn đến tình trạng khí độc phát tán ra môi trường xung quanh.\n\nHậu quả khiến ít nhất 40 người có biểu hiện ngộ độc khí, phải đưa vào Bệnh viện Đa khoa Thường Tín điều trị. Trong số đó, có 2 trường hợp xuất hiện triệu chứng diễn tiến nặng và đã được chuyển khẩn cấp lên tuyến trên tại Bệnh viện Bạch Mai để theo dõi đặc biệt.\n\nSự cố là lời cảnh tỉnh lớn về việc thu gom, tháo dỡ các bình khí nén, bình kim loại chứa hóa chất cũ không rõ nguồn gốc tại các bãi phế liệu dân sinh. Khi ngửi thấy mùi hắc nồng bất thường, người dân cần lập tức di tản ngược hướng gió và báo ngay cho chính quyền địa phương.\n\nHãy chia sẻ thông tin này để nhắc nhở người thân luôn cẩn trọng với các mối nguy quanh khu dân cư!",
+      "hashtags": [
+        "#TinNong",
+        "#HaNoi",
+        "#NgoDocKhi",
+        "#CanhBaoDoiSong"
+      ],
+      "timing": "11h30–12h15 hôm nay (khung giờ nghỉ trưa người đọc cập nhật tin tức an toàn xã hội)",
+      "source_url": "https://dantri.com.vn/thoi-su/vu-40-nguoi-nhap-vien-o-ha-noi-ro-ri-binh-chua-khi-clo-20261019222925244.htm",
+      "image_file": "bai-1.jpg"
+    },
+    {
+      "n": 2,
+      "topic_title": "Vòm cầu đi bộ hình lá dừa 3.400 tấn chính thức cập Bến Bạch Đằng sau 30 giờ lai dắt",
+      "body_markdown": "KHOẢNH KHẮC ĐẸP: VÒM CẦU LÁ DỪA 3.400 TẤN CẬP BẾN BẠCH ĐẰNG CHỜ HỢP LONG SÔNG SÀI GÒN\n\nSau hành trình vượt 124 km đường thủy kéo dài hơn 30 giờ từ Vũng Tàu, khối vòm thép khổng lồ hình chiếc lá dừa nước đã chính thức cập Bến Bạch Đằng trong sự đón đợi của đông đảo người dân.\n\nTổ hợp vòm thép cùng hệ khung đỡ nặng tới 3.400 tấn, dài 187 m đã được lai dắt an toàn qua các cây cầu lớn như Bình Khánh và Phú Mỹ. Chiều ngày 19/10, khi sà lan chở nhịp chính trôi chầm chậm qua khu vực Bến Nhà Rồng để về điểm neo đậu cuối cùng, rất nhiều người dân thành phố đã đứng dọc bờ sông ghi lại khoảnh khắc ấn tượng này.\n\nĐây là hạng mục quan trọng nhất của dự án cầu đi bộ qua sông Sài Gòn, kết nối trung tâm Quận 1 với Khu đô thị mới Thủ Thiêm. Hình tượng lá dừa nước quen thuộc của miền Nam nay được tái hiện đầy hiện đại, kỳ vọng sẽ trở thành điểm nhấn kiến trúc và không gian dạo bộ tuyệt đẹp cho thành phố trong tương lai gần.\n\nBạn có chờ đón ngày được đặt chân dạo bước trên cây cầu đi bộ đặc biệt này không? Hãy để lại cảm nghĩ bên dưới!",
+      "hashtags": [
+        "#TPHCM",
+        "#CauDiBoSongSaiGon",
+        "#BenBachDang",
+        "#DoThiTPHCM"
+      ],
+      "timing": "15h30–16h15 hôm nay (đón tương tác buổi chiều bằng hình ảnh công trình mãn nhãn)",
+      "source_url": "https://vnexpress.net/hon-30-gio-dua-vom-cau-la-dua-3-400-tan-ve-ben-bach-dang-5134069.html",
+      "image_file": "bai-2.webp"
+    },
+    {
+      "n": 3,
+      "topic_title": "Chồng hiến thận cứu vợ trong ca ghép đầu tiên thành công tại Đồng Nai",
+      "body_markdown": "CẢM ĐỘNG: NGƯỜI CHỒNG CÔNG NHÂN HIẾN THẬN HỒI SINH SỰ SỐNG CHO VỢ TẠI ĐỒNG NAI\n\nTình nghĩa vợ chồng son sắt cùng bước tiến của y học vừa viết nên một câu chuyện đầy ấm áp tại Bệnh viện Đa khoa Đồng Nai.\n\nBệnh viện vừa thực hiện thành công ca ghép thận đầu tiên tại địa phương, đánh dấu bước ngoặt lớn về kỹ thuật ngoại khoa chuyên sâu của tỉnh. Đặc biệt, người hiến tặng thận và người nhận là một cặp vợ chồng làm công nhân, từng trải qua những chuỗi ngày chiến đấu gian nan với căn bệnh suy thận.\n\nKhi biết vợ cần thận để duy trì sự sống, người chồng đã không một chút đắn đo, sẵn sàng hiến tặng một phần cơ thể mình để cứu người bạn đời. Ca mổ diễn ra an toàn, các chỉ số sau ghép đều tiến triển tích cực. Đáng mừng hơn nữa, hoàn cảnh gia đình khó khăn của hai vợ chồng đã được phía bệnh viện chia sẻ, hỗ trợ miễn toàn bộ viện phí phẫu thuật.\n\nGiữa muôn vàn áp lực cuộc sống, sự hy sinh thầm lặng của người chồng công nhân và tấm lòng nhân ái của đội ngũ y bác sĩ đã đem lại niềm tin lớn vào tình yêu thương và sự sẻ chia.\n\nCùng gửi lời chúc sức khỏe và bình an tới hai vợ chồng ở phần bình luận nhé!",
+      "hashtags": [
+        "#YTeDongNai",
+        "#CauChuyenNhanVan",
+        "#TinhNghiaVoChong",
+        "#GhepThan"
+      ],
+      "timing": "19h30–20h30 hôm nay (khung giờ vàng buổi tối, phù hợp câu chuyện cảm xúc ấm áp lan tỏa)",
+      "source_url": "https://vnexpress.net/chong-hien-than-cho-vo-trong-ca-ghep-dau-tien-o-dong-nai-5134199.html",
+      "image_file": "bai-3.jpg"
+    }
+  ],
+  "notes": "Đã chọn đủ 3 chủ đề ở 3 mảng khác biệt (An toàn/cảnh báo hóa chất, Kiến trúc đô thị/hạ tầng, và Cảm xúc/y tế nhân văn). Tất cả dữ liệu tên bệnh viện, địa danh, số tấn vòm thép và người nhập viện đều trích xuất đúng từ bài báo nguồn, không thêm thắt số liệu ngoài dữ liệu."
+}
