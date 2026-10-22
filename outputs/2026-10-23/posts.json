@@ -1,0 +1,97 @@
+{
+  "summaries": {
+    "Google Trends VN": [
+      "Từ khóa 'ofi đấu với leverkusen' dẫn đầu tìm kiếm với lượng truy cập cao (approx_traffic: 1000+)",
+      "Các từ khóa bóng đá châu Âu tăng nhiệt: 'c2' (approx_traffic: 500+), 'europa league' (approx_traffic: 200+), 'uefa europa conference' (approx_traffic: 200+)",
+      "Các câu lạc bộ Ngoại hạng Anh được chú ý: 'brighton' (approx_traffic: 500+), 'brighton vs' (approx_traffic: 200+), 'sunderland' (approx_traffic: 100+)",
+      "Nhu cầu tra cứu dự báo thời tiết duy trì với từ khóa 'weather tomorrow' (approx_traffic: 200+)",
+      "Cặp đấu quốc tế 'sturm graz đấu với marseille' ghi nhận lượt quan tâm (approx_traffic: 200+)",
+      "Câu lạc bộ bóng đá Đức 'bayer leverkusen' tiếp tục nằm trong danh sách xu hướng (approx_traffic: 100+)"
+    ],
+    "Facebook": [
+      "Cộng đồng mạng đồng loạt bày tỏ tiếc thương trước thông tin đạo diễn Nguyễn Vinh Sơn của phim kinh điển 'Đất phương Nam' qua đời ở tuổi 73",
+      "Thông tin giá xăng E10 giảm mạnh gần 2.000 đồng/lít kèm chính sách bán dưới giá trần của các doanh nghiệp thu hút lượng tương tác và bình luận rất lớn",
+      "Vụ việc Công an TP.HCM triệt phá đường dây tín dụng đen núp bóng cho thuê vàng với lãi suất hơn 500%/năm được chia sẻ rộng rãi trong các hội nhóm cảnh giác",
+      "Thông tin truy nã đặc biệt 4 phạm nhân trốn khỏi Trại giam A2 tại Khánh Hòa được cộng đồng mạng theo dõi sát sao",
+      "Dư luận bàn tán về vụ việc nam sinh hành hung cô giáo trên bục giảng tại Hà Nội gây xôn xao môi trường học đường"
+    ],
+    "TikTok": [
+      "Nhiều tài khoản chia sẻ lại trích đoạn nhạc phim và những thước phim xúc động của 'Đất phương Nam' để tri ân cố đạo diễn Nguyễn Vinh Sơn",
+      "Các video cập nhật bảng giá xăng mới tại cây xăng và hướng dẫn người dân đổ xăng nhận khuyến mại ghi nhận lượng tương tác cao",
+      "Xuất hiện các clip ngắn cảnh báo thủ đoạn tín dụng đen trá hình dưới hình thức thuê vàng, cầm đồ biến tướng để cảnh báo người trẻ"
+    ],
+    "X + Threads": [
+      "Người dùng Threads chia sẻ dòng trạng thái hoài niệm tuổi thơ gắn liền với bộ phim 'Đất phương Nam' và gửi lời vĩnh biệt cố đạo diễn",
+      "Nhiều thảo luận tích cực về tác động của đợt giảm giá xăng sâu đối với chi phí sinh hoạt và vận chuyển hàng ngày",
+      "Các bài đăng phân tích về chiêu trò 'hợp đồng thuê tài sản' để lách luật cho vay nặng lãi với lãi suất cắt cổ"
+    ]
+  },
+  "topics": [
+    {
+      "rank": 1,
+      "title": "TP.HCM triệt phá đường dây tín dụng đen núp bóng cho thuê vàng lãi suất hơn 500%/năm",
+      "reason": "Mang tính cảnh báo cộng đồng sâu sắc về thủ đoạn cho vay nặng lãi biến tướng tinh vi, được nhiều cơ quan báo chí chính thống đăng tải đồng loạt.",
+      "source_url": "https://thanhnien.vn/tphcm-triet-pha-8-diem-tin-dung-den-nup-bong-cho-thue-vang-lai-cat-co-500-nam-185261022181431574.htm"
+    },
+    {
+      "rank": 2,
+      "title": "Đạo diễn Nguyễn Vinh Sơn của phim kinh điển 'Đất phương Nam' qua đời",
+      "reason": "Đạt độ viral cảm xúc và giá trị nhân văn cao, chạm vào ký ức tuổi thơ của đông đảo khán giả nhiều thế hệ, lan tỏa mạnh mẽ trên các nền tảng.",
+      "source_url": "https://vnexpress.net/dao-dien-nguyen-vinh-son-dat-phuong-nam-qua-doi-5135737.html"
+    },
+    {
+      "rank": 3,
+      "title": "Giá xăng giảm mạnh gần 2.000 đồng/lít, doanh nghiệp tiếp tục bán dưới giá điều hành",
+      "reason": "Tin tức dân sinh thiết thực ảnh hưởng trực tiếp đến đời sống hàng ngày của toàn bộ người dân, nhận lượng chia sẻ và quan tâm lớn.",
+      "source_url": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-gan-2000-donglit-doanh-nghiep-co-dong-thai-bat-ngo-20261022210537018.htm"
+    }
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "topic_title": "TP.HCM triệt phá đường dây tín dụng đen núp bóng cho thuê vàng lãi suất hơn 500%/năm",
+      "body_markdown": "CẢNH BÁO: CHIÊU TRÒ TÍN DỤNG ĐEN NÚP BÓNG CHO THUÊ VÀNG VỚI LÃI SUẤT HƠN 500%/NĂM\n\nCông an TP.HCM vừa triệt phá 8 điểm hoạt động tín dụng đen núp bóng dưới hình thức doanh nghiệp cho thuê vàng kèm váy dự tiệc, tiến hành khởi tố và bắt tạm giam 36 đối tượng liên quan.\n\nTheo kết quả điều tra, nhóm đối tượng đã tinh vi ngụy trang các hợp đồng vay tiền thành giao dịch thuê vàng trang sức. Người vay phải chịu mức lãi suất cắt cổ lên tới hơn 500%/năm, trả lãi theo từng ngày và khi đến hạn phải hoàn trả toàn bộ số vàng hoặc quy đổi thành tiền mặt tương ứng. Đáng chú ý, các cơ sở này đặt ra nhiều quy định khắt khe, nếu người vay chậm trả sẽ bị đe dọa, đòi nợ ráo riết.\n\nCơ quan chức năng khuyến cáo người dân cần hết sức thận trọng trước các hình thức vay mượn biến tướng. Tuyệt đối không ký kết các hợp đồng thuê mượn tài sản không rõ ràng để tránh rơi vào bẫy nợ nần luẩn quẩn của các ổ nhóm tín dụng đen.\n\nHãy chia sẻ thông tin này để người thân, bạn bè nâng cao cảnh giác trước những cạm bẫy tài chính tương tự!",
+      "hashtags": [
+        "#TinNongXaHoi",
+        "#CanhBao",
+        "#TinDungDen",
+        "#PhapLuatTPHCM",
+        "#AnNinhTratTu"
+      ],
+      "timing": "15h15–15h45 hôm nay (khung giờ chiều người đi làm chuẩn bị tan ca lướt mạng, bài cảnh giác an toàn - pháp luật dễ tạo lượt chia sẻ cao cho gia đình và bạn bè)",
+      "source_url": "https://thanhnien.vn/tphcm-triet-pha-8-diem-tin-dung-den-nup-bong-cho-thue-vang-lai-cat-co-500-nam-185261022181431574.htm",
+      "image_file": "bai-1.jpg"
+    },
+    {
+      "n": 2,
+      "topic_title": "Đạo diễn Nguyễn Vinh Sơn của phim kinh điển 'Đất phương Nam' qua đời",
+      "body_markdown": "VĨNH BIỆT ĐẠO DIỄN NGUYỄN VINH SƠN: NGƯỜI THỔI HỒN VÀO BẢO CHỨNG TUỔI THƠ 'ĐẤT PHƯƠNG NAM'\n\nChiều ngày 22/10, đạo diễn, NSƯT Nguyễn Vinh Sơn - người đứng sau thành công vang dội của bộ phim truyền hình kinh điển Đất phương Nam - đã trút hơi thở cuối cùng ở tuổi 73 sau thời gian chống chọi với bạo bệnh.\n\nSự ra đi đột ngột của ông để lại niềm tiếc thương sâu sắc cho gia đình, giới làm phim và nhiều thế hệ khán giả. Trong suốt sự nghiệp nghệ thuật, đạo diễn Nguyễn Vinh Sơn đã cống hiến những tác phẩm điện ảnh, truyền hình giàu giá trị nhân văn và đậm đà bản sắc dân tộc như Đất phương Nam hay Trăng nơi đáy giếng. Nhiều nghệ sĩ gắn bó từ thuở thiếu thời như diễn viên Hùng Thuận (vai bé An) hay diễn viên Hồng Ánh đều bày tỏ sự bàng hoàng, nghẹn ngào tiễn biệt người thầy đã trao cho mình những vai diễn để đời.\n\nNhững khung hình mộc mạc, hào sảng về miền sông nước Nam Bộ cùng giai điệu Bài ca đất phương Nam sẽ mãi là di sản quý giá in sâu trong tâm khảm của người yêu nghệ thuật nước nhà.\n\nXin gửi lời chia buồn sâu sắc nhất đến gia đình cố đạo diễn Nguyễn Vinh Sơn!",
+      "hashtags": [
+        "#DaoDienNguyenVinhSon",
+        "#DatPhuongNam",
+        "#VinhBiet",
+        "#DienAnhVietNam",
+        "#TinVanHoa"
+      ],
+      "timing": "19h30–20h00 hôm nay (khung giờ vàng buổi tối, khán giả có thời gian thư giãn và cảm xúc lắng đọng, phù hợp với bài viết tri ân, hoài niệm)",
+      "source_url": "https://vnexpress.net/dao-dien-nguyen-vinh-son-dat-phuong-nam-qua-doi-5135737.html",
+      "image_file": "bai-2.jpg"
+    },
+    {
+      "n": 3,
+      "topic_title": "Giá xăng giảm mạnh gần 2.000 đồng/lít, doanh nghiệp tiếp tục bán dưới giá điều hành",
+      "body_markdown": "TIN VUI CHO NGƯỜI ĐI XE: GIÁ XĂNG GIẢM GẦN 2.000 ĐỒNG/LÍT, DOANH NGHIỆP CÒN BÁN RẺ HƠN GIÁ TRẦN\n\nTừ chiều 22/10, giá các mặt hàng xăng dầu trong nước đồng loạt ghi nhận mức giảm rất mạnh, mang lại niềm vui lớn cho người tham gia giao thông và các đơn vị vận tải.\n\nCụ thể, mỗi lít xăng E10 đã hạ hơn 1.800 đồng, kéo mức giá bán lẻ về sát ngưỡng 25.000 đồng/lít. Đáng chú ý, không dừng lại ở mức điều chỉnh của liên Bộ, nhiều doanh nghiệp đầu mối lớn như Petrolimex và PVOIL còn chủ động đưa ra chính sách khuyến mại, bán thấp hơn giá điều hành từ 300 đến 350 đồng cho mỗi lít xăng dầu. Đây là kỳ điều hành thứ hai liên tiếp xuất hiện động thái cạnh tranh giá bán lẻ có lợi trực tiếp cho người tiêu dùng.\n\nViệc giá nhiên liệu hạ nhiệt sâu được kỳ vọng sẽ góp phần giảm bớt gánh nặng chi tiêu hằng ngày cho người dân, đồng thời tạo điều kiện thuận lợi hỗ trợ các hoạt động sản xuất, vận chuyển hàng hóa dịp cuối năm.\n\nBạn đã kịp đổ đầy bình hôm nay chưa? Hãy chia sẻ ngay mức giá tại cây xăng gần nhà bạn dưới phần bình luận nhé!",
+      "hashtags": [
+        "#GiaXangGiam",
+        "#GiaXangHomNay",
+        "#KinhTeDanSinh",
+        "#ThiTruongNangLuong",
+        "#TinMoiNhat"
+      ],
+      "timing": "11h30–12h00 hôm nay (khung giờ nghỉ trưa, người dân chuẩn bị di chuyển hoặc ăn trưa có nhu cầu cập nhật giá xăng dầu để đổ xe)",
+      "source_url": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-gan-2000-donglit-doanh-nghiep-co-dong-thai-bat-ngo-20261022210537018.htm",
+      "image_file": "bai-3.jpg"
+    }
+  ],
+  "notes": "3 chủ đề được lựa chọn đại diện cho 3 mảng hoàn toàn khác nhau theo đúng tiêu chí: Pháp luật cảnh báo (Tín dụng đen vàng), Văn hóa cảm xúc (Đạo diễn Đất phương Nam qua đời) và Kinh tế dân sinh (Giá xăng giảm mạnh). Mọi chi tiết, số liệu và liên kết nguồn đều được trích xuất chính xác từ dữ liệu báo chí được cung cấp, không bịa đặt."
+}
