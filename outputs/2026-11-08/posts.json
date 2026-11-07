@@ -1,0 +1,92 @@
+{
+  "summaries": {
+    "Google Trends VN": [
+      "Trận đấu giữa Nottingham Forest và Manchester City dẫn đầu xu hướng tìm kiếm với hơn 10.000 lượt quan tâm (approx_traffic: 10000+)",
+      "Giải bóng đá vô địch quốc gia Đức (Bundesliga) thu hút lượng tìm kiếm cao (approx_traffic: 1000+)",
+      "Cặp đấu RB Leipzig gặp FC Augsburg nhận được sự quan tâm lớn từ người hâm mộ bóng đá (approx_traffic: 1000+)",
+      "Trận đấu giữa Dortmund và SV Elversberg lọt nhóm thịnh hành (approx_traffic: 500+)",
+      "Từ khóa liên quan đến Man City và các trận đấu La Liga, Serie A đồng loạt xuất hiện trong top tìm kiếm (approx_traffic: 100+ đến 200+)"
+    ],
+    "Facebook": [
+      "Cộng đồng mạng chia sẻ rầm rộ kết quả đêm chung kết Hoa hậu Việt Nam 2026 với sự đăng quang của thí sinh Nguyễn Yến Trang",
+      "Các bài đăng cập nhật công điện hỏa tốc của Thủ tướng về đợt mưa lớn diện rộng tại miền Trung nhận được nhiều lượt tương tác và cảnh báo an toàn",
+      "Khoảnh khắc chú khỉ ôm chặt lưng người đàn ông đi xe máy ở Đà Nẵng sau khi được giải cứu tạo làn sóng thả tim và bình luận tích cực",
+      "Diễn biến xét xử vụ án Mr Pips và các thảo luận xoay quanh khối tài sản tiếp tục thu hút sự quan tâm của dư luận"
+    ],
+    "TikTok": [
+      "Các đoạn clip ngắn ghi lại giây phút công bố và nhan sắc đời thường của tân Hoa hậu Việt Nam 2026 lên xu hướng nhanh chóng",
+      "Video ghi lại hình ảnh chú khỉ ôm người đi xe máy nhận được lượng tương tác cao cùng nhiều lời khen ngợi hành động nhân văn",
+      "Các video cảnh báo thời tiết, mưa ngập cục bộ tại một số địa phương miền núi được người dùng chia sẻ để theo dõi tình hình"
+    ],
+    "X + Threads": [
+      "Người dùng Threads thảo luận sôi nổi về tiêu chí chấm thi và học vấn của tân Hoa hậu sinh năm 2006",
+      "Cộng đồng theo dõi bóng đá bàn luận về lịch thi đấu giải Ngoại hạng Anh, đặc biệt là phong độ của Man City",
+      "Nhiều tài khoản chia sẻ thông tin cảnh báo mưa lũ tại khu vực miền Trung, nhắc nhở người thân chủ động ứng phó"
+    ]
+  },
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Thủ tướng ra công điện hỏa tốc ứng phó đợt mưa lớn có nơi trên 700 mm ở miền Trung",
+      "reason": "Tin tức mang tính cảnh báo an toàn cộng đồng cao, ảnh hưởng trực tiếp đến người dân 8 tỉnh thành từ đêm 8/11 đến 11/11, đạt tiêu chí bài chia sẻ phòng tránh rủi ro.",
+      "source_url": "https://thanhnien.vn/thu-tuong-yeu-cau-8-tinh-8-bo-ung-pho-mua-lon-mien-trung-185261107183855467.htm"
+    },
+    {
+      "rank": 2,
+      "title": "Nữ sinh Hà Nội Nguyễn Yến Trang đăng quang Hoa hậu Việt Nam 2026",
+      "reason": "Sự kiện văn hóa - giải trí tâm điểm vừa diễn ra tối 7/11, thu hút độ thảo luận cực lớn trên tất cả các nền tảng mạng xã hội và các báo lớn.",
+      "source_url": "https://thanhnien.vn/nguoi-dep-ha-noi-dang-quang-hoa-hau-viet-nam-2026-185261107231654103.htm"
+    },
+    {
+      "rank": 3,
+      "title": "Ấm lòng câu chuyện chú khỉ ôm chặt lưng người đàn ông đi xe máy ở Đà Nẵng",
+      "reason": "Khoảnh khắc cứu trợ động vật ấm áp, mang tính viral cảm xúc tích cực, tạo thiện cảm lớn và tương tác tự nhiên từ cộng đồng mạng.",
+      "source_url": "https://thanhnien.vn/con-khi-ngoi-sau-xe-may-om-chat-nguoi-dan-ong-chuyen-gi-da-xay-ra-185261107153957809.htm"
+    }
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "topic_title": "Thủ tướng ra công điện hỏa tốc ứng phó đợt mưa lớn có nơi trên 700 mm ở miền Trung",
+      "body_markdown": "CẢNH BÁO KHẨN: MIỀN TRUNG ĐÓN ĐỢT MƯA LỚN DIỆN RỘNG, CÓ NƠI VƯỢT 700 MM!\n\nThủ tướng Chính phủ vừa ban hành công điện hỏa tốc yêu cầu lãnh đạo 8 tỉnh, thành phố cùng 8 bộ, ngành liên quan chủ động triển khai các biện pháp ứng phó với mưa lớn, nhằm bảo vệ tính mạng và giảm thiểu thiệt hại tài sản cho nhân dân.\n\nTheo dự báo khí tượng, từ đêm 8/11 đến ngày 11/11, khu vực từ phía nam Nghệ An đến TP Đà Nẵng và phía đông các tỉnh từ Quảng Ngãi đến Đăk Lăk sẽ hứng chịu một đợt mưa lớn diện rộng. Lượng mưa phổ biến ở mức rất cao, cục bộ có nơi ghi nhận trên 700 mm. Nguy cơ xảy ra lũ quét trên các sông suối nhỏ, sạt lở đất trên các sườn dốc và ngập úng nghiêm trọng tại vùng trũng thấp là rất lớn.\n\nChính quyền các địa phương được yêu cầu rà soát kỹ các khu vực dân cư nguy hiểm, kiểm tra hệ thống đê kè, hồ đập và sẵn sàng lực lượng, phương tiện cứu hộ cứu nạn kịp thời.\n\nNgười dân khu vực ảnh hưởng hãy chủ động chằng chống nhà cửa, bảo vệ tài sản và hạn chế di chuyển qua các điểm ngập sâu, đèo dốc nguy hiểm. Chia sẻ ngay thông tin để bạn bè và người thân cùng chủ động ứng phó!",
+      "hashtags": [
+        "#TinNong",
+        "#ThoiTietMienTrung",
+        "#MuaLon",
+        "#CanhBaoMuaLu"
+      ],
+      "timing": "11h30–12h00 trưa nay (khung giờ nghỉ trưa có lưu lượng truy cập cao, kịp thời cảnh báo trước đợt mưa lớn bắt đầu từ đêm 8/11)",
+      "source_url": "https://thanhnien.vn/thu-tuong-yeu-cau-8-tinh-8-bo-ung-pho-mua-lon-mien-trung-185261107183855467.htm",
+      "image_file": "bai-1.png"
+    },
+    {
+      "n": 2,
+      "topic_title": "Nữ sinh Hà Nội Nguyễn Yến Trang đăng quang Hoa hậu Việt Nam 2026",
+      "body_markdown": "CHÍNH THỨC: NGUYỄN YẾN TRANG ĐĂNG QUANG HOA HẬU VIỆT NAM 2026!\n\nTối 7/11, đêm chung kết cuộc thi Hoa hậu Việt Nam 2026 đã diễn ra đầy cảm xúc tại quảng trường Danh Vọng, Khu du lịch quốc tế Đồi Rồng (Hải Phòng), thu hút sự theo dõi của hàng triệu khán giả cả nước.\n\nVượt qua 24 người đẹp bước vào vòng thi chung kết, thí sinh Nguyễn Yến Trang (mang số báo danh 362) đã xuất sắc chạm tay vào chiếc vương miện danh giá. Tân hoa hậu sinh năm 2006, đến từ Hà Nội, sở hữu chiều cao 1,73 m cùng gương mặt thanh tú, nụ cười rạng rỡ. Cô hiện đang là sinh viên ngành Giáo dục tiểu học tại Trường Đại học Thủ đô Hà Nội. Suốt hành trình cuộc thi, người đẹp ghi điểm nhờ sự tự tin, học vấn tốt cùng phong thái trình diễn nổi bật.\n\nBên cạnh ngôi vị cao nhất của Yến Trang, danh hiệu Á hậu 1 đã thuộc về người đẹp Trần Xuân Khánh Linh và giải Á hậu 2 gọi tên thí sinh Lê Phương Nghi.\n\nBạn cảm nhận thế nào về kết quả chung cuộc năm nay? Hãy gửi lời chúc mừng đến tân Hoa hậu Việt Nam ngay dưới phần bình luận nhé!",
+      "hashtags": [
+        "#HoaHauVietNam2026",
+        "#NguyenYenTrang",
+        "#TinGiaiTri",
+        "#ShowbizViet"
+      ],
+      "timing": "15h30–16h00 chiều nay (thời điểm người dùng văn phòng giải lao lướt tin tức giải trí, tiếp nối dư âm đêm chung kết)",
+      "source_url": "https://thanhnien.vn/nguoi-dep-ha-noi-dang-quang-hoa-hau-viet-nam-2026-185261107231654103.htm",
+      "image_file": "bai-2.jpg"
+    },
+    {
+      "n": 3,
+      "topic_title": "Ấm lòng câu chuyện chú khỉ ôm chặt lưng người đàn ông đi xe máy ở Đà Nẵng",
+      "body_markdown": "HÌNH ẢNH GÂY SỐT: CHÚ KHỈ BÁM CHẶT LƯNG NGƯỜI ĐI XE MÁY VÀ CÂU CHUYỆN ẤM LÒNG PHÍA SAU\n\nNhững giờ qua, mạng xã hội chia sẻ rầm rộ đoạn video ghi lại khoảnh khắc một chú khỉ nhỏ ngồi ngoan ngoãn phía sau, hai tay ôm ghì lấy lưng người đàn ông đang lái xe máy giữa phố tại Đà Nẵng. Hình ảnh vừa ngộ nghĩnh vừa lạ lẫm nhanh chóng thu hút hàng trăm nghìn lượt xem và thả tim.\n\nTheo chia sẻ của người trong cuộc, đằng sau khoảnh khắc đáng yêu này là một cuộc giải cứu ấm áp. Trước đó, chú khỉ này không may đi lạc vào khu dân cư và bị đàn chó vây bắt, tấn công dữ dội. Thấy vậy, người đàn ông đã kịp thời xua đuổi đàn chó để giải cứu chú khỉ bị thương. Nhận thấy con vật còn hoảng sợ nhưng rất quấn người, anh đã cẩn thận chở chú khỉ trên xe máy để đưa đến khu vực rừng an toàn trả về môi trường tự nhiên.\n\nSự tin tưởng tuyệt đối của con vật nhỏ dành cho ân nhân cứu mạng khiến người xem không khỏi xúc động trước tình cảm gắn kết kỳ diệu giữa con người và thiên nhiên.\n\nMột hành động nhỏ nhưng lan tỏa nguồn năng lượng vô cùng tích cực. Bạn có cảm nghĩ gì khi xem bức ảnh này?",
+      "hashtags": [
+        "#ChuyenAmLong",
+        "#GiaiCuuDongVat",
+        "#DaNang",
+        "#SongDep"
+      ],
+      "timing": "19h30–20h00 tối nay (khung giờ vàng buổi tối, phù hợp với các nội dung mang tính cảm xúc, nhân văn và thư giãn)",
+      "source_url": "https://thanhnien.vn/con-khi-ngoi-sau-xe-may-om-chat-nguoi-dan-ong-chuyen-gi-da-xay-ra-185261107153957809.htm",
+      "image_file": "bai-3.png"
+    }
+  ],
+  "notes": "3 chủ đề được chọn bảo đảm 3 khía cạnh khác biệt: Cảnh báo xã hội/thiên tai (Mưa lũ miền Trung), Văn hóa/Giải trí (Chung kết Hoa hậu Việt Nam) và Cảm xúc/Nhân văn (Cứu chú khỉ ở Đà Nẵng). Tất cả thông tin chi tiết và URL nguồn đều trích xuất chính xác từ dữ liệu báo chí được cung cấp."
+}
