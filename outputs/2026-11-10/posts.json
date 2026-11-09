@@ -1,0 +1,97 @@
+{
+  "summaries": {
+    "Google Trends VN": [
+      "Thời tiết Đà Nẵng dẫn đầu xu hướng tìm kiếm với hơn 5.000 lượt tra cứu do ảnh hưởng của đợt không khí lạnh và mưa lớn kéo dài diện rộng ở miền Trung.",
+      "Đội tuyển bóng đá U23 quốc gia Thái Lan ghi nhận hơn 2.000 lượt tìm kiếm trước thềm trận đấu so tài cùng U23 Việt Nam tại giải giao hữu quốc tế.",
+      "Xăng và giá nhiên liệu đạt hơn 1.000 lượt quan tâm khi xuất hiện nghịch lý giá xăng hạ nhưng giá dầu diesel và vé máy bay vẫn neo ở mức cao.",
+      "Tình hình chiến sự quốc tế tại Kyiv thu hút hơn 200 lượt tìm kiếm trong bối cảnh các nỗ lực đàm phán ngoại giao đang được thúc đẩy.",
+      "Từ khóa Câu lạc bộ bóng đá Arsenal đạt hơn 200 lượt tìm kiếm sau khi củng cố ngôi đầu bảng Ngoại hạng Anh.",
+      "Dự án Sân bay quốc tế Long Thành cùng các thông tin về hạ tầng hàng không đạt hơn 100 lượt tìm kiếm.",
+      "Lãi suất ngân hàng tiếp tục nằm trong danh sách theo dõi tài chính với hơn 100 lượt tìm kiếm trong ngày."
+    ],
+    "Facebook": [
+      "Các hội nhóm giao thông và thời tiết liên tục chia sẻ hình ảnh mưa ngập sâu ở Thanh Hóa, sập mố cầu Bái Sim và các điểm sạt lở tại Hà Tĩnh.",
+      "Cộng đồng mạng bàn tán sôi nổi về trận đại chiến giữa U23 Việt Nam và U23 Thái Lan diễn ra vào khung giờ tối tại Gia Lai.",
+      "Hình ảnh người chiến sĩ cảnh sát PCCC cõng người đàn ông thoát khỏi căn nhà cháy 4 tầng trong hẻm sâu đường Âu Cơ nhận được nhiều lời khen ngợi.",
+      "Cư dân mạng quan tâm đến vụ việc người phụ nữ trả nhầm 1,5 tỷ đồng/m2 đất đấu giá ở Ninh Bình và câu chuyện kiểm tra vé máy bay Tết."
+    ],
+    "TikTok": [
+      "Xu hướng làm video cảnh báo ngập lụt, mưa rét vùng cao miền Bắc và hình ảnh nước dâng ngang bụng tại các vùng trũng miền Trung.",
+      "Các đoạn clip ngắn điểm lại lịch sử đối đầu nảy lửa giữa bóng đá trẻ Việt Nam và Thái Lan thu hút tương tác sôi động.",
+      "Lan tỏa các clip người hùng đời thường hỗ trợ người dân vượt lũ và cứu hộ đám cháy tại các khu dân cư đông đúc."
+    ],
+    "X + Threads": [
+      "Các bài thảo luận tập trung vào sự cố quản trị và bê bối đời tư của CEO Nvidia Jensen Huang đang gây ảnh hưởng lớn tới giới công nghệ thế giới.",
+      "Người dùng chia sẻ trạng thái rét buốt đột ngột tại Hà Nội và mưa dầm ở các tỉnh miền Trung kèm lời nhắc nhở giữ ấm.",
+      "Dân ghiền thể thao tranh luận về trận cầu kịch tính 4-4 của Manchester United cũng như tương lai của ban huấn luyện."
+    ]
+  },
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Mưa lớn gây sập mố cầu Bái Sim ở Thanh Hóa, giao thông tê liệt hoàn toàn",
+      "reason": "Chủ đề thời tiết và thiên tai miền Trung đang dẫn đầu Google Trends với hơn 5.000 lượt tra cứu, có tính cảnh báo khẩn cấp và mức độ chia sẻ bảo vệ an toàn giao thông rất cao.",
+      "source_url": "https://vnexpress.net/sap-mo-cau-tren-tuyen-duong-huyet-mach-o-thanh-hoa-5142319.html"
+    },
+    {
+      "rank": 2,
+      "title": "Đại chiến U23 Việt Nam gặp U23 Thái Lan lúc 19h hôm nay",
+      "reason": "Từ khóa U23 Thái Lan đạt hơn 2.000 lượt tìm kiếm trên Google Trends, đây là sự kiện thể thao tâm điểm trong ngày thu hút đông đảo khán giả theo dõi trực tiếp.",
+      "source_url": "https://thanhnien.vn/u23-viet-nam-u23-thai-lan-19-gio-hom-nay-fpt-play-vtv6-phat-truc-tiep-dai-chien-o-pho-nui-185261109193143128.htm"
+    },
+    {
+      "rank": 3,
+      "title": "Cảnh sát cõng người đàn ông thoát khỏi đám cháy nhà 4 tầng ở TP.HCM",
+      "reason": "Câu chuyện người thật việc thật mang lại cảm xúc tích cực, hình ảnh cứu nạn kịp thời trong hẻm sâu nhận được sự đồng cảm và tương tác ấm áp từ bạn đọc mạng xã hội.",
+      "source_url": "https://dantri.com.vn/thoi-su/canh-sat-cong-nguoi-dan-ong-ra-khoi-dam-chay-nha-4-tang-o-tphcm-20261109200526896.htm"
+    }
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "topic_title": "Mưa lớn gây sập mố cầu Bái Sim ở Thanh Hóa, giao thông tê liệt hoàn toàn",
+      "body_markdown": "Cảnh báo khẩn cấp cho các bác tài và bà con đang có lộ trình di chuyển qua khu vực Nam Thanh Hóa.\n\nDo ảnh hưởng của đợt không khí lạnh kèm mưa đặc biệt lớn với lượng mưa đo được có nơi vượt 400 mm, một mố cầu Bái Sim nằm trên tuyến đường huyết mạch Nghi Sơn đi Bãi Trành đã bất ngờ bị sập. Sự cố khiến toàn bộ mặt đường tại khu vực này bị nứt gãy nghiêm trọng, giao thông qua lại hiện đã tê liệt hoàn toàn.\n\nNgay sau khi phát hiện nguy cơ mất an toàn, lực lượng chức năng tỉnh Thanh Hóa đã khẩn trương chốt chặn hai đầu cầu, cắm biển cảnh báo nguy hiểm và tiến hành phân luồng từ xa để bảo vệ an toàn cho phương tiện. Mưa lớn kéo dài cũng đang gây ngập úng hàng trăm hộ dân tại các vùng trũng thấp và làm dấy lên cảnh báo lũ quét, sạt lở đất nghiêm trọng tại nhiều địa phương miền Trung.\n\nBà con và các tài xế hãy chủ động cập nhật tình hình thời tiết, tuyệt đối tuân thủ hướng dẫn phân luồng và không cố đi qua các đoạn cầu đường xung yếu trong thời điểm này. Bạn có người thân đang di chuyển qua khu vực này không? Hãy chia sẻ ngay để mọi người cùng phòng tránh nhé!",
+      "hashtags": [
+        "#ThoiTiet",
+        "#CanhBaoMuaLu",
+        "#ThanhHoa",
+        "#GiaoThong",
+        "#TinNongXaHoi"
+      ],
+      "timing": "11h30–12h00 trưa nay (khung giờ nghỉ trưa có lưu lượng truy cập cao, kịp thời cảnh báo phương tiện lưu thông trong ngày)",
+      "source_url": "https://vnexpress.net/sap-mo-cau-tren-tuyen-duong-huyet-mach-o-thanh-hoa-5142319.html",
+      "image_file": "bai-1.webp"
+    },
+    {
+      "n": 2,
+      "topic_title": "Đại chiến U23 Việt Nam gặp U23 Thái Lan lúc 19h hôm nay",
+      "body_markdown": "19h00 tối nay, trận đại chiến rực lửa giữa U23 Việt Nam và kình địch đầy duyên nợ U23 Thái Lan sẽ chính thức khai màn tại giải giao hữu quốc tế trên sân Pleiku.\n\nĐây là màn đối đầu không chỉ mang ý nghĩa thử nghiệm đội hình mà còn là cuộc chạm trán vì niềm tự hào khu vực. Dưới sự dẫn dắt của ban huấn luyện, U23 Việt Nam đang tích cực hoàn thiện bộ khung chiến thuật tốt nhất với nhiều gương mặt trẻ triển vọng, sẵn sàng hướng đến các mục tiêu lớn trong tương lai.\n\nBên kia chiến tuyến, ban huấn luyện U23 Thái Lan cũng bày tỏ quyết tâm rất lớn khi mang đến giải đấu lực lượng mạnh nhất nhằm hướng tới đẳng cấp châu lục. Không khí bóng đá tại phố núi Gia Lai đang nóng lên từng giờ khi người hâm mộ vô cùng mong chờ màn trình diễn mãn nhãn từ cả hai đội bóng đầy duyên nợ.\n\nTrận đấu hứa hẹn sẽ mang đến những diễn biến kịch tính nghẹt thở ngay từ những phút đầu tiên. Bạn dự đoán tỷ số tối nay sẽ là bao nhiêu nghiêng về phía các chàng trai áo đỏ? Hãy để lại bình luận và tiếp lửa cho đội tuyển nhé!",
+      "hashtags": [
+        "#U23VietNam",
+        "#U23ThaiLan",
+        "#BongDaVietNam",
+        "#GiaLaiVTVCup",
+        "#TinTheThao"
+      ],
+      "timing": "16h00–16h30 chiều nay (đăng trước giờ thi đấu 2-3 tiếng để đón sóng thảo luận và nhắc lịch xem của khán giả)",
+      "source_url": "https://thanhnien.vn/u23-viet-nam-u23-thai-lan-19-gio-hom-nay-fpt-play-vtv6-phat-truc-tiep-dai-chien-o-pho-nui-185261109193143128.htm",
+      "image_file": "bai-2.jpg"
+    },
+    {
+      "n": 3,
+      "topic_title": "Cảnh sát cõng người đàn ông thoát khỏi đám cháy nhà 4 tầng ở TP.HCM",
+      "body_markdown": "Khoảnh khắc nghẹt thở nhưng ấm lòng vừa diễn ra tại một con hẻm sâu thuộc đường Âu Cơ, TP.HCM.\n\nNgọn lửa bất ngờ bùng phát dữ dội tại căn nhà 4 tầng khiến khói đen đặc bốc lên ngùn ngụt, bao trùm toàn bộ lối thoát hiểm. Bên trong căn nhà lúc này, một người đàn ông bị mắc kẹt trên tầng cao trong tình trạng hoảng loạn và nguy cơ ngạt khói tăng cao từng giây.\n\nNhận tin báo khẩn cấp, cán bộ chiến sĩ Đội chữa cháy và cứu nạn cứu hộ khu vực 11 đã lập tức tiếp cận hiện trường. Dù đám cháy nằm sâu trong hẻm hẹp gây nhiều trở ngại cho xe chuyên dụng, các chiến sĩ đã nhanh chóng kéo vòi phun, triển khai đội hình dập lửa chỉ trong 13 phút. Đặc biệt, lực lượng cứu nạn đã dũng cảm trèo lên tầng cao, cõng trực tiếp người đàn ông mắc kẹt thoát khỏi biển lửa an toàn trong sự thở phào nhẹ nhõm của bà con khu phố.\n\nHành động dũng cảm và tinh thần phản ứng nhanh nhạy của lực lượng cứu hỏa xứng đáng nhận được triệu lời khen ngợi. Xin gửi lời cảm ơn chân thành đến những người lính cứu hỏa đã luôn xông pha vì sự an toàn của người dân. Cùng gửi một lời động viên đến các chiến sĩ ở phần bình luận nhé!",
+      "hashtags": [
+        "#CuuHoa",
+        "#HanhDongDep",
+        "#TPHCM",
+        "#NguoiTotViecTot",
+        "#PCCC"
+      ],
+      "timing": "19h30–20h00 tối nay (khung giờ vàng buổi tối, phù hợp với các nội dung mang năng lượng tích cực, lan tỏa cảm xúc nhân văn)",
+      "source_url": "https://dantri.com.vn/thoi-su/canh-sat-cong-nguoi-dan-ong-ra-khoi-dam-chay-nha-4-tang-o-tphcm-20261109200526896.htm",
+      "image_file": "bai-3.jpg"
+    }
+  ],
+  "notes": "3 chủ đề được tuyển chọn đúng tiêu chí đa dạng lĩnh vực: Bài 1 về an toàn giao thông thiên tai (Thanh Hóa sập mố cầu, cảnh báo mưa lũ); Bài 2 về sự kiện thể thao cộng đồng cùng ngày (U23 Việt Nam vs U23 Thái Lan lúc 19h); Bài 3 về câu chuyện cứu nạn nhân văn xúc động (Cảnh sát cõng nạn nhân vụ cháy Âu Cơ). Tất cả source_url đều lấy trực tiếp từ dữ liệu bài viết thật."
+}
