@@ -1,0 +1,94 @@
+{
+  "summaries": {
+    "Google Trends VN": [
+      "Các trận cầu quốc tế thu hút quan tâm lớn: Trận Tây Ban Nha đấu với Anh đạt hơn 1.000 lượt tìm kiếm (approx_traffic: 1000+)",
+      "Cặp đấu Pháp gặp Thổ Nhĩ Kỳ ghi nhận hơn 1.000 lượt quan tâm (approx_traffic: 1000+)",
+      "Giải bóng rổ nhà nghề Mỹ NBA ghi nhận lượng tìm kiếm tăng cao (approx_traffic: 200+)",
+      "Huyền thoại bóng đá Ronaldinho gây chú ý trở lại với hơn 200 lượt tìm kiếm (approx_traffic: 200+)",
+      "Các cặp đấu vòng loại châu Âu gồm Croatia đấu Séc (200+), Bỉ vs Ý (200+), Albania vs (200+) đồng loạt lọt top xu hướng",
+      "Bóng đá nữ Arsenal W.F.C. đấu London nhận được sự chú ý (approx_traffic: 500+)",
+      "Phim ảnh 'Phim 100 ngày lừa dối' và từ khóa liên quan '100 day of deception' lọt bảng xếp hạng tìm kiếm (100+ đến 200+)"
+    ],
+    "Facebook": [
+      "Cộng đồng mạng chia sẻ rầm rộ thông tin không khí lạnh sắp tràn về miền Bắc giữa tuần tới và thời tiết mưa ngập cục bộ tại khu vực Nam Bộ.",
+      "Hình ảnh đáng yêu về lễ đầy tháng của ba chú chuột lang nước capybara mang tên Anh - Yêu - Em tại Thảo Cầm Viên TP.HCM nhận bão thả tim và chia sẻ tích cực.",
+      "Người dùng mạng xã hội bày tỏ quan tâm, bức xúc trước thủ đoạn nhân viên bán ô tô giả mạo tin nhắn kế toán để lừa tiền đặt cọc của khách hàng.",
+      "Tin tức thể thao về bóng đá quốc tế thời 'hậu Ronaldo', 'hậu Messi' cùng chức vô địch của U23 Việt Nam tại giải giao hữu Gia Lai được bàn luận sôi nổi."
+    ],
+    "TikTok": [
+      "Xu hướng video ghi lại cảnh du khách đội mưa ngắm ba chú capybara 'Anh Yêu Em' tại Thảo Cầm Viên đạt lượng tương tác ấm áp từ giới trẻ.",
+      "Đoạn clip xử lý bóng điêu luyện dính chặt vào chân của Ronaldinho ở tuổi 46 lan truyền nhanh chóng, nhiều tài khoản ví von như hình ảnh tạo từ trí tuệ nhân tạo.",
+      "Các video ngắn cảnh báo ngập nước, dắt xe bì bõm sau cơn mưa lớn cuối mùa tại Đồng Nai và TP.HCM thu hút hàng loạt lượt bình luận nhắc nhở lộ trình di chuyển."
+    ],
+    "X + Threads": [
+      "Chủ đề công nghệ, trí tuệ nhân tạo (AI) và câu chuyện cựu CEO Nvidia Jensen Huang tiếp tục là tâm điểm thảo luận của cộng đồng người dùng trẻ.",
+      "Nhiều tài khoản chia sẻ cảm xúc và thảo luận về các vấn đề thời tiết cực đoan chuyển mùa cuối năm.",
+      "Các ý kiến đa chiều xoay quanh màn trình diễn của các nghệ sĩ Việt trên đấu trường quốc tế và làng giải trí trong nước."
+    ]
+  },
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Miền Bắc chuẩn bị đón đợt không khí lạnh chuyển rét, vùng núi giảm nhiệt sâu",
+      "reason": "Chủ đề thời tiết dân sinh có tính cảnh báo cao, ảnh hưởng trực tiếp đến đời sống hàng triệu người dân, kích thích nhu cầu chia sẻ nhắc nhở người thân chuẩn bị áo ấm.",
+      "source_url": "https://vnexpress.net/mien-bac-don-khong-khi-lanh-chuyen-ret-giua-tuan-toi-5144835.html"
+    },
+    {
+      "rank": 2,
+      "title": "Hàng trăm người đội mưa mừng đầy tháng 3 chú chuột lang nước capybara tại Thảo Cầm Viên",
+      "reason": "Nội dung động vật mang tính chữa lành, hình ảnh tích cực dễ thương, tạo thiện cảm và tương tác tự nhiên rất mạnh trên fanpage cộng đồng.",
+      "source_url": "https://vnexpress.net/khach-doi-mua-du-day-thang-capybara-anh-yeu-em-o-thao-cam-vien-5144862.html"
+    },
+    {
+      "rank": 3,
+      "title": "Ronaldinho gây sốt mạng xã hội với pha khống chế bóng ngỡ như AI ở tuổi 46",
+      "reason": "Từ khóa lọt top tìm kiếm cao trên Google Trends VN (approx_traffic: 200+), chủ đề thể thao huyền thoại kết hợp yếu tố kinh ngạc, rất phù hợp giải trí buổi tối.",
+      "source_url": "https://vnexpress.net/ronaldinho-gay-sot-voi-pha-do-bong-nhu-san-pham-ai-5144790.html"
+    }
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "topic_title": "Miền Bắc chuẩn bị đón đợt không khí lạnh chuyển rét, vùng núi giảm nhiệt sâu",
+      "body_markdown": "KHÔNG KHÍ LẠNH SẮP TRÀN VỀ MIỀN BẮC, VÙNG NÚI CHUYỂN RÉT GIỮA TUẦN TỚI\n\nNgười dân miền Bắc chuẩn bị đón đợt giảm nhiệt rõ rệt sau những ngày thời tiết ấm áp. Theo dự báo, khu vực Bắc Bộ sẽ duy trì trạng thái nắng ấm trong hai ngày đầu tuần trước khi đón một đợt không khí lạnh mạnh từ khoảng ngày 18/11.\n\nĐợt không khí lạnh này dự kiến gây mưa giông diện rộng, nền nhiệt toàn miền giảm đáng kể. Đặc biệt, các khu vực vùng núi cao sẽ chuyển rét rõ rệt, ban đêm và sáng sớm trời rét buốt. Trong khi đó, tại khu vực phía Nam, những cơn mưa lớn cuối mùa do nhiễu động gió đông vẫn đang gây ngập cục bộ tại một số tuyến đường ở TP.HCM và Đồng Nai trước khi bước hẳn vào mùa khô.\n\nSự thay đổi thời tiết đột ngột trong giai đoạn giao mùa rất dễ gây ảnh hưởng xấu tới sức khỏe, đặc biệt là người già và trẻ nhỏ có bệnh lý hô hấp. Mọi người hãy chủ động theo dõi diễn biến thời tiết, chuẩn bị sẵn trang phục giữ ấm khi ra ngoài vào giữa tuần tới.\n\nKhu vực của bạn hiện thời tiết ra sao? Hãy cùng chia sẻ thông tin bên dưới nhé!",
+      "hashtags": [
+        "#ThoiTiet",
+        "#KhongKhiLanh",
+        "#MienBacChuyenRet",
+        "#TinNongXaHoi"
+      ],
+      "timing": "11h30–12h15 hôm nay (khung giờ nghỉ trưa, người dùng theo dõi tin thời tiết để sắp xếp sinh hoạt tuần mới)",
+      "source_url": "https://vnexpress.net/mien-bac-don-khong-khi-lanh-chuyen-ret-giua-tuan-toi-5144835.html",
+      "image_file": "bai-1.jpg"
+    },
+    {
+      "n": 2,
+      "topic_title": "Hàng trăm người đội mưa mừng đầy tháng 3 chú chuột lang nước capybara tại Thảo Cầm Viên",
+      "body_markdown": "CƯNG XỈU: HÀNG TRĂM DU KHÁCH ĐỘI MƯA ĐẾN DỰ TIỆC ĐẦY THÁNG CỦA BA CHÚ CAPYBARA \"ANH - YÊU - EM\"\n\nKhông khí sáng cuối tuần tại Thảo Cầm Viên Sài Gòn trở nên rộn ràng khác lạ khi đông đảo du khách, đặc biệt là các bạn trẻ và gia đình nhỏ, bất chấp thời tiết mưa gió để đến chung vui cùng ba bé chuột lang nước capybara siêu đáng yêu.\n\nBa chú chuột lang nước tròn một tháng tuổi được đặt tên thân thương là Anh, Yêu và Em. Dù thời tiết xuất hiện mưa rào kéo dài, khu vực chuồng nuôi vẫn chật kín người đứng chờ để tận mắt chiêm ngưỡng và chụp ảnh những 'idol giới trẻ' bốn chân. Nhiều bạn nhỏ còn hào hứng mang theo quà tặng, bánh và rau củ tươi để mừng ngày các bé tròn tháng.\n\nSự xuất hiện của bộ ba này tiếp tục tạo nên làn sóng thích thú đối với loài động vật nổi tiếng với tính cách điềm tĩnh, thân thiện. Những khoảnh khắc ngộ nghĩnh, ngơ ngác khi ăn cỏ của các chú chuột lang nước nhanh chóng lan tỏa năng lượng tích cực trên các nền tảng mạng xã hội.\n\nCuối tuần này bạn đã kịp ghé thăm ba bé Anh - Yêu - Em chưa? Tag ngay bạn bè để cùng lên lịch nhé!",
+      "hashtags": [
+        "#Capybara",
+        "#ThaoCamVien",
+        "#AnhYeuEm",
+        "#DoiSongSaiGon"
+      ],
+      "timing": "15h30–16h15 hôm nay (khung giờ chiều thư giãn, rất thích hợp đăng tải nội dung nhẹ nhàng, cảm xúc)",
+      "source_url": "https://vnexpress.net/khach-doi-mua-du-day-thang-capybara-anh-yeu-em-o-thao-cam-vien-5144862.html",
+      "image_file": "bai-2.jpg"
+    },
+    {
+      "n": 3,
+      "topic_title": "Ronaldinho gây sốt mạng xã hội với pha khống chế bóng ngỡ như AI ở tuổi 46",
+      "body_markdown": "PHONG ĐỘ LÀ NHẤT THỜI, ĐẲNG CẤP LÀ MÃI MÃI: RONALDINHO ĐỠ BÓNG NHƯ KỸ XẢO AI Ở TUỔI 46\n\nHuyền thoại bóng đá người Brazil Ronaldinho vừa khiến người hâm mộ túc cầu toàn cầu một phen dậy sóng với khoảnh khắc chạm bóng siêu thực trong buổi tập luyện mới nhất.\n\nCụ thể, trong buổi tập đầu tiên cùng câu lạc bộ Ravenna trước thềm tái xuất sân cỏ chuyên nghiệp ở tuổi 46, cựu Quả bóng vàng đã thực hiện pha đỡ bóng trên không ở độ cao ngang hông. Quả bóng chạm nhẹ rồi dính chặt vào chân một cách chuẩn xác đến mức khó tin, khiến nhiều người xem ban đầu lầm tưởng đây là sản phẩm được dựng bằng công nghệ trí tuệ nhân tạo (AI).\n\nĐoạn clip ngay lập tức tạo nên cơn sốt trên toàn cầu và lọt top thịnh hành tại Việt Nam. Dù đã bước sang sườn dốc sự nghiệp và rời xa đỉnh cao nhiều năm, cảm giác bóng tinh tế cùng kỹ thuật cá nhân đỉnh cao của 'chàng vẩu' vẫn luôn là biểu tượng ngẫu hứng không thể thay thế trong lòng người yêu bóng đá đẹp.\n\nBạn có còn nhớ những pha bóng ảo thuật nào làm nên tên tuổi của ảo thuật gia Ronaldinho? Để lại bình luận cảm xúc bên dưới nhé!",
+      "hashtags": [
+        "#Ronaldinho",
+        "#BongDaQuocTe",
+        "#TheThao24h",
+        "#R10"
+      ],
+      "timing": "19h45–20h30 hôm nay (khung giờ vàng buổi tối, phù hợp với tin tức thể thao giải trí tạo thảo luận sôi nổi)",
+      "source_url": "https://vnexpress.net/ronaldinho-gay-sot-voi-pha-do-bong-nhu-san-pham-ai-5144790.html",
+      "image_file": "bai-3.jpg"
+    }
+  ],
+  "notes": "3 bài đăng đã được phân bổ thành 3 mảng riêng biệt: Thời tiết - dân sinh (tính share cảnh báo cao), Động vật - đời sống (tính viral cảm xúc tích cực), và Thể thao quốc tế (liên kết trực tiếp từ khóa hot trên Google Trends VN). Tất cả số liệu, thời gian và địa danh đều chuẩn xác theo nguồn tin gốc."
+}
