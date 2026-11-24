@@ -1,0 +1,94 @@
+{
+  "summaries": {
+    "Google Trends VN": [
+      "Thứ hạng của Real Madrid gặp PSV dẫn đầu tuyệt đối với lượng tìm kiếm đột biến (approx_traffic: 20000+)",
+      "Trận đấu giữa Como 1907 và AEK Athens F.C. thu hút sự chú ý đáng kể (approx_traffic: 2000+)",
+      "Các trận cầu châu Âu như Slovan Bratislava gặp Real Betis ghi nhận lượt tìm kiếm cao (approx_traffic: 1000+)",
+      "Câu lạc bộ bóng đá Buriram United được tìm kiếm nhiều sau lượt trận C1 châu Á (approx_traffic: 1000+)",
+      "Cuộc đối đầu giữa Portsmouth và West Ham đạt mức quan tâm ổn định (approx_traffic: 500+)",
+      "Các từ khóa như RB Leipzig gặp RC Lens, Porto vs và sân bay ghi nhận lượng tìm kiếm từ 100+ đến 200+ (approx_traffic: 100+ đến 200+)"
+    ],
+    "Facebook": [
+      "Thông tin cập nhật về vụ nổ khí gas nghiêm trọng tại phố Nguyễn Văn Tuyết (Hà Nội) làm nhiều người thương vong khiến mạng xã hội bàng hoàng, liên tục chia sẻ cảnh báo an toàn PCCC",
+      "Hình ảnh biển người rực rỡ cờ đỏ sao vàng cùng concert Muôn sắc Việt Nam tại sân vận động Mỹ Đình và các màn pháo hoa tối 24/11 phủ sóng khắp các trang cộng đồng",
+      "Người hâm mộ bóng đá vỡ òa, chia sẻ liên tục các bài đăng chúc mừng U17 Việt Nam giành điểm số lịch sử sau trận hòa 3-3 kịch tính với New Zealand tại World Cup",
+      "Chiến thắng ấn tượng 3-1 của CLB CAHN trước Vissel Kobe (Nhật Bản) tại AFC Champions League Elite tạo nên làn sóng tự hào lớn trong giới túc cầu trong nước"
+    ],
+    "TikTok": [
+      "Xu hướng video ngắn bùng nổ với các đoạn cắt biểu diễn của nghệ sĩ tại concert quốc gia và không khí náo nức ngày Văn hóa Việt Nam",
+      "Các đoạn highlight siêu phẩm bàn thắng của Chu Ngọc Nguyễn Lực và diễn biến rượt đuổi tỷ số của U17 Việt Nam nhận lượng xem và bình luận áp đảo",
+      "Nhiều tài khoản đăng tải video hiện trường vụ nổ gas tại Hà Nội kèm các nội dung hướng dẫn kiểm tra rò rỉ khí gas tại gia đình mang tính cảnh báo cao",
+      "Trào lưu người trẻ mặc áo dài, trang phục truyền thống diễu hành và check-in các điểm bắn pháo hoa tối 24/11 thịnh hành trên trang For You"
+    ],
+    "X + Threads": [
+      "Threads ngập tràn bài viết review trải nghiệm tham dự concert 50.000 người tại Mỹ Đình cùng cảm xúc tự hào bản sắc dân tộc",
+      "Các cuộc thảo luận sâu về vấn đề an toàn phòng cháy chữa cháy, chất lượng kết cấu nhà tập thể cũ và quản lý bình gas mini sau vụ việc tại Đống Đa",
+      "Cộng đồng mạng chia sẻ góc nhìn chuyên môn về lối chơi kỷ luật, quả cảm của U17 Việt Nam và phân tích kịch bản đi tiếp vào vòng knock-out World Cup"
+    ]
+  },
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Vụ nổ khí gas tại phố Nguyễn Văn Tuyết (Hà Nội) khiến 6 người tử vong: Cảnh báo đỏ về an toàn PCCC",
+      "reason": "Sự việc đặc biệt nghiêm trọng thu hút sự chú ý lớn từ nhiều cơ quan báo chí, mang tính cảnh báo an toàn cộng đồng khẩn cấp và kích thích chia sẻ cao.",
+      "source_url": "https://dantri.com.vn/thoi-su/cong-an-xac-dinh-nguyen-nhan-vu-no-lam-6-nguoi-chet-o-ha-noi-20261124184149543.htm"
+    },
+    {
+      "rank": 2,
+      "title": "U17 Việt Nam tạo địa chấn tại U17 World Cup: Điểm số lịch sử và lời khen từ FIFA",
+      "reason": "Cột mốc tự hào của thể thao nước nhà ở giải đấu thế giới, nhận được sự công nhận từ FIFA và tạo hiệu ứng cảm xúc tích cực rất mạnh mẽ trên mạng xã hội.",
+      "source_url": "https://dantri.com.vn/the-thao/fifa-va-afc-ca-ngoi-tinh-than-chien-dau-qua-cam-cua-u17-viet-nam-20261124133913306.htm"
+    },
+    {
+      "rank": 3,
+      "title": "Gần 50.000 khán giả phủ kín sân Mỹ Đình trong concert quốc gia mừng Ngày Văn hóa Việt Nam",
+      "reason": "Sự kiện văn hóa nghệ thuật quy mô kỷ lục vừa diễn ra tối 24/11 với hiệu ứng hình ảnh đẹp mắt, gắn liền không khí pháo hoa chào mừng trên toàn quốc.",
+      "source_url": "https://vnexpress.net/gan-50-000-khan-gia-do-ve-concert-muon-sac-viet-nam-5148441.html"
+    }
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "topic_title": "Vụ nổ khí gas tại phố Nguyễn Văn Tuyết (Hà Nội) khiến 6 người tử vong: Cảnh báo đỏ về an toàn PCCC",
+      "body_markdown": "VỤ NỔ KHÍ GAS TẠI HÀ NỘI KHIẾN NHIỀU NGƯỜI THƯƠNG VONG: HỒI CHUÔNG CẢNH TỈNH VỀ AN TOÀN CHÁY NỔ KHU DÂN CƯ\n\nLiên quan đến sự cố nghiêm trọng xảy ra tại phố Nguyễn Văn Tuyết (phường Đống Đa, Hà Nội), cơ quan công an bước đầu xác định nguyên nhân do khí gas rò rỉ, gặp nguồn nhiệt gây cháy nổ. Tính đến thời điểm hiện tại, vụ việc thương tâm đã khiến 6 người tử vong và 10 người đang được điều trị, cấp cứu tích cực tại bệnh viện. Lãnh đạo Chính phủ đã trực tiếp đến thăm hỏi, chỉ đạo ngành y tế huy động mọi nguồn lực cứu chữa các nạn nhân.\n\nSức ép từ vụ nổ đã làm sụp đổ một phần căn nhà trong khu tập thể, buộc lực lượng chức năng phải khẩn trương di dời các hộ dân lân cận đến nơi an toàn. Ngay sau sự việc, công tác kiểm tra an toàn PCCC tại các cơ sở kinh doanh, tiệm tạp hóa ở nhiều địa phương cũng được đẩy mạnh, phát hiện không ít bình gas mini rỉ sét, tái sử dụng trái phép tiềm ẩn hiểm họa khôn lường.\n\nSự cố đau lòng này là bài học đắt giá cho mọi gia đình và các hộ kinh doanh ăn uống. Hãy luôn chủ động kiểm tra hệ thống dây dẫn, van an toàn bếp gas và tuyệt đối không dùng bình gas mini trôi nổi, sang chiết nhiều lần.\n\nBạn đã kiểm tra độ an toàn của hệ thống bếp gas nhà mình gần đây chưa? Hãy chia sẻ thông tin này để nhắc nhở người thân luôn cẩn trọng trong sinh hoạt thường ngày.",
+      "hashtags": [
+        "#TinNong",
+        "#HaNoi",
+        "#AnToanPCCC",
+        "#CanhBaoXaHoi"
+      ],
+      "timing": "11h30–12h15 hôm nay (khung giờ nghỉ trưa có lưu lượng đọc tin cao, bài viết mang tính cảnh báo an toàn sinh hoạt gia đình)",
+      "source_url": "https://dantri.com.vn/thoi-su/cong-an-xac-dinh-nguyen-nhan-vu-no-lam-6-nguoi-chet-o-ha-noi-20261124184149543.htm",
+      "image_file": "bai-1.jpg"
+    },
+    {
+      "n": 2,
+      "topic_title": "U17 Việt Nam tạo địa chấn tại U17 World Cup: Điểm số lịch sử và lời khen từ FIFA",
+      "body_markdown": "U17 VIỆT NAM TẠO NÊN DẤU ẤN LỊCH SỬ Ở WORLD CUP: TINH THẦN CHIẾN ĐẤU KHIẾN BẠN BÈ QUỐC TẾ KHÂM PHỤC\n\nMàn rượt đuổi tỷ số quả cảm hòa 3-3 trước U17 New Zealand tại bảng G U17 World Cup 2026 đang khiến hàng triệu người hâm mộ cả nước vỡ òa tự hào. Dù ba lần bị đối thủ vươn lên dẫn trước, các học trò của HLV Cristiano Roland vẫn kiên cường bám đuổi để mang về điểm số lịch sử cho bóng đá sân cỏ 11 người Việt Nam tại một kỳ World Cup.\n\nChứng kiến màn trình diễn này, Liên đoàn Bóng đá Thế giới (FIFA) và Liên đoàn Bóng đá Châu Á (AFC) đã đồng loạt dành lời khen ngợi tinh thần vượt khó phi thường của U17 Việt Nam. Tiền vệ Chu Ngọc Nguyễn Lực trở thành tâm điểm của truyền thông quốc tế với những pha xử lý bóng đẳng cấp cùng khả năng tạo đột biến ấn tượng trên sân cỏ.\n\nVới kết quả đáng khích lệ này, U17 Việt Nam tiếp tục nuôi hy vọng giành vé đi tiếp vào vòng knock-out 32 đội khi chuẩn bị bước vào trận quyết đấu mang tính quyết định trước đối thủ U17 Mali vào tối 26/11 tới.\n\nBạn cảm thấy thế nào về màn trình diễn quả cảm của các chiến binh sao vàng trẻ tuổi? Hãy để lại bình luận tiếp lửa cho đội tuyển trước trận đấu sống còn sắp tới.",
+      "hashtags": [
+        "#U17VietNam",
+        "#U17WorldCup",
+        "#BongDaVietNam",
+        "#TuHaoVietNam"
+      ],
+      "timing": "15h30–16h15 hôm nay (khung giờ chiều phù hợp để thảo luận thể thao, hâm nóng tinh thần trước lượt trận vòng bảng tiếp theo)",
+      "source_url": "https://dantri.com.vn/the-thao/fifa-va-afc-ca-ngoi-tinh-than-chien-dau-qua-cam-cua-u17-viet-nam-20261124133913306.htm",
+      "image_file": "bai-2.jpg"
+    },
+    {
+      "n": 3,
+      "topic_title": "Gần 50.000 khán giả phủ kín sân Mỹ Đình trong concert quốc gia mừng Ngày Văn hóa Việt Nam",
+      "body_markdown": "RỰC RỠ SẮC CỜ VÀ ÁO DÀI TRUYỀN THỐNG: GẦN 50.000 KHÁN GIẢ HÒA NHỊP TẠI CONCERT QUỐC GIA Ở SÂN MỸ ĐÌNH\n\nKhông khí Ngày Văn hóa Việt Nam 24/11 đã bùng nổ trên khắp cả nước, với điểm nhấn rực rỡ nhất là đêm nghệ thuật đặc biệt mang tên Muôn sắc Việt Nam diễn ra tại Sân vận động Quốc gia Mỹ Đình (Hà Nội).\n\nTừ chiều tối, hàng chục nghìn khán giả trong trang phục áo dài truyền thống và cờ đỏ sao vàng đã lấp kín các khán đài. Đêm diễn quy tụ nhiều nghệ sĩ hàng đầu như ca sĩ Mỹ Tâm, Tùng Dương, Tự Long, Hoàng Thùy Linh, Phương Mỹ Chi, mang đến những tiết mục hào hùng kết hợp tinh hoa văn hóa truyền thống cùng hơi thở đương đại. Chương trình khép lại bằng màn pháo hoa kéo dài 15 phút thắp sáng bầu trời Thủ đô, đồng điệu cùng những màn trình diễn pháo hoa rực rỡ tại TP.HCM và Vũng Tàu.\n\nĐêm hội không chỉ mang đến trải nghiệm nghệ thuật thị giác mãn nhãn mà còn lan tỏa sâu rộng tình yêu cội nguồn, khơi dậy niềm tự hào di sản trong lòng thế hệ trẻ hôm nay.\n\nTối qua bạn có theo dõi đêm nghệ thuật và ngắm pháo hoa không? Hãy chia sẻ khoảnh khắc đáng nhớ nhất của bạn cùng trang nhé.",
+      "hashtags": [
+        "#MuonSacVietNam",
+        "#NgayVanHoaVietNam",
+        "#MyDinh",
+        "#PhaoHoa"
+      ],
+      "timing": "19h45–20h30 hôm nay (khung giờ vàng giải trí buổi tối, người dùng lướt mạng xem hình ảnh đẹp, lan tỏa năng lượng tích cực)",
+      "source_url": "https://vnexpress.net/gan-50-000-khan-gia-do-ve-concert-muon-sac-viet-nam-5148441.html",
+      "image_file": "bai-3.webp"
+    }
+  ],
+  "notes": "3 chủ đề được lựa chọn bảo đảm tính phân hóa rõ rệt theo đúng định hướng biên tập: 1 tin an toàn/xã hội cảnh báo PCCC (vụ nổ gas), 1 tin thể thao khơi dậy niềm tự hào (U17 World Cup) và 1 tin văn hóa giải trí cộng đồng (Concert 50.000 người ở Mỹ Đình). Toàn bộ số liệu người tử vong/bị thương và các chi tiết sự kiện đều trích dẫn chính xác từ nguồn báo chí được cung cấp, không sử dụng markdown trong trường body_markdown."
+}
