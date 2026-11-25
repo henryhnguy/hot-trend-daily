@@ -1,0 +1,93 @@
+{
+  "summaries": {
+    "Google Trends VN": [
+      "Từ khóa 'mưa' dẫn đầu xu hướng tìm kiếm với lưu lượng đột biến hơn 50.000 lượt khi nhiều tỉnh miền Trung mưa lớn dồn dập và miền Bắc đón đợt không khí lạnh",
+      "Cụm từ liên quan bóng đá 'bang xep hang c1' đạt trên 2.000 lượt tìm kiếm trong bối cảnh lượt trận thứ 5 giải đấu châu Âu diễn ra",
+      "Từ khóa 'cục cảnh sát giao thông' ghi nhận hơn 2.000 lượt tìm kiếm",
+      "Từ khóa liên quan giải trẻ thế giới 'thứ hạng của đội tuyển bóng đá u-17 quốc gia úc gặp đội tuyển bóng đá u-17 quốc gia mozambique' đạt trên 1.000 lượt tìm kiếm",
+      "Nghị định 168/2024/NĐ-CP thu hút hơn 500 lượt tìm kiếm liên quan đến các chính sách mới",
+      "Các từ khóa quốc tế và nhân vật như 'c1 2026' (200+), 'bruno fernandes' (100+), 'quả bóng vàng châu âu' (100+) duy trì lượng quan tâm ổn định"
+    ],
+    "Facebook": [
+      "Cộng đồng mạng chia sẻ rầm rộ các cảnh báo thời tiết xấu, sạt lở đất tại miền Trung và ngập lụt cục bộ tại Quảng Ngãi, Huế",
+      "Nhiều hội nhóm bất động sản và cư dân bàn tán xôn xao vụ triệt phá đường dây lừa đảo hơn 150 tỷ đồng tiền cọc mua nhà ở xã hội tại TP.HCM",
+      "Cổ động viên bóng đá sôi nổi thảo luận về cơ hội đi tiếp của U17 Việt Nam trước trận quyết định gặp U17 Mali vào tối 26/11",
+      "Người dân TP.HCM hào hứng chia sẻ hình ảnh các điểm ngập quen thuộc khô ráo nhờ vận hành thử nghiệm 8 cống ngăn triều 10.000 tỷ đồng"
+    ],
+    "TikTok": [
+      "Xu hướng đăng tải các video hiện trường mưa lớn, ngập xe và sạt lở đường đèo miền Trung thu hút lượt tương tác cao",
+      "Nhiều kênh tin tức ngắn và nhà sáng tạo nội dung luật tóm tắt chiêu thức 'bẫy' mua suất kín nhà ở xã hội để nhắc nhở người theo dõi",
+      "Các clip phân tích cơ hội lịch sử của U17 Việt Nam tại giải U17 World Cup nhận được nhiều lời chúc từ người hâm mộ trẻ"
+    ],
+    "X + Threads": [
+      "Người dùng bàn luận tích cực về kết quả thi đấu vòng bảng U17 World Cup 2026 và kịch bản để đại diện Việt Nam lọt vào vòng 32 đội",
+      "Các chuỗi thảo luận chia sẻ kinh nghiệm pháp lý về quy trình nộp hồ sơ nhà ở xã hội đúng quy định pháp luật",
+      "Cộng đồng cập nhật tình hình thời tiết, chia sẻ thông tin giao thông an toàn khi di chuyển qua các tuyến quốc lộ vùng cao miền Trung"
+    ]
+  },
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Mưa lớn dồn dập tại miền Trung gây sạt lở, ngập úng nhiều nơi",
+      "reason": "Chủ đề có lưu lượng tìm kiếm số 1 trên Google Trends ('mưa' với 50.000+ lượt), xuất hiện liên tục trên nhiều báo lớn, mang tính cảnh báo an toàn cấp thiết cho cộng đồng.",
+      "source_url": "https://thanhnien.vn/5-tinh-mien-trung-mua-lon-don-dap-co-noi-tren-600-mm-18526112517273214.htm"
+    },
+    {
+      "rank": 2,
+      "title": "Bẫy lừa bán hơn 600 'suất kín' nhà ở xã hội, chiếm đoạt 150 tỷ đồng",
+      "reason": "Vụ án nghiêm trọng đánh trúng mối quan tâm thiết thực về nhà ở của người dân, mang tính cảnh báo phòng ngừa tội phạm rất cao, tạo độ lan tỏa mạnh mẽ.",
+      "source_url": "https://vnexpress.net/31-nguoi-bi-bat-trong-vu-giang-bay-mua-nha-o-xa-hoi-ly-thuong-kiet-5148699.html"
+    },
+    {
+      "rank": 3,
+      "title": "U17 Việt Nam chuẩn bị đấu U17 Mali: Chờ đợi kỳ tích tại World Cup",
+      "reason": "Sự kiện thể thao nổi bật trong ngày với khung giờ thi đấu 20h tối 26/11, đón sóng dư luận đang theo dõi sát sao hành trình lịch sử của đội tuyển U17.",
+      "source_url": "https://thanhnien.vn/u17-viet-nam-dau-u17-mali-20-gio-ngay-2611-truc-tiep-tren-fpt-play-cho-cu-soc-lon-nhat-world-cup-185261125213400191.htm"
+    }
+  ],
+  "posts": [
+    {
+      "n": 1,
+      "topic_title": "Mưa lớn dồn dập tại miền Trung gây sạt lở, ngập úng nhiều nơi",
+      "body_markdown": "CẢNH BÁO: MIỀN TRUNG ĐÓN MƯA LỚN DỒN DẬP, NHIỀU TUYẾN ĐƯỜNG ĐỐI MẶT NGUY CƠ SẠT LỞ\n\nNgười dân khu vực miền Trung cần hết sức cẩn trọng khi lưu thông và sinh hoạt trong những ngày tới.\n\nTheo dự báo thời tiết, từ chiều tối 27/11 đến sáng 30/11, 5 tỉnh miền Trung dự kiến đón đợt mưa lớn dồn dập, lượng mưa cả đợt có nơi vượt mốc 600 mm. Trước đó, mưa lớn kéo dài trong chiều tối 25/11 đã khiến nhiều tuyến đường tại trung tâm tỉnh Quảng Ngãi ngập cục bộ, nhiều phương tiện chết máy vào giờ tan tầm. \n\nTại Thừa Thiên Huế, mưa lớn đã làm đất đá sạt lở nghiêm trọng, vùi lấp mặt đường và chia cắt hoàn toàn tuyến quốc lộ 49 nối trung tâm thành phố với huyện miền núi A Lưới, khiến nhiều người dân bị mắc kẹt trên đường về nhà. Trong khi đó, không khí lạnh cũng đang khiến vùng núi cao miền Bắc có nơi rét dưới 9 độ C.\n\nTrước diễn biến phức tạp của mưa lũ và sạt lở, người dân ở vùng trũng thấp, ven sườn dốc cần chủ động các biện pháp phòng chống ngập úng, kiểm tra an toàn phương tiện và hạn chế qua lại các cung đường đèo dốc khi mưa to.\n\nHãy chia sẻ thông tin này để người thân, bạn bè đang ở miền Trung chủ động phòng tránh an toàn!",
+      "hashtags": [
+        "#TinNong",
+        "#ThoiTiet",
+        "#MuaLonMienTrung",
+        "#CanhBaoSatLo"
+      ],
+      "timing": "11h30–12h15 hôm nay (khung giờ nghỉ trưa, người dùng lướt tin tức thời tiết và an toàn giao thông)",
+      "source_url": "https://thanhnien.vn/5-tinh-mien-trung-mua-lon-don-dap-co-noi-tren-600-mm-18526112517273214.htm",
+      "image_file": "bai-1.png"
+    },
+    {
+      "n": 2,
+      "topic_title": "Bẫy lừa bán hơn 600 'suất kín' nhà ở xã hội, chiếm đoạt 150 tỷ đồng",
+      "body_markdown": "CẢNH BÁO CHIÊU TRÒ: GIẢ DANH CHỦ ĐẦU TƯ BÁN SUẤT KÍN NHÀ Ở XÃ HỘI, LỪA ĐẢO HƠN 150 TỶ ĐỒNG\n\nCơ quan chức năng vừa bóc gỡ đường dây lừa đảo tinh vi nhắm vào nhu cầu an cư của hàng trăm người dân tại TP.HCM.\n\nTheo thông tin điều tra, Công an TP.HCM đã tiến hành khởi tố, bắt giữ hàng chục đối tượng trong đường dây do Đinh Lê Hồng Quế cầm đầu. Nhóm này bị cáo buộc giả danh chủ đầu tư dự án nhà ở xã hội Lý Thường Kiệt, rao bán hơn 600 \"suất kín\", \"suất nội bộ\" và thu tiền đặt cọc của hơn 600 bị hại, qua đó chiếm đoạt tổng số tiền lên tới hơn 150 tỷ đồng.\n\nLợi dụng việc nhiều người có nhu cầu mua nhà giá rẻ nhưng muốn đi \"đường tắt\", các đối tượng đưa ra những lời hứa hẹn không có thật để dẫn dụ người mua nộp tiền cọc rồi chiếm đoạt sạch tài sản.\n\nCơ quan chức năng khuyến cáo người dân có nhu cầu mua nhà ở xã hội cần tìm hiểu kỹ thông tin trực tiếp từ cơ quan quản lý nhà nước hoặc trang chính thức của chủ đầu tư, tuyệt đối không tin theo các lời chào mời về \"suất ngoại giao\" để tránh tiền mất tật mang.\n\nBạn đã từng nghe qua các chiêu trò rao bán suất nội bộ này chưa? Hãy chia sẻ bài viết để cảnh báo người thân xung quanh!",
+      "hashtags": [
+        "#CanhBaoLuaDao",
+        "#NhaOXaHoi",
+        "#AnNinhTratTu",
+        "#PhapLuat"
+      ],
+      "timing": "15h30–16h15 hôm nay (khung giờ chiều phù hợp các bài cảnh báo pháp luật, xã hội có tính chia sẻ cao)",
+      "source_url": "https://vnexpress.net/31-nguoi-bi-bat-trong-vu-giang-bay-mua-nha-o-xa-hoi-ly-thuong-kiet-5148699.html",
+      "image_file": "bai-2.jpg"
+    },
+    {
+      "n": 3,
+      "topic_title": "U17 Việt Nam chuẩn bị đấu U17 Mali: Chờ đợi kỳ tích tại World Cup",
+      "body_markdown": "ĐÊM NAY 20H: U17 VIỆT NAM BƯỚC VÀO TRẬN ĐẤU QUYẾT ĐỊNH ĐOẠT VÉ VÒNG 32 ĐỘI WORLD CUP\n\nThầy trò HLV Cristiano Roland đang đứng trước cơ hội viết tiếp câu chuyện cổ tích tại đấu trường thế giới.\n\nVào lúc 20h00 tối nay (26/11), đội tuyển U17 Việt Nam sẽ bước vào trận đấu sinh tử gặp U17 Mali ở lượt trận cuối bảng G giải U17 World Cup 2026. Sau màn rượt đuổi tỷ số đầy cảm xúc và giành trận hòa lịch sử 3-3 trước U17 New Zealand, cánh cửa đi tiếp vào vòng 32 đội đang rộng mở nếu các chiến binh sao vàng giành được kết quả khả quan trước đối thủ châu Phi.\n\nPhát biểu trước trận đấu, HLV Cristiano Roland khẳng định tinh thần toàn đội đang rất rực lửa và sẽ chiến đấu đến cùng vì màu cờ sắc áo. Dù U17 Mali đã chắc suất đi tiếp và sở hữu thể hình, thể lực vượt trội, ban huấn luyện đội bạn vẫn tỏ ra hết sức dè chừng trước khả năng bám đuổi và lối chơi kiên cường của U17 Việt Nam.\n\nSau những bàn thắng đẹp mắt và ý chí vượt khó được FIFA đánh giá cao, người hâm mộ nước nhà hoàn toàn có quyền đặt niềm tin vào một bất ngờ lớn.\n\nCùng để lại lời chúc và dự đoán tỷ số để tiếp lửa cho các cầu thủ trẻ U17 Việt Nam tối nay!",
+      "hashtags": [
+        "#U17VietNam",
+        "#U17WorldCup",
+        "#BongDaVietNam",
+        "#LichThiDau"
+      ],
+      "timing": "17h30–18h30 hôm nay (đón sóng trước trận đấu diễn ra lúc 20h00 tối 26/11)",
+      "source_url": "https://thanhnien.vn/u17-viet-nam-dau-u17-mali-20-gio-ngay-2611-truc-tiep-tren-fpt-play-cho-cu-soc-lon-nhat-world-cup-185261125213400191.htm",
+      "image_file": "bai-3.jpg"
+    }
+  ],
+  "notes": "3 chủ đề được chọn đại diện cho 3 mảng hoàn toàn khác nhau: Thời tiết/Cảnh báo thiên tai (khớp keyword top 1 'mưa'), Pháp lý/Cảnh báo lừa đảo (vụ án 150 tỷ đồng mua nhà ở xã hội) và Thể thao/Sự kiện trực tiếp trong ngày (trận đấu U17 Việt Nam lúc 20h tối). Khung giờ đăng bài được tính toán hợp lý nhằm tối ưu tương tác trước giờ thi đấu và bảo đảm đúng quy chuẩn văn phong tin tức xã hội an toàn."
+}
